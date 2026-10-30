@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase that? I couldn\u2019t make out your request.",
+ "usage": {
+  "input_tokens": 10010,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 66,
+  "reasoning_output_tokens": 46
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.2,
+ "config": "astra-high",
+ "model": "gpt-6-astra",
+ "effort": "high",
+ "item": "moon-L08"
+}

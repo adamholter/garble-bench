@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend or clarify your message?",
+ "usage": {
+  "input_tokens": 10068,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 169,
+  "reasoning_output_tokens": 155
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 38.9,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "mona-L08"
+}

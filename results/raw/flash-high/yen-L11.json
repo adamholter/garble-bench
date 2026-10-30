@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be corrupted, encoded, or accidentally scrambled:\n\n```text\n3ahy7zje\\noa.d /or f5h3r uucr\\5fcp ysud1i5Ypaqj\n```\n\nCould you please clarify what you need help with or resend your request?\n",
+ "usage": {
+  "input_tokens": 6990,
+  "output_tokens": 5922,
+  "reasoning_output_tokens": 2926
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.3,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "yen-L11"
+}

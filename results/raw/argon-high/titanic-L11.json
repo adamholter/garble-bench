@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been sent by mistake or garbled (`2jq thae nidd.hehG58s aishl`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 434,
+  "reasoning_output_tokens": 194
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.8,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "titanic-L11"
+}

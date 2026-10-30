@@ -1,0 +1,17 @@
+{
+ "response": "The main language spoken in **Brazil is Portuguese**, the country\u2019s official language. Indigenous languages and languages such as German, Italian, and Japanese are also spoken in some communities.",
+ "usage": {
+  "input_tokens": 10073,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 171,
+  "reasoning_output_tokens": 130
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.0,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "brazil-L04"
+}

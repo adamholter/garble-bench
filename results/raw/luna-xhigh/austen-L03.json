@@ -1,0 +1,17 @@
+{
+ "response": "*Pride and Prejudice* was written by Jane Austen.",
+ "usage": {
+  "input_tokens": 9378,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 47,
+  "reasoning_output_tokens": 28
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.3,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "austen-L03"
+}

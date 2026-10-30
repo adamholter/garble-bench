@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean. Could you resend your message?",
+ "usage": {
+  "input_tokens": 9380,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 317,
+  "reasoning_output_tokens": 297
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 41.1,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "hexagon-L11"
+}

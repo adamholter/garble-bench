@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make sense of that message. Could you rephrase or resend it?",
+ "usage": {
+  "input_tokens": 10062,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 93,
+  "reasoning_output_tokens": 70
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.7,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "brazil-L07"
+}

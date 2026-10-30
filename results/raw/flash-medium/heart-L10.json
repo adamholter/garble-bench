@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been sent accidentally or got scrambled. \n\nHow can I help you today? Please feel free to share your question or what you'd like to work on!\n",
+ "usage": {
+  "input_tokens": 7006,
+  "output_tokens": 3350,
+  "reasoning_output_tokens": 1655
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.9,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "heart-L10"
+}

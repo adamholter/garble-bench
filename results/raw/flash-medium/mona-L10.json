@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have contained a typo or unintended keystrokes. \n\nHow can I help you today? Please feel free to rephrase or let me know what you'd like to work on!\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 272,
+  "reasoning_output_tokens": 114
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.1,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "mona-L10"
+}

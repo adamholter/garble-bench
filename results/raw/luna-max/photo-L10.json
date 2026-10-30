@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t parse that as written. Is it an encoded message you want me to decode, or did you mean to send something else?",
+ "usage": {
+  "input_tokens": 9389,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1586,
+  "reasoning_output_tokens": 1552
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.2,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "photo-L10"
+}

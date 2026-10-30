@@ -1,0 +1,15 @@
+{
+ "response": "You have **6** apples left (3 + 5 - 2 = 6).\n",
+ "usage": {
+  "input_tokens": 2183,
+  "output_tokens": 209,
+  "reasoning_output_tokens": 93
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.3,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "apples-L03"
+}

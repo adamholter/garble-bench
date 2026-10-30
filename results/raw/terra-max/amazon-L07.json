@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make sense of that message. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 509,
+  "reasoning_output_tokens": 488
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 47.7,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "amazon-L07"
+}

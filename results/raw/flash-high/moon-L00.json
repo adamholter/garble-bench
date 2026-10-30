@@ -1,0 +1,15 @@
+{
+ "response": "The first person to walk on the moon was **Neil Armstrong**, during NASA's Apollo 11 mission on July 20, 1969.\n",
+ "usage": {
+  "input_tokens": 6967,
+  "output_tokens": 402,
+  "reasoning_output_tokens": 184
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.9,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "moon-L00"
+}

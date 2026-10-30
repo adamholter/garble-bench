@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been typed accidentally or got scrambled (`w-ohq sht4jsrt9oosn983xl\\notwd 'mx0nf`). \n\nCould you please clarify or let me know what you'd like to work on?\n",
+ "usage": {
+  "input_tokens": 6977,
+  "output_tokens": 936,
+  "reasoning_output_tokens": 440
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "moon-L11"
+}

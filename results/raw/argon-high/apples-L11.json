@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled or random characters. Could you please clarify or resend what you would like help with?\n",
+ "usage": {
+  "input_tokens": 7017,
+  "output_tokens": 31219,
+  "reasoning_output_tokens": 15594
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 178.2,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "apples-L11"
+}

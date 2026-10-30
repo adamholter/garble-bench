@@ -1,0 +1,17 @@
+{
+ "response": "If you mean the square root of 2: **\u221a2 \u2248 1.41421356237**.",
+ "usage": {
+  "input_tokens": 10052,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 312,
+  "reasoning_output_tokens": 282
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 42.7,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "sqrt-L06"
+}

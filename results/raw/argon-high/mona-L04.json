@@ -1,0 +1,15 @@
+{
+ "response": "The *Mona Lisa* was painted by **Leonardo da Vinci** in the early 16th century (begun around 1503).\n",
+ "usage": {
+  "input_tokens": 7001,
+  "output_tokens": 540,
+  "reasoning_output_tokens": 252
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.2,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "mona-L04"
+}

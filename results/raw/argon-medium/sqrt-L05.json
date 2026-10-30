@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you meant **\"What is the square root of 14?\"** (with `r` right below `4` on the keyboard):\n\n* **$\\sqrt{14} \\approx 3.7416573868$** (an irrational number)\n\n*(If you meant **1**, the square root of $1$ is **$1$**.)*\n",
+ "usage": {
+  "input_tokens": 6980,
+  "output_tokens": 372,
+  "reasoning_output_tokens": 143
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.6,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "sqrt-L05"
+}

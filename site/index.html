@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GarbleBench · how well do AI models read questions full of typos?</title>
+<meta name="description" content="How many typos can an AI model take before it stops understanding the question? 24 questions, 12 corruption rates, GPT and Gemini at every reasoning effort.">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#efebe4">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Schibsted+Grotesk:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="top">
+  <a class="mark" href="#top">Garble<em>Bench</em></a>
+  <div class="links">
+    <a href="#standings">Standings</a><a href="#breaks">Breakpoints</a><a href="#phases">Phases</a><a href="#effort">Effort</a><a href="#proofs">Proofs</a><a href="#method">Method</a>
+  </div>
+  <a class="btn red small" href="#proofs">Read the replies →</a>
+</nav>
+
+<main id="top">
+  <header class="hero">
+    <div class="hero-text">
+      <p class="eyebrow">AI evaluation <span>/</span> typos <span>/</span> robustness</p>
+      <h1 class="shred-text">Garble<em>Bench</em></h1>
+      <p class="sub">How well do AI models understand questions with typos?</p>
+      <p class="lede decay" data-max="0.06">24 plain questions, each corrupted at 12 rates from clean to fully mangled: neighbouring-key typos, dropped letters, stray characters, swapped pairs, lost punctuation. Every prompt goes to a fresh agent session with nothing else in it. Idea by <a href="https://x.com/MattOfMisk" target="_blank" rel="noopener">Matthew Miskiewicz</a>.</p>
+      <div class="cta">
+        <a class="btn red" href="#standings">View standings →</a>
+        <a class="btn ghost" href="#method">How it works</a>
+      </div>
+      <dl class="stats" id="stats"></dl>
+    </div>
+    <figure class="hero-fig shred-img">
+      <img src="img/hero.jpg" alt="Rotor assembly of an Enigma cipher machine" onerror="this.closest('figure').classList.add('noimg')">
+      <figcaption class="side-note">Same<br>meaning<br>different<br>surface</figcaption>
+    </figure>
+  </header>
+
+  <section class="strip-wrap" aria-label="One question at every corruption rate">
+    <div class="strip-head"><span>One question, twelve rates</span><span id="strip-q"></span></div>
+    <div class="strip" id="strip"></div>
+  </section>
+
+  <section class="block" id="standings">
+    <div class="sec-head">
+      <span class="num">01</span>
+      <div>
+        <p class="eyebrow">Standings</p>
+        <h2 class="shred-text">Who reads through the noise</h2>
+      </div>
+    </div>
+    <p class="lede decay" data-max="0.1"><b>Tolerance</b> is the area under the accuracy curve from 0 to 100% corruption. <b>Breaks at</b> is the corruption rate where accuracy first falls below half. The phase strip shows what each run did at every rate, clean on the left.</p>
+    <div class="filters" id="board-filter"></div>
+    <div class="table-wrap"><table id="board"></table></div>
+    <div class="legend" id="legend"></div>
+    <div id="pending"></div>
+  </section>
+
+  <section class="block" id="breaks">
+    <div class="sec-head">
+      <span class="num">02</span>
+      <div>
+        <p class="eyebrow">Breakpoints</p>
+        <h2 class="shred-text">Where reading gives out</h2>
+      </div>
+    </div>
+    <p class="lede decay" data-max="0.14">Share of the 24 questions answered correctly at each corruption rate. Ticks on the dashed line mark each model's breaking point.</p>
+    <div class="filters"><div class="chips" id="curve-effort"></div></div>
+    <div class="chart" id="curve"></div>
+  </section>
+
+  <section class="block" id="phases">
+    <div class="sec-head">
+      <span class="num">03</span>
+      <div>
+        <p class="eyebrow">Phases</p>
+        <h2 class="shred-text">Answer, ask, or give up</h2>
+      </div>
+    </div>
+    <p class="lede decay" data-max="0.18">Matthew's guess: first the model just answers, then it starts asking "did you mean…?", then it stops recognising anything. Here is what each model did as the text fell apart.</p>
+    <div class="filters"><div class="chips" id="phase-effort"></div></div>
+    <div class="multiples" id="phase-charts"></div>
+  </section>
+
+  <section class="block" id="effort">
+    <div class="sec-head">
+      <span class="num">04</span>
+      <div>
+        <p class="eyebrow">Reasoning effort</p>
+        <h2 class="shred-text">Does thinking harder help?</h2>
+      </div>
+    </div>
+    <p class="lede decay" data-max="0.2">Tolerance at each reasoning effort. A flat line means the extra thinking bought nothing.</p>
+    <div class="chart" id="effort-chart"></div>
+  </section>
+
+  <section class="block" id="proofs">
+    <div class="sec-head">
+      <span class="num">05</span>
+      <div>
+        <p class="eyebrow">Proofs</p>
+        <h2 class="shred-text">Read what they said back</h2>
+      </div>
+    </div>
+    <p class="lede decay" data-max="0.2">Pick a question, turn the rotor, and read every reply. Red marks the characters that are not in the original.</p>
+    <div class="chips small" id="spec-q"></div>
+    <div class="rotor-ctl">
+      <span class="lbl">Corruption</span>
+      <button class="rot-btn" id="rot-down" type="button" aria-label="Less corruption">‹</button>
+      <div class="rotor" id="rotor" role="slider" tabindex="0" aria-label="Corruption rate" aria-valuemin="0" aria-valuemax="11"></div>
+      <button class="rot-btn" id="rot-up" type="button" aria-label="More corruption">›</button>
+      <output id="spec-rate"></output>
+    </div>
+    <div class="spec-prompt" id="spec-prompt"></div>
+    <div class="spec-orig" id="spec-orig"></div>
+    <div class="filters"><div class="chips small" id="spec-effort"></div></div>
+    <div class="cards" id="cards"></div>
+  </section>
+
+  <section class="block method" id="method">
+    <div class="sec-head">
+      <span class="num">06</span>
+      <div>
+        <p class="eyebrow">Method</p>
+        <h2 class="shred-text">How it was set up</h2>
+      </div>
+    </div>
+    <div class="cols">
+      <p class="decay" data-max="0.22">Each question has one short, fixed answer: capitals, authors, dates, small sums. Every character gets one random draw. At rate r, a character whose draw is under r is corrupted: a neighbouring key (36%), dropped (26%), a stray character added after it (22%) or swapped with the next one (16%). Punctuation and capitals go faster, at 2.5r and 2r.</p>
+      <p class="decay" data-max="0.24">Corruption is nested. The 40% version keeps every error from the 30% version and adds more, so a curve shows where reading gives out, not the luck of the draw. GPT prompts go to <code>codex exec</code> with shell, web search, plugins and memories off. Gemini prompts go to Antigravity <code>agy -p</code> with a clean home folder; it has no switch to turn tools off, so its rules file says no tools are available and a deny list blocks any call. An earlier Gemini pass without that let Argon write Python to unscramble keyboard layouts. It was thrown out.</p>
+      <p class="decay" data-max="0.26">Grading is blind. GPT-6 Luna judges batches of 40 shuffled replies against the original question and answer. Correct means the main answer is right; listing it as one guess among several does not count. No partial credit. Behaviour is one of answered, confirmed (answered and asked "did you mean"), guessed (offered readings, no answer) and lost (asked to rephrase).</p>
+    </div>
+  </section>
+
+  <section class="materials shred-img" aria-label="Machine details">
+    <figure><img src="img/rotor-ring.jpg" alt="Rotor letter ring" loading="lazy"><figcaption>Rotor ring</figcaption></figure>
+    <figure><img src="img/plugboard.jpg" alt="Plugboard cables" loading="lazy"><figcaption>Plugboard</figcaption></figure>
+    <figure><img src="img/lamp.jpg" alt="Lit glass letter lamp" loading="lazy"><figcaption>Lamp</figcaption></figure>
+  </section>
+
+  <footer class="foot">
+    <span class="mark">Garble<em>Bench</em></span>
+    <p class="decay" data-max="0.12">Hover any paragraph to decipher it. Hold the rotors to stop the page scrambling.</p>
+  </footer>
+</main>
+
+<aside class="readout" aria-label="Page scramble">
+  <div class="windows" id="windows" aria-hidden="true"><span>A</span><span>A</span><span>A</span></div>
+  <div class="ro-text"><span>Garble</span><b id="ro-pct">0%</b></div>
+  <button id="hold" type="button" aria-pressed="false">Hold</button>
+</aside>
+<div id="tip" role="tooltip"></div>
+<script src="app.js"></script>
+</body>
+</html>

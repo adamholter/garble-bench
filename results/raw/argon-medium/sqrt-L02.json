@@ -1,0 +1,15 @@
+{
+ "response": "The principal square root of 144 is **12** (since $12 \\times 12 = 144$). \n\nIf considering both positive and negative roots, the solutions are **12** and **-12**.\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 57,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.8,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "sqrt-L02"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking for the square root of 1, it\u2019s **1**. Both 1 and \u22121 square to 1.\n\nIf you meant something else, could you rephrase your question?",
+ "usage": {
+  "input_tokens": 10002,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1871,
+  "reasoning_output_tokens": 1823
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 47.0,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "sqrt-L05"
+}

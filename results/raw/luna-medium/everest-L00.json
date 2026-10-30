@@ -1,0 +1,17 @@
+{
+ "response": "Mount Everest, at about 8,849 meters (29,032 feet) above sea level.",
+ "usage": {
+  "input_tokens": 9374,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 24,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.9,
+ "config": "luna-medium",
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "item": "everest-L00"
+}

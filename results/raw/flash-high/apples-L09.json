@@ -1,0 +1,15 @@
+{
+ "response": "Decoded message:\n\n> **\"If Karen has 8 apples and gives John two, how many apples does she have left?\"**\n\n---\n\n### Solution\n\n* **Initial apples:** 8\n* **Apples given away:** 2\n\n$$8 - 2 = 6$$\n\nShe has **6** apples left.\n",
+ "usage": {
+  "input_tokens": 7005,
+  "output_tokens": 96650,
+  "reasoning_output_tokens": 48290
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 370.6,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "apples-L09"
+}

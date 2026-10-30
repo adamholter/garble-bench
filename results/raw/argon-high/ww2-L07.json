@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed by mistake or garbled (`niba tyderxSlw;w4Ji ned`). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6990,
+  "output_tokens": 1439,
+  "reasoning_output_tokens": 700
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.9,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "ww2-L07"
+}

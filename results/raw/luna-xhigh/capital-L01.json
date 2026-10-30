@@ -1,0 +1,17 @@
+{
+ "response": "Canberra.",
+ "usage": {
+  "input_tokens": 9370,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 25,
+  "reasoning_output_tokens": 16
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.3,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "capital-L01"
+}

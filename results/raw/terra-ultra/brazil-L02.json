@@ -1,0 +1,17 @@
+{
+ "response": "The main language spoken in Brazil is **Portuguese**, specifically Brazilian Portuguese. It is also the country\u2019s official language.",
+ "usage": {
+  "input_tokens": 10054,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 57,
+  "reasoning_output_tokens": 27
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.3,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "brazil-L02"
+}

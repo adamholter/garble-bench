@@ -1,0 +1,15 @@
+{
+ "response": "The first person to walk on the Moon was **Neil Armstrong**. \n\nHe stepped onto the lunar surface on **July 20, 1969**, during NASA's **Apollo 11** mission, famously declaring: *\"That's one small step for [a] man, one giant leap for mankind.\"*\n",
+ "usage": {
+  "input_tokens": 6969,
+  "output_tokens": 469,
+  "reasoning_output_tokens": 200
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "moon-L02"
+}

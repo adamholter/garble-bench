@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking who first walked on the Moon, it was **Neil Armstrong**, on July 20, 1969. If I misunderstood, please rephrase your question.",
+ "usage": {
+  "input_tokens": 10010,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 792,
+  "reasoning_output_tokens": 750
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.8,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "moon-L08"
+}

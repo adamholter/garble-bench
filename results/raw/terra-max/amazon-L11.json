@@ -1,0 +1,17 @@
+{
+ "response": "Your message appears garbled. Could you resend what you\u2019d like me to do?",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 288,
+  "reasoning_output_tokens": 265
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.0,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "amazon-L11"
+}

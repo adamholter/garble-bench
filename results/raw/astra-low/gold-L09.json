@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend your message? I couldn\u2019t understand it.",
+ "usage": {
+  "input_tokens": 10017,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 16,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.8,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "gold-L09"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled, mistyped, or encoded:\n\n> `3h]abttiw 06h4chekihdla siy,lodrog/ol,d=bhte4roiidc mabif`\n\nCould you please clarify or rephrase what you'd like assistance with?\n",
+ "usage": {
+  "input_tokens": 6986,
+  "output_tokens": 68,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.5,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "gold-L09"
+}

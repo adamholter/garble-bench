@@ -1,0 +1,15 @@
+{
+ "response": "The **heart**. \n\nIt acts as a muscular pump that circulates blood throughout the body via arteries (which carry oxygenated blood away from the heart) and veins (which return deoxygenated blood back to it).\n",
+ "usage": {
+  "input_tokens": 2051,
+  "output_tokens": 851,
+  "reasoning_output_tokens": 403
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.8,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "heart-L05"
+}

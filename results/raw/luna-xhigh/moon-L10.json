@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make sense of that message. Could you resend it?",
+ "usage": {
+  "input_tokens": 9381,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 482,
+  "reasoning_output_tokens": 462
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 36.1,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "moon-L10"
+}

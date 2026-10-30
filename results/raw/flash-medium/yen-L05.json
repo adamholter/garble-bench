@@ -1,0 +1,15 @@
+{
+ "response": "Assuming your message asks, *\"What's the name of the currently used model?\"*, the model currently in use is **Gemini 3.8 Flash**.\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 4873,
+  "reasoning_output_tokens": 2420
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.1,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "yen-L05"
+}

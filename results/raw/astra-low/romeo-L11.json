@@ -1,0 +1,17 @@
+{
+ "response": "What would you like me to do with this string?",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 15,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.3,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "romeo-L11"
+}

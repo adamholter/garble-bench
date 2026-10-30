@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t parse that message. What would you like me to do with it?",
+ "usage": {
+  "input_tokens": 9401,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 682,
+  "reasoning_output_tokens": 659
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.1,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "heart-L07"
+}

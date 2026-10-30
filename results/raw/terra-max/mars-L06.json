@@ -1,0 +1,20 @@
+{
+ "response": "I couldn\u2019t understand your message, and I don\u2019t have a tool to inspect the workspace here. Could you rephrase what you\u2019d like me to do?",
+ "usage": {
+  "input_tokens": 66239,
+  "cached_input_tokens": 59904,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 785,
+  "reasoning_output_tokens": 563
+ },
+ "error": "",
+ "tools": [
+  "mcp:codex/list_mcp_resources",
+  "mcp:codex/list_mcp_resource_templates"
+ ],
+ "seconds": 40.0,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "mars-L06"
+}

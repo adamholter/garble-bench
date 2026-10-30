@@ -1,0 +1,15 @@
+{
+ "response": "Decoded, your question asks: **\"What are some major languages spoken in Brazil?\"**\n\nHere are the primary and notable languages spoken in Brazil:\n\n---\n\n### 1. Official and National Language\n* **Portuguese:** Spoken by over 98% of the population. Brazil is the only Portuguese-speaking country in the Americas. **Brazilian Portuguese** differs slightly in pronunciation, vocabulary, and grammar from European Portuguese.\n\n---\n\n### 2. Officially Recognized Sign Language\n* **Libras (L\u00edngua Brasileira de Sinais):** Officially recognized by federal law since 2002 as a legal means of communication in educational and institutional contexts.\n\n---\n\n### 3. Indigenous Languages\nThere are around 150 to 200 living indigenous languages in Brazil, primarily belonging to families such as Tupi, Macro-J\u00ea, and Arawakan. Some of the most notable include:\n* **Ticuna:** One of the most widely spoken indigenous languages in the Brazilian Amazon.\n* **Guarani (Kaiow\u00e1, Mby\u00e1, Nhandeva):** Spoken across southern and central-western Brazil (and neighboring countries).\n* **Nheengatu (L\u00edngua Geral Amaz\u00f4nica):** Derived from Tupinamb\u00e1, it served as a lingua franca for centuries and is a co-official language in several municipalities (e.g., S\u00e3o Gabriel da Cachoeira).\n* **Other prominent groups:** Yanomami, Kaingang, Terena, Tucano, and Baniwa.\n\n---\n\n### 4. Immigrant and Heritage Languages\nDue to large waves of immigration, particularly in the 19th and 20th centuries, several heritage dialects are preserved in southern and southeastern Brazil, often holding co-official municipal status:\n* **German dialects:** \n  * **Hunsrik (Riograndenser Hunsr\u00fcckisch):** Widely spoken across rural parts of Rio Grande do Sul and Santa Catarina.\n  * **Pomeranian (Pomerano):** Preserved in communities in Esp\u00edrito Santo, Santa Catarina, and Rio Grande do Sul.\n* **Italian dialects:**\n  * **Talian (Veneto Brasileiro):** Based on the Venetian language, spoken in the Serra Ga\u00facha wine region and officially recognized as Brazilian cultural heritage.\n* **Japanese:** Brazil is home to the largest Japanese community outside Japan, concentrated mainly in S\u00e3o Paulo and Paran\u00e1.\n* **Other communities:** Spanish, Arabic, Polish, Ukrainian, and Korean.\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 1950,
+  "reasoning_output_tokens": 711
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.7,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "brazil-L04"
+}

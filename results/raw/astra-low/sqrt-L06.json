@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat is the square root of 2?\u201d: **\u221a2 \u2248 1.41421356**.",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 72,
+  "reasoning_output_tokens": 39
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.7,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "sqrt-L06"
+}

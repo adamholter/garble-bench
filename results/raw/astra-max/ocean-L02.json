@@ -1,0 +1,17 @@
+{
+ "response": "The **Pacific Ocean** is the largest ocean on Earth.",
+ "usage": {
+  "input_tokens": 10002,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 68,
+  "reasoning_output_tokens": 50
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.9,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "ocean-L02"
+}

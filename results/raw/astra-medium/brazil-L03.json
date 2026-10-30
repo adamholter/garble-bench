@@ -1,0 +1,17 @@
+{
+ "response": "Portuguese is the main and official language spoken in Brazil. Most people speak Brazilian Portuguese.",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 65,
+  "reasoning_output_tokens": 41
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.4,
+ "config": "astra-medium",
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "item": "brazil-L03"
+}

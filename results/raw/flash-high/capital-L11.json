@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be scrambled or corrupted (`Aahl s5ehxaxlizat/icry=0uasv65.s`). \n\nCould you please clarify or rephrase what you would like assistance with?\n",
+ "usage": {
+  "input_tokens": 6972,
+  "output_tokens": 3472,
+  "reasoning_output_tokens": 1712
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "capital-L11"
+}

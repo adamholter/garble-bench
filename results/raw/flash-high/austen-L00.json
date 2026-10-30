@@ -1,0 +1,15 @@
+{
+ "response": "The novel *Pride and Prejudice* was written by **Jane Austen**. It was first published in 1813.\n",
+ "usage": {
+  "input_tokens": 6971,
+  "output_tokens": 289,
+  "reasoning_output_tokens": 132
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.4,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "austen-L00"
+}

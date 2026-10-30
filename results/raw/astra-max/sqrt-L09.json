@@ -1,0 +1,17 @@
+{
+ "response": "What would you like me to do with that text?",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 181,
+  "reasoning_output_tokens": 164
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 59.4,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "sqrt-L09"
+}

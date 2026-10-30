@@ -1,0 +1,17 @@
+{
+ "response": "World War II ended in **1945**.",
+ "usage": {
+  "input_tokens": 10048,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 14,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.2,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "ww2-L00"
+}

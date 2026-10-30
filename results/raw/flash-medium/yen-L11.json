@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled or contained a typo. \n\nCould you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6990,
+  "output_tokens": 232,
+  "reasoning_output_tokens": 102
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.4,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "yen-L11"
+}

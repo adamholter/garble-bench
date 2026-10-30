@@ -1,0 +1,17 @@
+{
+ "response": "If you mean the speed of light in a vacuum: **299,792.458 kilometres per second**.",
+ "usage": {
+  "input_tokens": 10018,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1016,
+  "reasoning_output_tokens": 988
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 65.5,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "speed-L06"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat language is mainly spoken in Brazil?\u201d\u2014it\u2019s **Portuguese**, Brazil\u2019s official language and the language spoken by nearly everyone. Indigenous languages and some immigrant languages are also spoken.",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 69,
+  "reasoning_output_tokens": 22
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.2,
+ "config": "astra-medium",
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "item": "brazil-L04"
+}

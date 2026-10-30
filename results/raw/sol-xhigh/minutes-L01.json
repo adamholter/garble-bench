@@ -1,0 +1,17 @@
+{
+ "response": "There are **1,440 minutes** in one full day (24 \u00d7 60).",
+ "usage": {
+  "input_tokens": 10065,
+  "cached_input_tokens": 3328,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 77,
+  "reasoning_output_tokens": 53
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.3,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "minutes-L01"
+}

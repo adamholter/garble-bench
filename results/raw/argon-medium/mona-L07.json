@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or sent by mistake (`A o0an~rekdf5hy em.q Oxz`). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 41,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.3,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "mona-L07"
+}

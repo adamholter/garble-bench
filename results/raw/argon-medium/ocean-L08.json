@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or mistyped (`baishteawffemx4 keca no' aeatrh`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2144,
+  "output_tokens": 223,
+  "reasoning_output_tokens": 89
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.9,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "ocean-L08"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been typed accidentally or contains scrambled text.\n\nCould you please clarify what you need assistance with or resend your request?\n",
+ "usage": {
+  "input_tokens": 7006,
+  "output_tokens": 3143,
+  "reasoning_output_tokens": 1556
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.7,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "heart-L10"
+}

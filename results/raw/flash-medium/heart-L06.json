@@ -1,0 +1,15 @@
+{
+ "response": "The **heart**.\n\nDecoded question:\n> *\"Which organ in the human body pumps blood through the veins and arteries?\"*\n",
+ "usage": {
+  "input_tokens": 7000,
+  "output_tokens": 2519,
+  "reasoning_output_tokens": 1246
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.2,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "heart-L06"
+}

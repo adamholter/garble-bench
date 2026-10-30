@@ -1,0 +1,17 @@
+{
+ "response": "Mars is known as the Red Planet. Its reddish appearance comes from iron oxide (rust) on its surface.",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 26,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.4,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "mars-L01"
+}

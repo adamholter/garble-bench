@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be scrambled, encrypted, or a typo (e.g. keyboard mash). \n\nCould you please clarify or resend what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 2070,
+  "output_tokens": 37,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "heart-L11"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or had some typos (`iwhat yder xSlw;a4iI ned`). Could you clarify what you need help with?\n",
+ "usage": {
+  "input_tokens": 2890,
+  "output_tokens": 42,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.0,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "ww2-L05"
+}

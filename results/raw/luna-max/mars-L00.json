@@ -1,0 +1,17 @@
+{
+ "response": "Mars.",
+ "usage": {
+  "input_tokens": 9373,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 24,
+  "reasoning_output_tokens": 16
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 38.7,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "mars-L00"
+}

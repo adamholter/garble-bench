@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking what year the Titanic sank: **1912**. It sank on April 15 after hitting an iceberg.",
+ "usage": {
+  "input_tokens": 9379,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 449,
+  "reasoning_output_tokens": 417
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 23.0,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "titanic-L06"
+}

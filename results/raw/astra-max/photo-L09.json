@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend or rephrase your request? The text looks scrambled.",
+ "usage": {
+  "input_tokens": 10020,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 207,
+  "reasoning_output_tokens": 187
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.1,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "photo-L09"
+}

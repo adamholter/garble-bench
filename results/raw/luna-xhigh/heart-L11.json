@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make sense of that text. Could you resend it or tell me what you\u2019d like me to do with it?",
+ "usage": {
+  "input_tokens": 9413,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 687,
+  "reasoning_output_tokens": 655
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.1,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "heart-L11"
+}

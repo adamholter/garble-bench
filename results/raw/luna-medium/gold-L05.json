@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you mean? Are you asking about the chemical symbol for gold, or something on the periodic table?",
+ "usage": {
+  "input_tokens": 9384,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 28,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.3,
+ "config": "luna-medium",
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "item": "gold-L05"
+}

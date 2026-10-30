@@ -1,0 +1,17 @@
+{
+ "response": "The capital city of Australia is **Canberra**.",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 28,
+  "reasoning_output_tokens": 11
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.2,
+ "config": "terra-medium",
+ "model": "gpt-6.1-terra",
+ "effort": "medium",
+ "item": "capital-L06"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Leonardo da Vinci painted the Mona Lisa.",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 33,
+  "reasoning_output_tokens": 18
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.5,
+ "config": "terra-medium",
+ "model": "gpt-6.1-terra",
+ "effort": "medium",
+ "item": "mona-L03"
+}

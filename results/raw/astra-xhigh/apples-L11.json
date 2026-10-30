@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make out your request. Could you rephrase or resend it?",
+ "usage": {
+  "input_tokens": 10045,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 114,
+  "reasoning_output_tokens": 92
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.2,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "apples-L11"
+}

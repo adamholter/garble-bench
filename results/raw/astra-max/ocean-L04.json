@@ -1,0 +1,17 @@
+{
+ "response": "The **Indian Ocean** is the warmest ocean on Earth, with the highest average surface water temperature.",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 323,
+  "reasoning_output_tokens": 296
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 22.0,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "ocean-L04"
+}

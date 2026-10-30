@@ -1,0 +1,2610 @@
+{
+ "rates": [
+  0,
+  0.05,
+  0.1,
+  0.2,
+  0.3,
+  0.4,
+  0.5,
+  0.6,
+  0.7,
+  0.8,
+  0.9,
+  1.0
+ ],
+ "items": [
+  {
+   "id": "capital-L00",
+   "qid": "capital",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "What is the capital city of Australia?"
+  },
+  {
+   "id": "capital-L01",
+   "qid": "capital",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "What is the capital city of Australia?"
+  },
+  {
+   "id": "capital-L02",
+   "qid": "capital",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "What is the capital city= of Australia?"
+  },
+  {
+   "id": "capital-L03",
+   "qid": "capital",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "What is the calital city= of Australia"
+  },
+  {
+   "id": "capital-L04",
+   "qid": "capital",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "What is the calital ciry= 0f Australis"
+  },
+  {
+   "id": "capital-L05",
+   "qid": "capital",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "what is th ecaliztal c9ry= 0f australis"
+  },
+  {
+   "id": "capital-L06",
+   "qid": "capital",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "waht ls th ecaliztal c9ry= 0fausvtralis"
+  },
+  {
+   "id": "capital-L07",
+   "qid": "capital",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "waht ls th ecalizta/ c9ry= 0ausvt5alis"
+  },
+  {
+   "id": "capital-L08",
+   "qid": "capital",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "wah ls th ecalizta/ c9ry= 0ausvt5alis"
+  },
+  {
+   "id": "capital-L09",
+   "qid": "capital",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "Aah lsth ecaxlizat/ c9ry= 0ausvt5lis"
+  },
+  {
+   "id": "capital-L10",
+   "qid": "capital",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "Aah l s5h ecaxlizat/ c9ry=0ausv65.is"
+  },
+  {
+   "id": "capital-L11",
+   "qid": "capital",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the capital city of Australia?",
+   "answer": "Canberra",
+   "prompt": "Aahl s5ehxaxlizat/icry=0uasv65.s"
+  },
+  {
+   "id": "austen-L00",
+   "qid": "austen",
+   "level": 0,
+   "rate": 0,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "Who wrote the novel Pride and Prejudice?"
+  },
+  {
+   "id": "austen-L01",
+   "qid": "austen",
+   "level": 1,
+   "rate": 0.05,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "who wrot the novel Pride and Prejudice"
+  },
+  {
+   "id": "austen-L02",
+   "qid": "austen",
+   "level": 2,
+   "rate": 0.1,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "who wrot the bovel Pride ajnd Prejudlce"
+  },
+  {
+   "id": "austen-L03",
+   "qid": "austen",
+   "level": 3,
+   "rate": 0.2,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "who wrot the bovl Prdie ajmd Prejudlce"
+  },
+  {
+   "id": "austen-L04",
+   "qid": "austen",
+   "level": 4,
+   "rate": 0.3,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "who wrot the bovl Prdie ajmdprejudlce"
+  },
+  {
+   "id": "austen-L05",
+   "qid": "austen",
+   "level": 5,
+   "rate": 0.4,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "who wrot teh bovlPrdie ajmdprej7dlve"
+  },
+  {
+   "id": "austen-L06",
+   "qid": "austen",
+   "level": 6,
+   "rate": 0.5,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "who wrot teh bovlprdie ajm dprej7dlve"
+  },
+  {
+   "id": "austen-L07",
+   "qid": "austen",
+   "level": 7,
+   "rate": 0.6,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "who wor64ehbovlprdi2 ajm dprey7dlve"
+  },
+  {
+   "id": "austen-L08",
+   "qid": "austen",
+   "level": 8,
+   "rate": 0.7,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "wh 3or64ehbovlprdi2 ajm dprey7dlve"
+  },
+  {
+   "id": "austen-L09",
+   "qid": "austen",
+   "level": 9,
+   "rate": 0.8,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "w~h3or64ehbovx lptdi2 ajm dprey7dlve"
+  },
+  {
+   "id": "austen-L10",
+   "qid": "austen",
+   "level": 10,
+   "rate": 0.9,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "w~h3or64ehbvo l-tdi2ajm dpery7flv3"
+  },
+  {
+   "id": "austen-L11",
+   "qid": "austen",
+   "level": 11,
+   "rate": 1.0,
+   "question": "Who wrote the novel Pride and Prejudice?",
+   "answer": "Jane Austen",
+   "prompt": "w~3or64ehbvo l-tdi2ajm d[ery7flv3"
+  },
+  {
+   "id": "gold-L00",
+   "qid": "gold",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "What is the chemical symbol for gold on the periodic table?"
+  },
+  {
+   "id": "gold-L01",
+   "qid": "gold",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "Whabt is the chemihcal symbol for gold b the periodic table?"
+  },
+  {
+   "id": "gold-L02",
+   "qid": "gold",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "Whabt is 0the chemihca symbol for gol,d b the p4riodic table?"
+  },
+  {
+   "id": "gold-L03",
+   "qid": "gold",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "Whabt is 0the chemihca symbol for gol,d b the p4rioidc tablf"
+  },
+  {
+   "id": "gold-L04",
+   "qid": "gold",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "whabt iw 0the chemihca symbloforgol,d bthe p4rioidc tablf"
+  },
+  {
+   "id": "gold-L05",
+   "qid": "gold",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "whabt iw 0the chemihda symloforgol,dbthe p4ri8idc tablf"
+  },
+  {
+   "id": "gold-L06",
+   "qid": "gold",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "wh]abtiw 06h4 chekihda symlodorgol,d=bthep4ri8idc ablf"
+  },
+  {
+   "id": "gold-L07",
+   "qid": "gold",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "3h]abttiw 06h4 chekihda symlodrogol,d=bhte4roiidc ablf"
+  },
+  {
+   "id": "gold-L08",
+   "qid": "gold",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "3h]abttiw 06h4 chekihdla symlodrog/ol,d=bhte4roiidc abif"
+  },
+  {
+   "id": "gold-L09",
+   "qid": "gold",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "3h]abttiw 06h4chekihdla siy,lodrog/ol,d=bhte4roiidc mabif"
+  },
+  {
+   "id": "gold-L10",
+   "qid": "gold",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "3h]abttiw 06h4c[hmeihdla 2siy,lodrog/ol,d=bhte4roiid mab1if"
+  },
+  {
+   "id": "gold-L11",
+   "qid": "gold",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the chemical symbol for gold on the periodic table?",
+   "answer": "Au",
+   "prompt": "3h]abttw 064c[meihdla 2simylodrog/l,d=bhte]4ir8id matb1if"
+  },
+  {
+   "id": "hexagon-L00",
+   "qid": "hexagon",
+   "level": 0,
+   "rate": 0,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "How many sides does a hexagon have?"
+  },
+  {
+   "id": "hexagon-L01",
+   "qid": "hexagon",
+   "level": 1,
+   "rate": 0.05,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "How many si2des oes a hexagon have?"
+  },
+  {
+   "id": "hexagon-L02",
+   "qid": "hexagon",
+   "level": 2,
+   "rate": 0.1,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "How many si2des oes  hexagon hae?"
+  },
+  {
+   "id": "hexagon-L03",
+   "qid": "hexagon",
+   "level": 3,
+   "rate": 0.2,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "how many 5sli2drs oes  yexaon ha?"
+  },
+  {
+   "id": "hexagon-L04",
+   "qid": "hexagon",
+   "level": 4,
+   "rate": 0.3,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "how jay 5sli2dr oes  yex7aon z?"
+  },
+  {
+   "id": "hexagon-L05",
+   "qid": "hexagon",
+   "level": 5,
+   "rate": 0.4,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "how jay 5sli2ed oes y3x7ga; nz"
+  },
+  {
+   "id": "hexagon-L06",
+   "qid": "hexagon",
+   "level": 6,
+   "rate": 0.5,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "h`;a jay 5sli2ed ofs y3x7ga; nz"
+  },
+  {
+   "id": "hexagon-L07",
+   "qid": "hexagon",
+   "level": 7,
+   "rate": 0.6,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "h`;a jy 5sli2ed ofs y3x7ga; nz"
+  },
+  {
+   "id": "hexagon-L08",
+   "qid": "hexagon",
+   "level": 8,
+   "rate": 0.7,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "h`;a jy 5sli2edof y3x7ga; nz"
+  },
+  {
+   "id": "hexagon-L09",
+   "qid": "hexagon",
+   "level": 9,
+   "rate": 0.8,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "h`;a jy 5sli2edof y3x7ga; nz"
+  },
+  {
+   "id": "hexagon-L10",
+   "qid": "hexagon",
+   "level": 10,
+   "rate": 0.9,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "h`;a jy 5sli2edof y3x7ga; nz"
+  },
+  {
+   "id": "hexagon-L11",
+   "qid": "hexagon",
+   "level": 11,
+   "rate": 1.0,
+   "question": "How many sides does a hexagon have?",
+   "answer": "6",
+   "prompt": "h`;ajh 5sli2edlfy3x7ga; nz"
+  },
+  {
+   "id": "mars-L00",
+   "qid": "mars",
+   "level": 0,
+   "rate": 0,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "Which planet in our solar system is known as the Red Planet?"
+  },
+  {
+   "id": "mars-L01",
+   "qid": "mars",
+   "level": 1,
+   "rate": 0.05,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "Whic'h planet in our solar wystem is known as the Red Pianer?"
+  },
+  {
+   "id": "mars-L02",
+   "qid": "mars",
+   "level": 2,
+   "rate": 0.1,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "Whic'h planet in our solar wystem is known as the Red Pianer?"
+  },
+  {
+   "id": "mars-L03",
+   "qid": "mars",
+   "level": 3,
+   "rate": 0.2,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "Whic'h plwent in our soar wystem is kndown ac teh Red Piandr?"
+  },
+  {
+   "id": "mars-L04",
+   "qid": "mars",
+   "level": 4,
+   "rate": 0.3,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "Whic'h p4lwent in \\oud soad wysten is kndown ac teh Red piandr?"
+  },
+  {
+   "id": "mars-L05",
+   "qid": "mars",
+   "level": 5,
+   "rate": 0.4,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "Wh1i7c't p4lwen in \\ohd soapd wysten is2 kndowb ac teh Eed piandr"
+  },
+  {
+   "id": "mars-L06",
+   "qid": "mars",
+   "level": 6,
+   "rate": 0.5,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "h1i7c't p4l,wenij \\ohd s'oapd wystenis2 kndowbac teh Ee piandr"
+  },
+  {
+   "id": "mars-L07",
+   "qid": "mars",
+   "level": 7,
+   "rate": 0.6,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "h1i7c'tp4l,wenij \\ohd as'onapd wuste,nis2 kndowbac teh E piandr"
+  },
+  {
+   "id": "mars-L08",
+   "qid": "mars",
+   "level": 8,
+   "rate": 0.7,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "h1i7c'tp4l,wenij \\ohd as'onapd wue,nis2 kndowbac teh E pienr"
+  },
+  {
+   "id": "mars-L09",
+   "qid": "mars",
+   "level": 9,
+   "rate": 0.8,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "h1i7c'tp4l,wenij \\ohd as'onapd wue,nis2 nkobac teh Epienr"
+  },
+  {
+   "id": "mars-L10",
+   "qid": "mars",
+   "level": 10,
+   "rate": 0.9,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "h1i7c'tp4l,wenij \\;hd as'onapd wue,n9s2 nkobac 4eh -Eienr"
+  },
+  {
+   "id": "mars-L11",
+   "qid": "mars",
+   "level": 11,
+   "rate": 1.0,
+   "question": "Which planet in our solar system is known as the Red Planet?",
+   "answer": "Mars",
+   "prompt": "h1i7c'tp4l,wenij \\;hd as'onapdwue,n9s2 [nkombxc n4eh -Eienr"
+  },
+  {
+   "id": "ocean-L00",
+   "qid": "ocean",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "What is the largest ocean on Earth?"
+  },
+  {
+   "id": "ocean-L01",
+   "qid": "ocean",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "What is the largest ocean on earth?"
+  },
+  {
+   "id": "ocean-L02",
+   "qid": "ocean",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "Whatis hte argest kcean o'n earth?"
+  },
+  {
+   "id": "ocean-L03",
+   "qid": "ocean",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "Whatis hte awrges4 kcean o'n earth?"
+  },
+  {
+   "id": "ocean-L04",
+   "qid": "ocean",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "Whais hte awrfems4 kcean o' aearth"
+  },
+  {
+   "id": "ocean-L05",
+   "qid": "ocean",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "Whais hte awrfems4 kcean o' aearth"
+  },
+  {
+   "id": "ocean-L06",
+   "qid": "ocean",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "hais hte awffems4 kcean o' aearth"
+  },
+  {
+   "id": "ocean-L07",
+   "qid": "ocean",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "baishteawffems4 kecan o' aearth"
+  },
+  {
+   "id": "ocean-L08",
+   "qid": "ocean",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "baishteawffemx4 keca no' aeatrh"
+  },
+  {
+   "id": "ocean-L09",
+   "qid": "ocean",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "baidhteawffemx4kecal no' aecatrh"
+  },
+  {
+   "id": "ocean-L10",
+   "qid": "ocean",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "bacsihteawffemx4kecal no' aecxtrh"
+  },
+  {
+   "id": "ocean-L11",
+   "qid": "ocean",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the largest ocean on Earth?",
+   "answer": "Pacific Ocean",
+   "prompt": "bacsihtecawffemx4kecal no' aecxtrh"
+  },
+  {
+   "id": "mona-L00",
+   "qid": "mona",
+   "level": 0,
+   "rate": 0,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "Who painted the Mona Lisa?"
+  },
+  {
+   "id": "mona-L01",
+   "qid": "mona",
+   "level": 1,
+   "rate": 0.05,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "Wo 0ainted theMna Lisa?"
+  },
+  {
+   "id": "mona-L02",
+   "qid": "mona",
+   "level": 2,
+   "rate": 0.1,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "Wo 0aintekd th eM.na Lisa?"
+  },
+  {
+   "id": "mona-L03",
+   "qid": "mona",
+   "level": 3,
+   "rate": 0.2,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "w o0aintekdf th eM.na Oisa?"
+  },
+  {
+   "id": "mona-L04",
+   "qid": "mona",
+   "level": 4,
+   "rate": 0.3,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "w o0aintekdf th em.na Oisa?"
+  },
+  {
+   "id": "mona-L05",
+   "qid": "mona",
+   "level": 5,
+   "rate": 0.4,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "A o0antekdf 5h em.q Oisa"
+  },
+  {
+   "id": "mona-L06",
+   "qid": "mona",
+   "level": 6,
+   "rate": 0.5,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "A o0antekdf 5hy em.q Oxz"
+  },
+  {
+   "id": "mona-L07",
+   "qid": "mona",
+   "level": 7,
+   "rate": 0.6,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "A o0an~rekdf5hy em.q Oxz"
+  },
+  {
+   "id": "mona-L08",
+   "qid": "mona",
+   "level": 8,
+   "rate": 0.7,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "A o0a[n~rekdf5hy em.q Oxz"
+  },
+  {
+   "id": "mona-L09",
+   "qid": "mona",
+   "level": 9,
+   "rate": 0.8,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "A o0a[n~rekdf5hy em.q Oxz"
+  },
+  {
+   "id": "mona-L10",
+   "qid": "mona",
+   "level": 10,
+   "rate": 0.9,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "A o0a[n~rekdf5hy em.q Oxz"
+  },
+  {
+   "id": "mona-L11",
+   "qid": "mona",
+   "level": 11,
+   "rate": 1.0,
+   "question": "Who painted the Mona Lisa?",
+   "answer": "Leonardo da Vinci",
+   "prompt": "A o0a[n~rekdf5hy em.qOxz"
+  },
+  {
+   "id": "titanic-L00",
+   "qid": "titanic",
+   "level": 0,
+   "rate": 0,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "In what year did the Titanic sink?"
+  },
+  {
+   "id": "titanic-L01",
+   "qid": "titanic",
+   "level": 1,
+   "rate": 0.05,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "In 2hat year did the Titanic sink"
+  },
+  {
+   "id": "titanic-L02",
+   "qid": "titanic",
+   "level": 2,
+   "rate": 0.1,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "In 2hat year did theTitanic sink"
+  },
+  {
+   "id": "titanic-L03",
+   "qid": "titanic",
+   "level": 3,
+   "rate": 0.2,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "In2hat year ndid thetTtaic sifhk"
+  },
+  {
+   "id": "titanic-L04",
+   "qid": "titanic",
+   "level": 4,
+   "rate": 0.3,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "In2hat hea ndidd thetGta8c aishk"
+  },
+  {
+   "id": "titanic-L05",
+   "qid": "titanic",
+   "level": 5,
+   "rate": 0.4,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "In2hat hea ndidd thetGta8c aishl"
+  },
+  {
+   "id": "titanic-L06",
+   "qid": "titanic",
+   "level": 6,
+   "rate": 0.5,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "in2hat hea ndidd thetGta8c aishl"
+  },
+  {
+   "id": "titanic-L07",
+   "qid": "titanic",
+   "level": 7,
+   "rate": 0.6,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "in2ha thea ndidd. thetGta8s aishl"
+  },
+  {
+   "id": "titanic-L08",
+   "qid": "titanic",
+   "level": 8,
+   "rate": 0.7,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "in2jq thea ndidd. thetGt8s aishl"
+  },
+  {
+   "id": "titanic-L09",
+   "qid": "titanic",
+   "level": 9,
+   "rate": 0.8,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "i2jq thera ndidd. thetGt8s aishl"
+  },
+  {
+   "id": "titanic-L10",
+   "qid": "titanic",
+   "level": 10,
+   "rate": 0.9,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "2jq thera nidd.hhetG58s aishl"
+  },
+  {
+   "id": "titanic-L11",
+   "qid": "titanic",
+   "level": 11,
+   "rate": 1.0,
+   "question": "In what year did the Titanic sink?",
+   "answer": "1912",
+   "prompt": "2jq thae nidd.hehG58s aishl"
+  },
+  {
+   "id": "sqrt-L00",
+   "qid": "sqrt",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "What is the square root of 144?"
+  },
+  {
+   "id": "sqrt-L01",
+   "qid": "sqrt",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "What is the square rolt fo 144?"
+  },
+  {
+   "id": "sqrt-L02",
+   "qid": "sqrt",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "What is the square rolt fo 144?"
+  },
+  {
+   "id": "sqrt-L03",
+   "qid": "sqrt",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "Whatis the uqre rolt fo 144?"
+  },
+  {
+   "id": "sqrt-L04",
+   "qid": "sqrt",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "Wha6is the uqre roltkfo 144?"
+  },
+  {
+   "id": "sqrt-L05",
+   "qid": "sqrt",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "Whaq6isthe uqer roltkfo 1r"
+  },
+  {
+   "id": "sqrt-L06",
+   "qid": "sqrt",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "whaq6isthe[uqer roltkfo 2r"
+  },
+  {
+   "id": "sqrt-L07",
+   "qid": "sqrt",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "2haq6istte[uqer roltkfo 2r"
+  },
+  {
+   "id": "sqrt-L08",
+   "qid": "sqrt",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "2haq6istte[uqer roltkfo 2r"
+  },
+  {
+   "id": "sqrt-L09",
+   "qid": "sqrt",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "2haq6sitte[7qereoltkfo2r"
+  },
+  {
+   "id": "sqrt-L10",
+   "qid": "sqrt",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "2haq6sifte[7qereozltkfo2r"
+  },
+  {
+   "id": "sqrt-L11",
+   "qid": "sqrt",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the square root of 144?",
+   "answer": "12",
+   "prompt": "2yaq6sifte[7qereozltkfo2r"
+  },
+  {
+   "id": "photo-L00",
+   "qid": "photo",
+   "level": 0,
+   "rate": 0,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "What gas do plants absorb from the air to carry out photosynthesis?"
+  },
+  {
+   "id": "photo-L01",
+   "qid": "photo",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "What gs do palnts abso4b fronthe air to carry ou photosynthsis?"
+  },
+  {
+   "id": "photo-L02",
+   "qid": "photo",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Wht gs do palntc abso4b fronthe air to carry ou photosynthsis?"
+  },
+  {
+   "id": "photo-L03",
+   "qid": "photo",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dht ags do palntc abso4b f3onthe a9r to carry ou photsynthsis"
+  },
+  {
+   "id": "photo-L04",
+   "qid": "photo",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dht agq do palntc abso4b f3obnthe a99r to5carry ou hotsytnthsis"
+  },
+  {
+   "id": "photo-L05",
+   "qid": "photo",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dht agq do paln4c xbso4b f3obnthea99r to5carry ou totsytnehsis"
+  },
+  {
+   "id": "photo-L06",
+   "qid": "photo",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dht agq do paln4c xbso4bf3obnthwa99r otcarry ou totsytnehsi"
+  },
+  {
+   "id": "photo-L07",
+   "qid": "photo",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dhr4 agq ido ;aln4cxbso4bf3obnthwa99r; otcrarh otu totsytnehsi6"
+  },
+  {
+   "id": "photo-L08",
+   "qid": "photo",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dhr4 agq ido ;aln4cxbos4bf3obntnwa99r;otcrarh otu to4sytnehis"
+  },
+  {
+   "id": "photo-L09",
+   "qid": "photo",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dhr4 agq iod ;al4cxbos4bf3obnnwa99r;otcrarh votu to4ysbehis"
+  },
+  {
+   "id": "photo-L10",
+   "qid": "photo",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dhr4 agq iod;al4cxbos4 bc3obnnwa99r;otraeh votut4ysbehis"
+  },
+  {
+   "id": "photo-L11",
+   "qid": "photo",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What gas do plants absorb from the air to carry out photosynthesis?",
+   "answer": "carbon dioxide (CO2)",
+   "prompt": "Dhr4agq iod;al4cxos4 bc3obnnwa99r;otraeh vot6t4ysbehis"
+  },
+  {
+   "id": "everest-L00",
+   "qid": "everest",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "What is the tallest mountain in the world above sea level?"
+  },
+  {
+   "id": "everest-L01",
+   "qid": "everest",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "What iq the tsll2st mountain in the world above sea level?"
+  },
+  {
+   "id": "everest-L02",
+   "qid": "everest",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "Whatiq the tsll2st mountain in the world above sea level?"
+  },
+  {
+   "id": "everest-L03",
+   "qid": "everest",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "Whatiq thf tsll2st mntain in the wirld ab0ve sexa level?"
+  },
+  {
+   "id": "everest-L04",
+   "qid": "everest",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "Whatiq thf tsll2st mntain in the wirl dav0ve sexs level"
+  },
+  {
+   "id": "everest-L05",
+   "qid": "everest",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "Whatiq thf tsll2st mnain in the wirl dav0ve sexs level"
+  },
+  {
+   "id": "everest-L06",
+   "qid": "everest",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "watiq thf tsll2at m9nain on txe wirl dav0ve sexs level"
+  },
+  {
+   "id": "everest-L07",
+   "qid": "everest",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "watiq 5hf tsll2atm9naig on txe wirl dav0ve exs level`"
+  },
+  {
+   "id": "everest-L08",
+   "qid": "everest",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "2aiq 5gf tsll2a tm9naig on txe wirl dav0veexs ~level`"
+  },
+  {
+   "id": "everest-L09",
+   "qid": "everest",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "2aq 5gf atll2a tm9naigon txe wif dav0veexs ~level`"
+  },
+  {
+   "id": "everest-L10",
+   "qid": "everest",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "2q 5gf atll2a tm9ni5gon txe[ wif dav0v eexs ~level`"
+  },
+  {
+   "id": "everest-L11",
+   "qid": "everest",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the tallest mountain in the world above sea level?",
+   "answer": "Mount Everest",
+   "prompt": "2q5gfatll2a tm9n=i5gon\\txe[ pwtif dv0b eexs ~/2ceml`"
+  },
+  {
+   "id": "minutes-L00",
+   "qid": "minutes",
+   "level": 0,
+   "rate": 0,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "How many minutes are there in one full day?"
+  },
+  {
+   "id": "minutes-L01",
+   "qid": "minutes",
+   "level": 1,
+   "rate": 0.05,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "how mny minutesare there in one full day?"
+  },
+  {
+   "id": "minutes-L02",
+   "qid": "minutes",
+   "level": 2,
+   "rate": 0.1,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "how mny jinutesare ht4re in onwe full day"
+  },
+  {
+   "id": "minutes-L03",
+   "qid": "minutes",
+   "level": 3,
+   "rate": 0.2,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "how mnyjbutesareht4re in onwe full day"
+  },
+  {
+   "id": "minutes-L04",
+   "qid": "minutes",
+   "level": 4,
+   "rate": 0.3,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "how mnyjb8tesareht4rein onwe full day"
+  },
+  {
+   "id": "minutes-L05",
+   "qid": "minutes",
+   "level": 5,
+   "rate": 0.4,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "Mow mnyjb8tesageht4re9n onw efull day"
+  },
+  {
+   "id": "minutes-L06",
+   "qid": "minutes",
+   "level": 6,
+   "rate": 0.5,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "Mow1 m`nyjb8tesageht4fe9n onw eflu/ eay"
+  },
+  {
+   "id": "minutes-L07",
+   "qid": "minutes",
+   "level": 7,
+   "rate": 0.6,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "Mow1 m`nyjb8tessgeht4fe9n` ognw eufl/ eay"
+  },
+  {
+   "id": "minutes-L08",
+   "qid": "minutes",
+   "level": 8,
+   "rate": 0.7,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "Mow1 m`nyjb8teasgeht4fe9n` ognw eufl/ eay"
+  },
+  {
+   "id": "minutes-L09",
+   "qid": "minutes",
+   "level": 9,
+   "rate": 0.8,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "Mw1 m`njb8teasgeht4fe9n` rognw eufl/ ea"
+  },
+  {
+   "id": "minutes-L10",
+   "qid": "minutes",
+   "level": 10,
+   "rate": 0.9,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "Mw1 m`njb8teasght4fe9n` rognw eufl/ eea"
+  },
+  {
+   "id": "minutes-L11",
+   "qid": "minutes",
+   "level": 11,
+   "rate": 1.0,
+   "question": "How many minutes are there in one full day?",
+   "answer": "1440",
+   "prompt": "Mw1m`ynjb8asght4fe69n` rognw euf,/ eeay"
+  },
+  {
+   "id": "freeze-L00",
+   "qid": "freeze",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "What is the freezing point of water in degrees Fahrenheit?"
+  },
+  {
+   "id": "freeze-L01",
+   "qid": "freeze",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "What is the freezing point ofwater in debreee Fahrenjeit?"
+  },
+  {
+   "id": "freeze-L02",
+   "qid": "freeze",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "what isthe freezing poitn ofwater in debreede Fahrenjeit?"
+  },
+  {
+   "id": "freeze-L03",
+   "qid": "freeze",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "wht isthe freezin gpoitn pfwaer n de4breede Famrenjeit?"
+  },
+  {
+   "id": "freeze-L04",
+   "qid": "freeze",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "wt /is6he freezin gpoitnpfwae n de4breede famrenj4it"
+  },
+  {
+   "id": "freeze-L05",
+   "qid": "freeze",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "1t /is6he freekzin gp9itnpfwae n 7de4breede famrenj4itk"
+  },
+  {
+   "id": "freeze-L06",
+   "qid": "freeze",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "1t /is6he freekzih gp9itnp fwqe n 7de4berede famrenj4itk"
+  },
+  {
+   "id": "freeze-L07",
+   "qid": "freeze",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "1t /is64 frekzih gp9itnp fdqre n 7de4berede fa6mrenj4ti"
+  },
+  {
+   "id": "freeze-L08",
+   "qid": "freeze",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "1 /9s64 frekzkh gp9itnp fdqre n 7de4berede fa6mrenj4ti"
+  },
+  {
+   "id": "freeze-L09",
+   "qid": "freeze",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "1 /9s64frekzkh gp9itnp fdqren 7e4berede fa6mernj4ti"
+  },
+  {
+   "id": "freeze-L10",
+   "qid": "freeze",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "1 /9 s64frekxkh gp9jtnp fdqren. 7e4berede Ra6mernj4ti"
+  },
+  {
+   "id": "freeze-L11",
+   "qid": "freeze",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the freezing point of water in degrees Fahrenheit?",
+   "answer": "32",
+   "prompt": "1 /9 s64fqr4ekxkh gopjtnp fdqren. 7e4berede tRa6merhj4ti"
+  },
+  {
+   "id": "moon-L00",
+   "qid": "moon",
+   "level": 0,
+   "rate": 0,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "Who was the first person to walk on the moon?"
+  },
+  {
+   "id": "moon-L01",
+   "qid": "moon",
+   "level": 1,
+   "rate": 0.05,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "Who was the first person to walk on the moon?"
+  },
+  {
+   "id": "moon-L02",
+   "qid": "moon",
+   "level": 2,
+   "rate": 0.1,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "Who was the first prson to walk on the moon?"
+  },
+  {
+   "id": "moon-L03",
+   "qid": "moon",
+   "level": 3,
+   "rate": 0.2,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "Who qas the first ososn towxlk on thd moon"
+  },
+  {
+   "id": "moon-L04",
+   "qid": "moon",
+   "level": 4,
+   "rate": 0.3,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "Who qasthee first oosn9 towxlk on td moon"
+  },
+  {
+   "id": "moon-L05",
+   "qid": "moon",
+   "level": 5,
+   "rate": 0.4,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "whoqastheefirst oosn9 towxlk on4 td moon"
+  },
+  {
+   "id": "moon-L06",
+   "qid": "moon",
+   "level": 6,
+   "rate": 0.5,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "whoqastheefirst9 oosn9 towxlk no twd mxo0n"
+  },
+  {
+   "id": "moon-L07",
+   "qid": "moon",
+   "level": 7,
+   "rate": 0.6,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "wohqa stheeirst9 oosn9 o3xlkno twd mxo0n"
+  },
+  {
+   "id": "moon-L08",
+   "qid": "moon",
+   "level": 8,
+   "rate": 0.7,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "wohq sthe4irst9oosn9o3xl\\no twd mxo0nf"
+  },
+  {
+   "id": "moon-L09",
+   "qid": "moon",
+   "level": 9,
+   "rate": 0.8,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "wohq sht4irst9oosn9o3xl\\no twd mx0nf"
+  },
+  {
+   "id": "moon-L10",
+   "qid": "moon",
+   "level": 10,
+   "rate": 0.9,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "wohq sht4irtsoosn9o3xl\\notwd 'mx0nf"
+  },
+  {
+   "id": "moon-L11",
+   "qid": "moon",
+   "level": 11,
+   "rate": 1.0,
+   "question": "Who was the first person to walk on the moon?",
+   "answer": "Neil Armstrong",
+   "prompt": "w-ohq sht4jsrt9oosn983xl\\notwd 'mx0nf"
+  },
+  {
+   "id": "amazon-L00",
+   "qid": "amazon",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "What is the longest river in South America?"
+  },
+  {
+   "id": "amazon-L01",
+   "qid": "amazon",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "What is the longest rivef [in South America?"
+  },
+  {
+   "id": "amazon-L02",
+   "qid": "amazon",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "What i]s the l`ongest rivef [inSouthAmerica?"
+  },
+  {
+   "id": "amazon-L03",
+   "qid": "amazon",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "what i]s teh l`onges ~rivef [inSuothAmerica?"
+  },
+  {
+   "id": "amazon-L04",
+   "qid": "amazon",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "what i]s \\tzeh l`noges ~rivef [inuo4hAmerica"
+  },
+  {
+   "id": "amazon-L05",
+   "qid": "amazon",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "what i]s \\tzeh l`noges ~rivef [inuo4hamerica"
+  },
+  {
+   "id": "amazon-L06",
+   "qid": "amazon",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "what i] stzeh l`nogee ~rivf [inuo4gamer8ca"
+  },
+  {
+   "id": "amazon-L07",
+   "qid": "amazon",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "Shati] stzeh l`nogee ~rivf [inuo4gaem8a"
+  },
+  {
+   "id": "amazon-L08",
+   "qid": "amazon",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "Shati] stzeh l`nog3e ~rizvf [injuo4gaem8w"
+  },
+  {
+   "id": "amazon-L09",
+   "qid": "amazon",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "Sha6i] stzeh l`nog3e ~5izvf [injuo4gaem8w"
+  },
+  {
+   "id": "amazon-L10",
+   "qid": "amazon",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "Sh6i] stzeh l`not3e ~5izvf [injuo4gayem8w"
+  },
+  {
+   "id": "amazon-L11",
+   "qid": "amazon",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the longest river in South America?",
+   "answer": "Amazon River",
+   "prompt": "S6i] stzehl`not3e ~5izf [iunjuo4gayem8w"
+  },
+  {
+   "id": "piano-L00",
+   "qid": "piano",
+   "level": 0,
+   "rate": 0,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "How many keys are on a standard piano?"
+  },
+  {
+   "id": "piano-L01",
+   "qid": "piano",
+   "level": 1,
+   "rate": 0.05,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "How mnaykeys areon a standard piano?"
+  },
+  {
+   "id": "piano-L02",
+   "qid": "piano",
+   "level": 2,
+   "rate": 0.1,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "How mnaykeys areon a6 standard piano?"
+  },
+  {
+   "id": "piano-L03",
+   "qid": "piano",
+   "level": 3,
+   "rate": 0.2,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw mnaykeys areon a6 st4andard piano?"
+  },
+  {
+   "id": "piano-L04",
+   "qid": "piano",
+   "level": 4,
+   "rate": 0.3,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw mnakeys areo a6st4andsard piamo?"
+  },
+  {
+   "id": "piano-L05",
+   "qid": "piano",
+   "level": 5,
+   "rate": 0.4,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw mnakeys arwo a6st4apndsardpiamo"
+  },
+  {
+   "id": "piano-L06",
+   "qid": "piano",
+   "level": 6,
+   "rate": 0.5,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw mnaueys arwo a6st4apndsardpiam0"
+  },
+  {
+   "id": "piano-L07",
+   "qid": "piano",
+   "level": 7,
+   "rate": 0.6,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw mtnauehs arwa6st4apdsadpiam0"
+  },
+  {
+   "id": "piano-L08",
+   "qid": "piano",
+   "level": 8,
+   "rate": 0.7,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw= mtnaueh arwa6st4apdsadpiam0"
+  },
+  {
+   "id": "piano-L09",
+   "qid": "piano",
+   "level": 9,
+   "rate": 0.8,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw= mtnaueh rwa6tsapdsadpiam0"
+  },
+  {
+   "id": "piano-L10",
+   "qid": "piano",
+   "level": 10,
+   "rate": 0.9,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw= mtnaueh r~wa6tsapdsadpiam0"
+  },
+  {
+   "id": "piano-L11",
+   "qid": "piano",
+   "level": 11,
+   "rate": 1.0,
+   "question": "How many keys are on a standard piano?",
+   "answer": "88",
+   "prompt": "ohw=mtnaufhr~wa6tsapdsalipsm0"
+  },
+  {
+   "id": "yen-L00",
+   "qid": "yen",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "What is the name of the currency used in Japan?"
+  },
+  {
+   "id": "yen-L01",
+   "qid": "yen",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "What is the namd o fthe currenc yused1 i5n Japan?"
+  },
+  {
+   "id": "yen-L02",
+   "qid": "yen",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "What is the namd o fthr cur\\renc yused1 i5n Japan?"
+  },
+  {
+   "id": "yen-L03",
+   "qid": "yen",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "whay is the namd o fthr uc6r\\renc yused1 i5Japaj?"
+  },
+  {
+   "id": "yen-L04",
+   "qid": "yen",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "whay 7s tje namd o fthr uc6r\\rec ysued1 i5Yapaj?"
+  },
+  {
+   "id": "yen-L05",
+   "qid": "yen",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "3hay7sje namd o fthr uc6r\\rec ysued1i5Yapaj"
+  },
+  {
+   "id": "yen-L06",
+   "qid": "yen",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "3hay7zjenamd o fthr uc6r\\recp ysued1i5Yapaj"
+  },
+  {
+   "id": "yen-L07",
+   "qid": "yen",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "3hy7zjenad o fthr uc6r\\recp ysued1i5Yapaj"
+  },
+  {
+   "id": "yen-L08",
+   "qid": "yen",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "3ahy7zjenoad o fth3r uc6r\\recp ysud1i5Ypaaj"
+  },
+  {
+   "id": "yen-L09",
+   "qid": "yen",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "3ahy7zjenoad o fth3r uc6r\\rfcp ysud1i5Ypaqj"
+  },
+  {
+   "id": "yen-L10",
+   "qid": "yen",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "3ahy7zje\\noad /or f5h3r uucr\\rfcp ysud1i5Ypaqj"
+  },
+  {
+   "id": "yen-L11",
+   "qid": "yen",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the name of the currency used in Japan?",
+   "answer": "yen",
+   "prompt": "3ahy7zje\\noa.d /or f5h3r uucr\\5fcp ysud1i5Ypaqj"
+  },
+  {
+   "id": "heart-L00",
+   "qid": "heart",
+   "level": 0,
+   "rate": 0,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "Which organ in the human body pumps blood through the veins and arteries?"
+  },
+  {
+   "id": "heart-L01",
+   "qid": "heart",
+   "level": 1,
+   "rate": 0.05,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "Which organ in the humanbody pu,ps blood through the veins and arteries?"
+  },
+  {
+   "id": "heart-L02",
+   "qid": "heart",
+   "level": 2,
+   "rate": 0.1,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "Which organ in the humagbody pu,ps blood throug4h the venis nad arteries?"
+  },
+  {
+   "id": "heart-L03",
+   "qid": "heart",
+   "level": 3,
+   "rate": 0.2,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "Which orgzb i2ntuhe humagbody [u,ps blood 3throug4h the venis nad art3eries?"
+  },
+  {
+   "id": "heart-L04",
+   "qid": "heart",
+   "level": 4,
+   "rate": 0.3,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "Whcih lrgzb i2ntuhe humagody [u,ps blood 3fhoug4h the venis nad a8rt3eies"
+  },
+  {
+   "id": "heart-L05",
+   "qid": "heart",
+   "level": 5,
+   "rate": 0.4,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "wh4cih lrtgzb i2ntuhe humagody [u,ps blod= 3fmoug4h the vuenis nadh a8rt3eies"
+  },
+  {
+   "id": "heart-L06",
+   "qid": "heart",
+   "level": 6,
+   "rate": 0.5,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "2h4cihlrtgzb i2ntuhehumagody [u,ps blod= 3fmuog4h thevuenis nadh a8dt3eies"
+  },
+  {
+   "id": "heart-L07",
+   "qid": "heart",
+   "level": 7,
+   "rate": 0.6,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "2h4cihlrtgzbi2nwtuh.ehujagody [u,ps blod= 3fmuog4gthevuenis nadha8dt3eies"
+  },
+  {
+   "id": "heart-L08",
+   "qid": "heart",
+   "level": 8,
+   "rate": 0.7,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "2h4cihlrtgzbi2nwtuh.euhjagodh [u,ps lbod= 3fmuog4g6h;evuenis nadha8dt3eid"
+  },
+  {
+   "id": "heart-L09",
+   "qid": "heart",
+   "level": 9,
+   "rate": 0.8,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "2h4cihlrtg`zbi2nwtuh. euhjagdh [u,pslbod= 3fmuog4g6h;evuevni snadha8dt3eid"
+  },
+  {
+   "id": "heart-L10",
+   "qid": "heart",
+   "level": 10,
+   "rate": 0.9,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "2h4cihlrtg`zbi2nwtuh. euhjagvh [u,p.qlbkd= 3fmuog4g6h;evuevni snadha8dt3e]i1d"
+  },
+  {
+   "id": "heart-L11",
+   "qid": "heart",
+   "level": 11,
+   "rate": 1.0,
+   "question": "Which organ in the human body pumps blood through the veins and arteries?",
+   "answer": "heart",
+   "prompt": "2h4cimlrtg`zbi2nwtuh. euhjgvh[j,p.qlbkd= 3fmuog4g6h; evuevni snadha8dt3e]i1d"
+  },
+  {
+   "id": "brazil-L00",
+   "qid": "brazil",
+   "level": 0,
+   "rate": 0,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "What is the main language spoken in Brazil?"
+  },
+  {
+   "id": "brazil-L01",
+   "qid": "brazil",
+   "level": 1,
+   "rate": 0.05,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "What i sgme/ main languagspokenin brazil?"
+  },
+  {
+   "id": "brazil-L02",
+   "qid": "brazil",
+   "level": 2,
+   "rate": 0.1,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "What l sgme/ maij lqanguagspokenin brazil?"
+  },
+  {
+   "id": "brazil-L03",
+   "qid": "brazil",
+   "level": 3,
+   "rate": 0.2,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "What l sgme/ maij lqanguaegsook-enin beazil?"
+  },
+  {
+   "id": "brazil-L04",
+   "qid": "brazil",
+   "level": 4,
+   "rate": 0.3,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "What l sgme/ miaj lqangufaegsook-enni beazil]?"
+  },
+  {
+   "id": "brazil-L05",
+   "qid": "brazil",
+   "level": 5,
+   "rate": 0.4,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "w=nat l sgme/ miaj lqangufaegsoowk-nni eazil]"
+  },
+  {
+   "id": "brazil-L06",
+   "qid": "brazil",
+   "level": 6,
+   "rate": 0.5,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "w=nat l sgme/ amiwj lqangufaegsoowk-bni exzil]"
+  },
+  {
+   "id": "brazil-L07",
+   "qid": "brazil",
+   "level": 7,
+   "rate": 0.6,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "w=natl sgme/ amiwj lqngufaegsoowk-bni exil]"
+  },
+  {
+   "id": "brazil-L08",
+   "qid": "brazil",
+   "level": 8,
+   "rate": 0.7,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "w=nal sgme/ amiwj lqngqufaegoowk-bni exil]"
+  },
+  {
+   "id": "brazil-L09",
+   "qid": "brazil",
+   "level": 9,
+   "rate": 0.8,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "w=ntal sgme/ amiwj lqngqufaegoowk-bniexi'l]"
+  },
+  {
+   "id": "brazil-L10",
+   "qid": "brazil",
+   "level": 10,
+   "rate": 0.9,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "w=ntal sgme/ amiwj elqgnufegoowk-bniexi'l]"
+  },
+  {
+   "id": "brazil-L11",
+   "qid": "brazil",
+   "level": 11,
+   "rate": 1.0,
+   "question": "What is the main language spoken in Brazil?",
+   "answer": "Portuguese",
+   "prompt": "w=ntal sgme/amiwj elqgnufegoowk-bniexi'l]"
+  },
+  {
+   "id": "apples-L00",
+   "qid": "apples",
+   "level": 0,
+   "rate": 0,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "If I have three apples, buy five more, and then eat two, how many apples do I have left?"
+  },
+  {
+   "id": "apples-L01",
+   "qid": "apples",
+   "level": 1,
+   "rate": 0.05,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "I1f i have there apples, buy five more, and then eat two, hosw many apples do I have left?"
+  },
+  {
+   "id": "apples-L02",
+   "qid": "apples",
+   "level": 2,
+   "rate": 0.1,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "I1f i have there apples, buy five moee,and then eat two, hosw many apples do L have left"
+  },
+  {
+   "id": "apples-L03",
+   "qid": "apples",
+   "level": 3,
+   "rate": 0.2,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1f i have tnere apppes buy five mo8ee,and -then e[at two, hoswy many amppl~es do L have left"
+  },
+  {
+   "id": "apples-L04",
+   "qid": "apples",
+   "level": 4,
+   "rate": 0.3,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1f i haetnere alpesbuy five mo8eeand -then e[at two hoswy may amppl~es do L ;have letf"
+  },
+  {
+   "id": "apples-L05",
+   "qid": "apples",
+   "level": 5,
+   "rate": 0.4,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1fi/ haetnere alpsebuy five mo8eesnd -then e[at two hoswy mayamppl~esdozL ;hzve letf"
+  },
+  {
+   "id": "apples-L06",
+   "qid": "apples",
+   "level": 6,
+   "rate": 0.5,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1fi/ hvaetner alpsebu five mo8eelsnd -then ;e[t two hoswy mayamppl~edozL ;hzve ~letf"
+  },
+  {
+   "id": "apples-L07",
+   "qid": "apples",
+   "level": 7,
+   "rate": 0.6,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1fi/ hvaetner alpseb8 five mo8eelsn dthen ;e[t two h8oswy may'ampp2l~edozL ;hzv4 ~letf"
+  },
+  {
+   "id": "apples-L08",
+   "qid": "apples",
+   "level": 8,
+   "rate": 0.7,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1fi/ kvaetner lpseb8 0fove mo8eelsdn -hgn ;e[t twlo xh8oswy may'ampip2l~edozL ;hzc4 ~oetf"
+  },
+  {
+   "id": "apples-L09",
+   "qid": "apples",
+   "level": 9,
+   "rate": 0.8,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1fi/ kvaetnerlpse8 0ovemo8eelsdn -hgn ;e[tywlo xh8oswy miay'ampip2l~esdozL ;hzc4 ~oetf"
+  },
+  {
+   "id": "apples-L10",
+   "qid": "apples",
+   "level": 10,
+   "rate": 0.9,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1fi/ kvaefnerlpse8 0oevmo8eelsdn -hgb ;e[hywl8 xh8oswy miay'ampip2l~esdozL ;hwzc4 ~oetf"
+  },
+  {
+   "id": "apples-L11",
+   "qid": "apples",
+   "level": 11,
+   "rate": 1.0,
+   "question": "If I have three apples, buy five more, and then eat two, how many apples do I have left?",
+   "answer": "6",
+   "prompt": "i1gi/ kvadfnerlpse8 0oevmo8eelsdn -hgb ;e[hywl8 xh8oswymiqy'ampip2l~esrozL ;hwzc4 ~ofe"
+  },
+  {
+   "id": "spider-L00",
+   "qid": "spider",
+   "level": 0,
+   "rate": 0,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "How many legs does a spider have?"
+  },
+  {
+   "id": "spider-L01",
+   "qid": "spider",
+   "level": 1,
+   "rate": 0.05,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "How many legs do3s a spider have?"
+  },
+  {
+   "id": "spider-L02",
+   "qid": "spider",
+   "level": 2,
+   "rate": 0.1,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "How many legs do3s a spider have?"
+  },
+  {
+   "id": "spider-L03",
+   "qid": "spider",
+   "level": 3,
+   "rate": 0.2,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "ow mna legsdo3sa spider hae"
+  },
+  {
+   "id": "spider-L04",
+   "qid": "spider",
+   "level": 4,
+   "rate": 0.3,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "ow mna legsdo3sa spiderhae"
+  },
+  {
+   "id": "spider-L05",
+   "qid": "spider",
+   "level": 5,
+   "rate": 0.4,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "ow mna leg sdo3sa spiderhae"
+  },
+  {
+   "id": "spider-L06",
+   "qid": "spider",
+   "level": 6,
+   "rate": 0.5,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "owmna leg sdo3qa spiderhze"
+  },
+  {
+   "id": "spider-L07",
+   "qid": "spider",
+   "level": 7,
+   "rate": 0.6,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "ownna leg sdo3qa spiderhze"
+  },
+  {
+   "id": "spider-L08",
+   "qid": "spider",
+   "level": 8,
+   "rate": 0.7,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "ownnaleg6 sdo3qa spde5hz2"
+  },
+  {
+   "id": "spider-L09",
+   "qid": "spider",
+   "level": 9,
+   "rate": 0.8,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "wnnalehg6 sdo3qa xpd,e5hz2"
+  },
+  {
+   "id": "spider-L10",
+   "qid": "spider",
+   "level": 10,
+   "rate": 0.9,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "wnnalehg6 svo3qaxd,rehz2"
+  },
+  {
+   "id": "spider-L11",
+   "qid": "spider",
+   "level": 11,
+   "rate": 1.0,
+   "question": "How many legs does a spider have?",
+   "answer": "8",
+   "prompt": "dnna;ehg6 sveoqsxd,rez2"
+  },
+  {
+   "id": "romeo-L00",
+   "qid": "romeo",
+   "level": 0,
+   "rate": 0,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "Which playwright wrote Romeo and Juliet?"
+  },
+  {
+   "id": "romeo-L01",
+   "qid": "romeo",
+   "level": 1,
+   "rate": 0.05,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "Whichplaywright wrote Gomeo and Julc7et?"
+  },
+  {
+   "id": "romeo-L02",
+   "qid": "romeo",
+   "level": 2,
+   "rate": 0.1,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "whicplaywright wrote Gomeo nd julc7eg"
+  },
+  {
+   "id": "romeo-L03",
+   "qid": "romeo",
+   "level": 3,
+   "rate": 0.2,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "whicllaywr1ighh wrpte Gomeo nd julc7eg"
+  },
+  {
+   "id": "romeo-L04",
+   "qid": "romeo",
+   "level": 4,
+   "rate": 0.3,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "whicllaywr1igh wrpte Gomeo nd julc7eg"
+  },
+  {
+   "id": "romeo-L05",
+   "qid": "romeo",
+   "level": 5,
+   "rate": 0.4,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "whicllaywr1irh rpte Gpmeo nd j~ulc7eg"
+  },
+  {
+   "id": "romeo-L06",
+   "qid": "romeo",
+   "level": 6,
+   "rate": 0.5,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "wicllywr1rh rpte Gpne md j~ulc7eg"
+  },
+  {
+   "id": "romeo-L07",
+   "qid": "romeo",
+   "level": 7,
+   "rate": 0.6,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "Eicllywr1rhrpte Gpne md j~ulc7eg"
+  },
+  {
+   "id": "romeo-L08",
+   "qid": "romeo",
+   "level": 8,
+   "rate": 0.7,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "Eillywr1rhrpte Gpne mwj~ulc7eg"
+  },
+  {
+   "id": "romeo-L09",
+   "qid": "romeo",
+   "level": 9,
+   "rate": 0.8,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "Eillywr1rhp4e Gpne mwj~ulc7eg"
+  },
+  {
+   "id": "romeo-L10",
+   "qid": "romeo",
+   "level": 10,
+   "rate": 0.9,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "Ellbyr1rhp4e Gpnmwj~ulc7eg"
+  },
+  {
+   "id": "romeo-L11",
+   "qid": "romeo",
+   "level": 11,
+   "rate": 1.0,
+   "question": "Which playwright wrote Romeo and Juliet?",
+   "answer": "William Shakespeare",
+   "prompt": "Ellbgr1rhp43Gpnmwj~uylc7te"
+  },
+  {
+   "id": "speed-L00",
+   "qid": "speed",
+   "level": 0,
+   "rate": 0,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "Roughly how fast does light travel in a vacuum, in kilometers per second?"
+  },
+  {
+   "id": "speed-L01",
+   "qid": "speed",
+   "level": 1,
+   "rate": 0.05,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "Roughly how fast does ligh ravel in a dvacuum, in kilometers per second?"
+  },
+  {
+   "id": "speed-L02",
+   "qid": "speed",
+   "level": 2,
+   "rate": 0.1,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "Roughly how east does lugh ravel in a dvacuum, in kvilometers per second?"
+  },
+  {
+   "id": "speed-L03",
+   "qid": "speed",
+   "level": 3,
+   "rate": 0.2,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "ougbly h-ow east does lugu ravle in a dvauum, inkvilometers per second?"
+  },
+  {
+   "id": "speed-L04",
+   "qid": "speed",
+   "level": 4,
+   "rate": 0.3,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "ougbly h-o2 eaist d;es lugu ravle in a dvaumu igkvolomteers poer escond"
+  },
+  {
+   "id": "speed-L05",
+   "qid": "speed",
+   "level": 5,
+   "rate": 0.4,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "oubly h-o2 eaist d;es lugu ravle in a dvaumu gkvol9mters poer escond"
+  },
+  {
+   "id": "speed-L06",
+   "qid": "speed",
+   "level": 6,
+   "rate": 0.5,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "obly h-o2 eaid4 d;eslugu avle in a dvumu gkvol9mte3s poer escons"
+  },
+  {
+   "id": "speed-L07",
+   "qid": "speed",
+   "level": 7,
+   "rate": 0.6,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "obl6 h-o2 eaid4d;epsluguavlein a dvumu gkvol9em3s poer esdons"
+  },
+  {
+   "id": "speed-L08",
+   "qid": "speed",
+   "level": 8,
+   "rate": 0.7,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "uob6h-ov2 eaid4d;epslugua;vlein a dvumu gkvol9em3s; poer esdons"
+  },
+  {
+   "id": "speed-L09",
+   "qid": "speed",
+   "level": 9,
+   "rate": 0.8,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "uob6h-ov2 eaid4d;epslugua;vlein s ddumu gkvol9em3s; jpo3resdons"
+  },
+  {
+   "id": "speed-L10",
+   "qid": "speed",
+   "level": 10,
+   "rate": 0.9,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "uob6h-ov2 eaid4dk;epslugua;leijns ddumu gkvoolem3s; jpo3 resdo~ns"
+  },
+  {
+   "id": "speed-L11",
+   "qid": "speed",
+   "level": 11,
+   "rate": 1.0,
+   "question": "Roughly how fast does light travel in a vacuum, in kilometers per second?",
+   "answer": "about 300,000 km/s (299,792)",
+   "prompt": "uob6h-ov2eaid4dk;eps]ugiua;leijs ddu'mugkvoolem3s; jpo3 resdo~gs"
+  },
+  {
+   "id": "ww2-L00",
+   "qid": "ww2",
+   "level": 0,
+   "rate": 0,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "In what year did World War II end?"
+  },
+  {
+   "id": "ww2-L01",
+   "qid": "ww2",
+   "level": 1,
+   "rate": 0.05,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "I what year dixSorld War II end?"
+  },
+  {
+   "id": "ww2-L02",
+   "qid": "ww2",
+   "level": 2,
+   "rate": 0.1,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "I what year ixSorld War II end?"
+  },
+  {
+   "id": "ww2-L03",
+   "qid": "ww2",
+   "level": 3,
+   "rate": 0.2,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "I what yer ixSldWa4II end?"
+  },
+  {
+   "id": "ww2-L04",
+   "qid": "ww2",
+   "level": 4,
+   "rate": 0.3,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "i what yer ixSldWa4iI end?"
+  },
+  {
+   "id": "ww2-L05",
+   "qid": "ww2",
+   "level": 5,
+   "rate": 0.4,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "iwhat yder xSlw;a4iI ned"
+  },
+  {
+   "id": "ww2-L06",
+   "qid": "ww2",
+   "level": 6,
+   "rate": 0.5,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "niha tyderxSlw;w4Ji ned"
+  },
+  {
+   "id": "ww2-L07",
+   "qid": "ww2",
+   "level": 7,
+   "rate": 0.6,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "niba tyderxSlw;w4Ji ned"
+  },
+  {
+   "id": "ww2-L08",
+   "qid": "ww2",
+   "level": 8,
+   "rate": 0.7,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "niba tyderxSlw;w4J8 ned"
+  },
+  {
+   "id": "ww2-L09",
+   "qid": "ww2",
+   "level": 9,
+   "rate": 0.8,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "nib tyde5xSlw;w4J8 ned"
+  },
+  {
+   "id": "ww2-L10",
+   "qid": "ww2",
+   "level": 10,
+   "rate": 0.9,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "nib tyde5xSlw;w4J8 8ned"
+  },
+  {
+   "id": "ww2-L11",
+   "qid": "ww2",
+   "level": 11,
+   "rate": 1.0,
+   "question": "In what year did World War II end?",
+   "answer": "1945",
+   "prompt": "nib tydf5xS;w;w4J8 8ned"
+  }
+ ]
+}

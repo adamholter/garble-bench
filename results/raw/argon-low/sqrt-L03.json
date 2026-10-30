@@ -1,0 +1,15 @@
+{
+ "response": "The square root of 144 is **12** (or **\u00b112** if considering both positive and negative roots).\n",
+ "usage": {
+  "input_tokens": 2881,
+  "output_tokens": 32,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.4,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "sqrt-L03"
+}

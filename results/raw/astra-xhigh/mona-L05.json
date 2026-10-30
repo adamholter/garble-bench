@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase or resend your message? I\u2019m not sure what you\u2019re asking.",
+ "usage": {
+  "input_tokens": 10005,
+  "cached_input_tokens": 4224,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 119,
+  "reasoning_output_tokens": 95
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.3,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "mona-L05"
+}

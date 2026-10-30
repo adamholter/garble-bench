@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled text or an accidental keyboard mash. How can I help you today?\n",
+ "usage": {
+  "input_tokens": 2081,
+  "output_tokens": 25852,
+  "reasoning_output_tokens": 12912
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 156.1,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "heart-L08"
+}

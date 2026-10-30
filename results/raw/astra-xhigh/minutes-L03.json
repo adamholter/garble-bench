@@ -1,0 +1,17 @@
+{
+ "response": "There are **1,440 minutes** in one full day (24 \u00d7 60).",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 94,
+  "reasoning_output_tokens": 70
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 40.6,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "minutes-L03"
+}

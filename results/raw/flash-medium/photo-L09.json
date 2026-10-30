@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled, mistyped, or accidentally sent:\n\n> `Dhr4 agq iod ;al4cxbos4bf3obnnwa99r;otcrarh votu to4ysbehis`\n\nCould you please clarify or retype what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6993,
+  "output_tokens": 3244,
+  "reasoning_output_tokens": 1587
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.6,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "photo-L09"
+}

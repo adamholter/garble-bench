@@ -1,0 +1,15 @@
+{
+ "response": "Plants absorb **carbon dioxide ($\\text{CO}_2$)** from the air to carry out photosynthesis.\n\n### Key Details:\n* **How it enters:** Carbon dioxide enters the plant through tiny microscopic pores on the leaves called **stomata**.\n* **The process:** Combining $\\text{CO}_2$ with water ($\\text{H}_2\\text{O}$) and sunlight, plants produce **glucose** (energy/food) and release **oxygen ($\\text{O}_2$)** back into the air as a byproduct.\n\n$$\\text{6 CO}_2 + \\text{6 H}_2\\text{O} + \\text{sunlight} \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 + \\text{6 O}_2$$\n",
+ "usage": {
+  "input_tokens": 6986,
+  "output_tokens": 1900,
+  "reasoning_output_tokens": 866
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "photo-L05"
+}

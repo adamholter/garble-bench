@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you\u2019re asking about? Is `ixSldWa4II` a video ID, or did you mean to ask what year something ended?",
+ "usage": {
+  "input_tokens": 20379,
+  "cached_input_tokens": 16640,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 146,
+  "reasoning_output_tokens": 72
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.5,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "ww2-L03"
+}

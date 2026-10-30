@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you meant **\"What is the tallest mountain in the world above sea level?\"**:\n\nThe tallest mountain in the world above sea level is **Mount Everest**, located in the Mahalangur Himal sub-range of the Himalayas on the border between Nepal and Tibet. \n\nIts official elevation is **8,848.86 meters (29,031.7 feet)** above sea level.\n",
+ "usage": {
+  "input_tokens": 2067,
+  "output_tokens": 474,
+  "reasoning_output_tokens": 193
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.5,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "everest-L07"
+}

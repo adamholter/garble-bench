@@ -1,0 +1,15 @@
+{
+ "response": "You have **6** apples left.\n\n**Breakdown:**\n* Start: 3 apples\n* Buy 5 more: $3 + 5 = 8$ apples\n* Eat 2: $8 - 2 = 6$ apples\n",
+ "usage": {
+  "input_tokens": 6977,
+  "output_tokens": 291,
+  "reasoning_output_tokens": 119
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.9,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "apples-L00"
+}

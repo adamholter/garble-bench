@@ -1,0 +1,15 @@
+{
+ "response": "There are **1,440** minutes in one full day ($24\\text{ hours} \\times 60\\text{ minutes/hour}$).\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.5,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "minutes-L00"
+}

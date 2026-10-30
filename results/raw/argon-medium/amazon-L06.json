@@ -1,0 +1,15 @@
+{
+ "response": "It looks like you're asking **\"What is the longest river in North (or South) America?\"**\n\n* **North America:** The **Missouri River** is the longest river at approximately **2,341 miles (3,767 km)**, slightly longer than the Mississippi River (about 2,320 miles / 3,730 km) into which it flows.\n* **South America:** The **Amazon River** is the longest river at approximately **4,000 miles (6,400 km)**.\n",
+ "usage": {
+  "input_tokens": 6992,
+  "output_tokens": 1028,
+  "reasoning_output_tokens": 454
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.7,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "amazon-L06"
+}

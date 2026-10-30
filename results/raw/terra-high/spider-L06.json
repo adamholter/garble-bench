@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure I understood that. Could you rephrase what you\u2019d like me to do? You can write in Arabic or English.",
+ "usage": {
+  "input_tokens": 10001,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 77,
+  "reasoning_output_tokens": 43
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.4,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "spider-L06"
+}

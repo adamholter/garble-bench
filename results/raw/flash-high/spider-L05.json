@@ -1,0 +1,15 @@
+{
+ "response": "A spider has **8 legs** (four pairs).\n",
+ "usage": {
+  "input_tokens": 6965,
+  "output_tokens": 413,
+  "reasoning_output_tokens": 201
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.5,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "spider-L05"
+}

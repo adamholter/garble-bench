@@ -1,0 +1,17 @@
+{
+ "response": "A hexagon has **6 sides**.",
+ "usage": {
+  "input_tokens": 10006,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 198,
+  "reasoning_output_tokens": 183
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 55.1,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "hexagon-L03"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "**Jane Austen** wrote *Pride and Prejudice*.\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 10,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 11.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "austen-L06"
+}

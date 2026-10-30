@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out what you\u2019d like me to do. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 9384,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 2038,
+  "reasoning_output_tokens": 2013
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 59.3,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "minutes-L08"
+}

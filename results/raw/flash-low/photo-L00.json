@@ -1,0 +1,15 @@
+{
+ "response": "Plants absorb **carbon dioxide** ($\\text{CO}_2$) from the air to carry out photosynthesis. They take it in through tiny openings in their leaves called stomata, combining it with water and sunlight to produce glucose and oxygen.\n",
+ "usage": {
+  "input_tokens": 6965,
+  "output_tokens": 47,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.6,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "photo-L00"
+}

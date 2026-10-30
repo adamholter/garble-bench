@@ -1,0 +1,15 @@
+{
+ "response": "Decoded: **\"Which planet in our solar system is known as the Red Planet?\"**\n\nThe answer is **Mars**.\n",
+ "usage": {
+  "input_tokens": 6989,
+  "output_tokens": 26,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "mars-L05"
+}

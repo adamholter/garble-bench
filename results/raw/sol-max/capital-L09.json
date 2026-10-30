@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend your request? I couldn\u2019t make out the last message.",
+ "usage": {
+  "input_tokens": 10071,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 244,
+  "reasoning_output_tokens": 223
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 48.8,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "capital-L09"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through scrambled or with a few keyboard typos\u2014though I can make out a few pieces at the end like **\"back on\"**, **\"the\"** (or **\"her\"**), and the sign-off **\"-Ernie\"**!\n\nCould you clarify or resend what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 7003,
+  "output_tokens": 47308,
+  "reasoning_output_tokens": 23619
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 276.6,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "mars-L10"
+}

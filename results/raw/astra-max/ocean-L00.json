@@ -1,0 +1,17 @@
+{
+ "response": "The Pacific Ocean is the largest ocean on Earth, covering about one-third of the planet\u2019s surface.",
+ "usage": {
+  "input_tokens": 9998,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 85,
+  "reasoning_output_tokens": 59
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.0,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "ocean-L00"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking what pumps blood through the veins and arteries, the answer is the **heart**.",
+ "usage": {
+  "input_tokens": 42407,
+  "cached_input_tokens": 38528,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 426,
+  "reasoning_output_tokens": 276
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.8,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "heart-L06"
+}

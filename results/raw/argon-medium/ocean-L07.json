@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or contained a typo (`baishteawffems4 kecan o' aearth`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2159,
+  "output_tokens": 216,
+  "reasoning_output_tokens": 86
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.5,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "ocean-L07"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Could you retype your question? The message looks scrambled.",
+ "usage": {
+  "input_tokens": 10074,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 263,
+  "reasoning_output_tokens": 245
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.4,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "moon-L08"
+}

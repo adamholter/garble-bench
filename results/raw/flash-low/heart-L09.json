@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled or typed accidentally (`2h4cihlrtg...`). \n\nCould you please clarify or resend what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6998,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.5,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "heart-L09"
+}

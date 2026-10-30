@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your keyboard slipped! Assuming you meant:\n\n> *\"What are some main languages spoken in Brazil?\"*\n\nHere is an overview of the languages spoken in Brazil:\n\n---\n\n### 1. Official & Primary Language\n* **Portuguese:** Spoken by virtually the entire population (over 98%). Brazilian Portuguese has its own distinct pronunciation, vocabulary, and colloquial grammar compared to European Portuguese.\n\n---\n\n### 2. Indigenous Languages\nBefore European colonization, over 1,000 indigenous languages were spoken. Today, around **150 to 200 indigenous languages** survive, primarily in the Amazon basin. Prominent examples include:\n* **Tikuna:** The most widely spoken indigenous language in Brazil.\n* **Guaran\u00ed (Kaiw\u00e1, Mby\u00e1, \u00d1andeva):** Widely spoken across central and southern regions.\n* **Kaingang & Xavante:** Spoken in central and southern Brazil.\n* **Nheengatu (Lingua Geral):** Derived from classical Tupi; it is a co-official language in the municipality of **S\u00e3o Gabriel da Cachoeira** (Amazonas), alongside Tariana and Baniwa.\n* **Yanomami languages:** Spoken near the border with Venezuela.\n\n---\n\n### 3. Immigrant & Heritage Languages\nCommunities formed by 19th- and 20th-century immigration (mostly concentrated in Southern and Southeastern Brazil) still preserve several heritage languages, many with co-official status at the municipal level:\n* **German Dialects:**\n  * **Riograndenser Hunsr\u00fcckisch (Hunsrik):** A High German dialect widely spoken in Rio Grande do Sul and Santa Catarina.\n  * **East Pomeranian (Pommersch):** A Low German variety spoken in Esp\u00edrito Santo, Santa Catarina, and Rio Grande do Sul.\n* **Italian Dialects:**\n  * **Talian (Venetian):** Spoken in the wine-growing regions of Rio Grande do Sul and Santa Catarina.\n* **Japanese:** Preserved within immigrant communities, especially in S\u00e3o Paulo and Paran\u00e1.\n\n---\n\n### 4. Sign Language\n* **Libras (L\u00edngua Brasileira de Sinais):** Officially recognized by federal law as an accepted means of communication and expression for the Brazilian deaf community.\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 3400,
+  "reasoning_output_tokens": 1456
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 23.2,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "brazil-L06"
+}

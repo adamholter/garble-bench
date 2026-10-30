@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed by mistake or got garbled (`w~h3or64ehbovx lptdi2 ajm dprey7dlve`). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6989,
+  "output_tokens": 50,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.3,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "austen-L09"
+}

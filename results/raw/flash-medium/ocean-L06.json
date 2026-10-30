@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you are asking **\"What is the awesomest (or warmest / deepest) ocean of Earth?\"**:\n\n* **Most \"Awesome\" / Largest & Deepest:** The **Pacific Ocean**\n  * It is the largest and deepest ocean on Earth, covering more than 30% of the globe\u2014larger than all the world's landmasses combined.\n  * It contains the deepest known point on the planet, the **Mariana Trench** (Challenger Deep, ~11,000 m / 36,000 ft).\n  * *Fun fact:* Ferdinand Magellan named it *Mar Pac\u00edfico*, which literally means the **\"peaceful\" or \"calm\"** ocean.\n\n* **If you meant Warmest:** The **Indian Ocean** (has the highest average surface temperatures).\n* **If you meant Coldest / Smallest:** The **Arctic Ocean**.\n",
+ "usage": {
+  "input_tokens": 6975,
+  "output_tokens": 9140,
+  "reasoning_output_tokens": 4474
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 47.3,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "ocean-L06"
+}

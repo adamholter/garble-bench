@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message was: **\"What is the main language / what are some languages spoken in Brazil?\"**\n\nHere is the breakdown:\n\n### 1. Official & Primary Language\n* **Portuguese (Brazilian Portuguese):** The official and predominant language of Brazil, spoken natively by roughly 98\u201399% of the population. Brazil is the only Portuguese-speaking nation in the Americas.\n\n---\n\n### 2. Other Languages Spoken in Brazil\n\n* **Brazilian Sign Language (Libras):** Officially recognized by federal law as a legal means of communication and expression for the deaf community.\n* **Indigenous Languages:** More than 150 indigenous languages are spoken across the country, primarily in the Amazon basin. Prominent examples include:\n  * **Guarani**\n  * **Ticuna**\n  * **Yanomami**\n  * **Kaingang**\n  * *(Some municipalities, like S\u00e3o Gabriel da Cachoeira, have co-official indigenous languages such as Nheengatu, Baniwa, and Tukano).*\n* **Immigrant Dialects & Minority Languages:** Particularly in the southern and southeastern states:\n  * **German dialects:** Notably *Riograndenser Hunsr\u00fcckisch* and *East Pomeranian*.\n  * **Italian dialects:** Primarily *Talian* (Venetian-derived).\n  * **Japanese:** Spoken within Japanese-Brazilian communities (especially in S\u00e3o Paulo and Paran\u00e1).\n* **Border Languages:** **Portu\u00f1ol** (an informal blend of Portuguese and Spanish) is widely used along borders with neighboring South American countries.\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 3790,
+  "reasoning_output_tokens": 1726
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.0,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "brazil-L06"
+}

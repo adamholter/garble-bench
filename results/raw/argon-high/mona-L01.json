@@ -1,0 +1,15 @@
+{
+ "response": "**Leonardo da Vinci** painted the *Mona Lisa*, beginning work on it around 1503 during the Italian Renaissance.\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 191,
+  "reasoning_output_tokens": 80
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.1,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "mona-L01"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you meant **\"What is the warmest ocean on Earth?\"**, the answer is the **Indian Ocean**. \n\nIt is the warmest ocean in the world, with surface water temperatures in its tropical regions regularly averaging between **22\u00b0C and 28\u00b0C (72\u00b0F to 82\u00b0F)**. Because the northern boundary of the Indian Ocean is landlocked by Asia, it gets very little cold water circulation from the Arctic, keeping its overall temperature higher than the Pacific or Atlantic oceans.\n\n*(Note: If you meant a smaller body of water like a sea, the **Red Sea** and the **Persian Gulf**\u2014both connected to the Indian Ocean\u2014have the warmest sea temperatures on Earth, often exceeding 32\u00b0C / 90\u00b0F in the summer!)*\n",
+ "usage": {
+  "input_tokens": 2166,
+  "output_tokens": 168,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.0,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "ocean-L05"
+}

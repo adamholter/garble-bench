@@ -1,0 +1,17 @@
+{
+ "response": "If you start with 3 apples, then buy 5 and eat 2, you have **6 apples left**.",
+ "usage": {
+  "input_tokens": 9397,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 93,
+  "reasoning_output_tokens": 62
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.6,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "apples-L03"
+}

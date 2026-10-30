@@ -1,0 +1,17 @@
+{
+ "response": "The chemical symbol for gold is **Au**.",
+ "usage": {
+  "input_tokens": 10074,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 14,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.6,
+ "config": "sol-medium",
+ "model": "gpt-6.1-sol",
+ "effort": "medium",
+ "item": "gold-L03"
+}

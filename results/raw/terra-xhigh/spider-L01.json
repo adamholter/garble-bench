@@ -1,0 +1,17 @@
+{
+ "response": "A spider has **eight legs**.",
+ "usage": {
+  "input_tokens": 10002,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 12,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.3,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "spider-L01"
+}

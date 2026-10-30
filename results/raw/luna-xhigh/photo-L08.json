@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean. Could you rephrase that?",
+ "usage": {
+  "input_tokens": 9396,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 897,
+  "reasoning_output_tokens": 877
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.7,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "photo-L08"
+}

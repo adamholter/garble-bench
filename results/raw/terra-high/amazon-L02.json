@@ -1,0 +1,17 @@
+{
+ "response": "The **Amazon River** is the longest river in South America, at approximately **6,400 km (4,000 miles)** long.",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 32,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.2,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "amazon-L02"
+}

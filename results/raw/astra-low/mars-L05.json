@@ -1,0 +1,17 @@
+{
+ "response": "Mars is known as the Red Planet.",
+ "usage": {
+  "input_tokens": 10018,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 36,
+  "reasoning_output_tokens": 22
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.0,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "mars-L05"
+}

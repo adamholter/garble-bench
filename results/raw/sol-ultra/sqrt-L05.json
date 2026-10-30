@@ -1,0 +1,17 @@
+{
+ "response": "What number do you want the square root of? I couldn\u2019t read \u201c1r.\u201d",
+ "usage": {
+  "input_tokens": 10115,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 540,
+  "reasoning_output_tokens": 516
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 46.4,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "sqrt-L05"
+}

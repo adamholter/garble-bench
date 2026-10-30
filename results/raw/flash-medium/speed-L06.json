@@ -1,0 +1,15 @@
+{
+ "response": "Light travels in a vacuum at:\n\n* **Exact speed:** **$299,792.458\\text{ km/s}$** ($299,792,458\\text{ m/s}$)\n* **Common approximation:** roughly **$300,000\\text{ km/s}$** ($3 \\times 10^5\\text{ km/s}$)\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 4699,
+  "reasoning_output_tokens": 2303
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.2,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "speed-L06"
+}

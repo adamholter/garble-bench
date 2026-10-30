@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed accidentally or garbled (`w=nat l sgme/ miaj lqangufaegsoowk-nni eazil]`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2896,
+  "output_tokens": 54,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.2,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "brazil-L05"
+}

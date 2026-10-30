@@ -1,0 +1,17 @@
+{
+ "response": "Could you retype that? I couldn\u2019t make out what you\u2019re asking.",
+ "usage": {
+  "input_tokens": 10010,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 210,
+  "reasoning_output_tokens": 188
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.2,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "moon-L08"
+}

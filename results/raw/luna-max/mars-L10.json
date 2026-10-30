@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make sense of that message. Could you retype it?",
+ "usage": {
+  "input_tokens": 9395,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 878,
+  "reasoning_output_tokens": 857
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.6,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "mars-L10"
+}

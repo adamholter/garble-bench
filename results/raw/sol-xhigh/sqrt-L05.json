@@ -1,0 +1,17 @@
+{
+ "response": "Did you mean \u201cWhat is the square root of 16?\u201d If so, it\u2019s **4**.",
+ "usage": {
+  "input_tokens": 10068,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 704,
+  "reasoning_output_tokens": 676
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 47.2,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "sqrt-L05"
+}

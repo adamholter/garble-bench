@@ -1,0 +1,17 @@
+{
+ "response": "Light travels through a vacuum at about **299,792 kilometers per second**\u2014roughly **300,000 km/s**.",
+ "usage": {
+  "input_tokens": 9384,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 72,
+  "reasoning_output_tokens": 40
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 23.0,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "speed-L03"
+}

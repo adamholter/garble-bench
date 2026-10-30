@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been scrambled or typed accidentally. Could you please clarify what you need help with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 1535,
+  "reasoning_output_tokens": 756
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.8,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "brazil-L10"
+}

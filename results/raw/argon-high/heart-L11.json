@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed by mistake or garbled (`2h4cimlrtg`zbi2nwtuh...`). \n\nCould you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2085,
+  "output_tokens": 29825,
+  "reasoning_output_tokens": 14888
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 152.3,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "heart-L11"
+}

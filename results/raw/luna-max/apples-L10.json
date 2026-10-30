@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make sense of that text. Could you resend your message?",
+ "usage": {
+  "input_tokens": 9415,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1989,
+  "reasoning_output_tokens": 1968
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.7,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "apples-L10"
+}

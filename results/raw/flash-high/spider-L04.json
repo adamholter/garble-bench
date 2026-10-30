@@ -1,0 +1,15 @@
+{
+ "response": "A spider has **8 legs** (4 pairs). \n\nUnlike insects, which have 6 legs, spiders are arachnids. They also have a pair of leg-like appendages near their mouth called **pedipalps**, which are used for sensing, holding prey, or mating, but are not true walking legs.\n",
+ "usage": {
+  "input_tokens": 6959,
+  "output_tokens": 576,
+  "reasoning_output_tokens": 255
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.9,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "spider-L04"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or sent by accident. Could you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 1909,
+  "reasoning_output_tokens": 939
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.6,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "piano-L09"
+}

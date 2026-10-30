@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain typos or scrambled text:\n\n> `1 /9s64 frekzkh gp9itnp fdqre n 7de4berede fa6mrenj4ti`\n\nCould you please clarify or rephrase what you would like help with?\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 61,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "freeze-L08"
+}

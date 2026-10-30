@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your input was heavily mistyped or scrambled from keyboard slips, deciphering to:\n\n> **\"What is the name of the curry recipe used in Japan?\"** (or *\"curry recipe used in Japan\"*)\n\n---\n\n### Name\n\n* **Kar\u0113 Raisu** (\u30ab\u30ec\u30fc\u30e9\u30a4\u30b9, Curry Rice) \u2014 often simply called **Kar\u0113** (\u30ab\u30ec\u30fc).\n* **Kaigun Kar\u0113** (\u6d77\u8ecd\u30ab\u30ec\u30fc, Navy Curry) \u2014 The historical Meiji-era naval recipe originating in Yokosuka that popularized curry in Japan.\n* **Katsu Kar\u0113** (\u30ab\u30c4\u30ab\u30ec\u30fc) \u2014 When served topped with a crispy breaded pork or chicken cutlet (*tonkatsu*).\n\n---\n\n### Classic Japanese Curry Recipe\n\nUnlike Indian or Thai curries, Japanese curry is sweeter, milder, thicker, and gravy-like, made with a roux.\n\n#### Ingredients (4\u20136 servings)\n\n* **Meat:** 1 lb (450g) beef chuck, pork, or chicken thighs (cubed)\n* **Vegetables:**\n  * 2 medium onions (thinly sliced)\n  * 2 carrots (cut into rolling wedges / *rangiri*)\n  * 2 large russet or Yukon Gold potatoes (cut into chunks)\n* **Liquid:** 4 cups (950ml) water or dashi/chicken broth\n* **Curry Base:** 1 box (about 100g) Japanese curry roux (such as *S&B Golden Curry*, *House Vermont Curry*, or *Java Curry*)\n* **\"Secret\" enhancers (choose 1\u20132):** 1 tbsp soy sauce, 1 tbsp Worcestershire or tonkatsu sauce, \u00bd grated apple, or 1 tsp honey\n* **To serve:** Steamed Japanese short-grain rice and *fukujinzuke* (red pickled vegetables)\n\n#### Instructions\n\n1. **Caramelize onions:** In a heavy pot, heat 1 tbsp oil over medium heat. Saut\u00e9 the sliced onions until deep golden-brown (10\u201315 mins).\n2. **Brown meat & vegetables:** Add the cubed meat and sear until browned on the outside. Add the carrots and potatoes, stirring for 2\u20133 minutes.\n3. **Simmer:** Pour in the water or broth. Bring to a boil, skim off any surface foam, then cover and simmer on low for about 15\u201320 minutes until the vegetables are tender.\n4. **Dissolve the roux:** Turn off the heat. Break the curry roux blocks into the pot, stirring until completely dissolved.\n5. **Thicken & season:** Turn heat back to low. Stir in your choice of flavor enhancers (grated apple, soy sauce, or Worcestershire sauce) and simmer uncovered for 5\u201310 minutes until thick and glossy.\n6. **Serve:** Ladle over warm Japanese rice, alongside *fukujinzuke* pickles.\n\n---\n\n*(If your text was meant to ask something else, please let me know!)*\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 29247,
+  "reasoning_output_tokens": 14302
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 126.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "yen-L06"
+}

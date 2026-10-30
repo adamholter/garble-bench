@@ -1,0 +1,17 @@
+{
+ "response": "If you started with 3 apples, then \\(3 + 5 - 2 = 6\\). You have **6 apples left**.",
+ "usage": {
+  "input_tokens": 9398,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 450,
+  "reasoning_output_tokens": 414
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.9,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "apples-L04"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or typed by mistake (`wohq sht4irtsoosn9o3xl\\notwd 'mx0nf`). \n\nCould you please clarify what you would like help with?\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 11342,
+  "reasoning_output_tokens": 5645
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 73.3,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "moon-L10"
+}

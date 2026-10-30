@@ -1,0 +1,17 @@
+{
+ "response": "The currency used in Japan is the **Japanese yen** (\u00a5), abbreviated **JPY**.",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 44,
+  "reasoning_output_tokens": 19
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 31.9,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "yen-L03"
+}

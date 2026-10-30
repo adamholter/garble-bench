@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking how many sides a hexagon has, the answer is **six**.",
+ "usage": {
+  "input_tokens": 42300,
+  "cached_input_tokens": 28288,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 256,
+  "reasoning_output_tokens": 112
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.4,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "hexagon-L04"
+}

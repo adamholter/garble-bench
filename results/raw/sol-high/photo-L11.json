@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase your message? I couldn\u2019t understand it.",
+ "usage": {
+  "input_tokens": 10081,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 75,
+  "reasoning_output_tokens": 56
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.9,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "photo-L11"
+}

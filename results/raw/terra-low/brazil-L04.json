@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking what languages are spoken in Brazil, **Portuguese** is the official language and is spoken by nearly everyone.\n\nBrazil is also home to many Indigenous languages, including Tikuna, Guarani and Nheengatu. Some communities speak languages brought by immigrants, such as German, Italian and Japanese.",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 67,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.0,
+ "config": "terra-low",
+ "model": "gpt-6.1-terra",
+ "effort": "low",
+ "item": "brazil-L04"
+}

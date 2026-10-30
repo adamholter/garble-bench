@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your keyboard or text encoding might have slipped while typing (e.g. hands shifted on the home row, Dvorak/QWERTY mismatch, or a corrupted paste). \n\nCould you please retype or clarify what you need help with?\n",
+ "usage": {
+  "input_tokens": 6990,
+  "output_tokens": 54,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.6,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "speed-L10"
+}

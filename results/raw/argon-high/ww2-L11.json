@@ -1,0 +1,15 @@
+{
+ "response": "It looks like that message might have been sent by accident (perhaps a keyboard mash or security key tap). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6993,
+  "output_tokens": 388,
+  "reasoning_output_tokens": 178
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.2,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "ww2-L11"
+}

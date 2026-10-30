@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you meant? It looks like there may be a few typing errors in your message.",
+ "usage": {
+  "input_tokens": 10002,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 40,
+  "reasoning_output_tokens": 13
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.3,
+ "config": "terra-low",
+ "model": "gpt-6.1-terra",
+ "effort": "low",
+ "item": "sqrt-L05"
+}

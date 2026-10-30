@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you\u2019d like help with?",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 170,
+  "reasoning_output_tokens": 154
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 42.9,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "ww2-L09"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean by \u201cow mna leg sdo3sa spiderhae.\u201d Could you rephrase or tell me what you\u2019d like changed?",
+ "usage": {
+  "input_tokens": 29801,
+  "cached_input_tokens": 26240,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 143,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.3,
+ "config": "luna-low",
+ "model": "gpt-6-luna",
+ "effort": "low",
+ "item": "spider-L05"
+}

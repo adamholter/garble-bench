@@ -1,0 +1,17 @@
+{
+ "response": "Buying 5 and eating 2 leaves you with 3 more apples than you started with. How many apples did you have at first?",
+ "usage": {
+  "input_tokens": 10088,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 172,
+  "reasoning_output_tokens": 138
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 22.3,
+ "config": "sol-medium",
+ "model": "gpt-6.1-sol",
+ "effort": "medium",
+ "item": "apples-L04"
+}

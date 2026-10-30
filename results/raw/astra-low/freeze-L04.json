@@ -1,0 +1,17 @@
+{
+ "response": "The freezing point of water is **32\u00b0F** (0\u00b0C).",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 4224,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 38,
+  "reasoning_output_tokens": 18
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.9,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "freeze-L04"
+}

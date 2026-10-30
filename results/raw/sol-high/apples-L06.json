@@ -1,0 +1,17 @@
+{
+ "response": "You have **13 apples** left: 10 + 5 \u2212 2 = 13.",
+ "usage": {
+  "input_tokens": 10091,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 172,
+  "reasoning_output_tokens": 146
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.9,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "apples-L06"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Portuguese is the main language spoken in Brazil.",
+ "usage": {
+  "input_tokens": 9377,
+  "cached_input_tokens": 4224,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 57,
+  "reasoning_output_tokens": 41
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.6,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "brazil-L02"
+}

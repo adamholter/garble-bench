@@ -1,0 +1,17 @@
+{
+ "response": "Are you asking what the longest river is in **North America** or **South America**?",
+ "usage": {
+  "input_tokens": 10011,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 479,
+  "reasoning_output_tokens": 454
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 47.9,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "amazon-L06"
+}

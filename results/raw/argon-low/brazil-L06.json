@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or mistyped (perhaps something like *\"what language...\"*?). Could you clarify what you'd like to know or do?\n",
+ "usage": {
+  "input_tokens": 6989,
+  "output_tokens": 40,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.5,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "brazil-L06"
+}

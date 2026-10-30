@@ -1,0 +1,17 @@
+{
+ "response": "Light travels in a vacuum at roughly **300,000 kilometers per second**.",
+ "usage": {
+  "input_tokens": 10129,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 203,
+  "reasoning_output_tokens": 181
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.7,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "speed-L04"
+}

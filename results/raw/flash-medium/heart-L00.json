@@ -1,0 +1,15 @@
+{
+ "response": "The **heart** is the organ that pumps blood throughout the human body via the circulatory system (arteries, veins, and capillaries).\n",
+ "usage": {
+  "input_tokens": 6968,
+  "output_tokens": 161,
+  "reasoning_output_tokens": 67
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.8,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "heart-L00"
+}

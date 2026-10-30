@@ -1,0 +1,15 @@
+{
+ "response": "The official and predominant language spoken in Brazil is **Portuguese**, spoken by roughly 98\u201399% of the population. Brazil is the only Portuguese-speaking nation in the Americas.\n\nOther languages spoken across Brazil include:\n\n1. **Indigenous Languages**:\n   - Over 150 to 200 distinct indigenous languages and dialects survive, predominantly in the Amazon basin.\n   - Prominent examples include **Tikuna**, **Guarani**, **Kaingang**, and **Yanomami**.\n   - **Nheengatu** (a modern descendant of Tupinamb\u00e1) has co-official status in some municipalities in the state of Amazonas (e.g., S\u00e3o Gabriel da Cachoeira).\n\n2. **Immigrant Languages and Dialects**:\n   - **Riograndenser Hunsr\u00fcckisch** (a dialect of German) and **Pomeranian**, spoken in parts of southern and southeastern Brazil.\n   - **Talian** (a Venetian dialect), also spoken in southern Brazil.\n   - **Japanese**, spoken particularly in parts of S\u00e3o Paulo and Paran\u00e1 by the Japanese-Brazilian community.\n\n3. **Brazilian Sign Language (Libras)**:\n   - Officially recognized by federal law since 2002 as a legal means of communication.\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 884,
+  "reasoning_output_tokens": 307
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 11.9,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "brazil-L04"
+}

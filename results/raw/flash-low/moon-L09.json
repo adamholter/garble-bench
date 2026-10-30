@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been mistyped or scrambled. Could you please clarify or rephrase what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6968,
+  "output_tokens": 355,
+  "reasoning_output_tokens": 164
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.1,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "moon-L09"
+}

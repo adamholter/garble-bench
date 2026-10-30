@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be scrambled, encrypted, or accidental keyboard input (`bacsihteawffemx4kecal no' aecxtrh`).\n\nCould you please clarify your request, or provide the context/cipher key if you are looking to decode this text?\n",
+ "usage": {
+  "input_tokens": 6975,
+  "output_tokens": 59507,
+  "reasoning_output_tokens": 29725
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 250.5,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "ocean-L10"
+}

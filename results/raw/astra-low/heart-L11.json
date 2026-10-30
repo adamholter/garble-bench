@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand that message. Could you resend it or describe what you\u2019d like me to do?",
+ "usage": {
+  "input_tokens": 10039,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 25,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.4,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "heart-L11"
+}

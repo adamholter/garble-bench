@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled or typed by accident:\n\n> `2h4cihlrtg`zbi2nwtuh. euhjagvh [u,p.qlbkd= 3fmuog4g6h;evuevni snadha8dt3e]i1d`\n\nCould you please clarify what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 7007,
+  "output_tokens": 80,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.2,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "heart-L10"
+}

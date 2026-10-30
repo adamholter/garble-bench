@@ -1,0 +1,17 @@
+{
+ "response": "Jane Austen.",
+ "usage": {
+  "input_tokens": 10048,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 7,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.3,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "austen-L00"
+}

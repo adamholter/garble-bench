@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make sense of that message. Could you retype it or tell me what you\u2019d like help with?",
+ "usage": {
+  "input_tokens": 9412,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 352,
+  "reasoning_output_tokens": 322
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 31.8,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "heart-L10"
+}

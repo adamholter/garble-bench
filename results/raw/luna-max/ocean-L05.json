@@ -1,0 +1,17 @@
+{
+ "response": "The **Indian Ocean** is the warmest ocean on Earth on average.",
+ "usage": {
+  "input_tokens": 9376,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 94,
+  "reasoning_output_tokens": 73
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.9,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "ocean-L05"
+}

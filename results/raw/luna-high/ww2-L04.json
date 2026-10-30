@@ -1,0 +1,17 @@
+{
+ "response": "If you mean World War II, it ended in 1945.",
+ "usage": {
+  "input_tokens": 9374,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 346,
+  "reasoning_output_tokens": 326
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.0,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "ww2-L04"
+}

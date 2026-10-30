@@ -1,0 +1,17 @@
+{
+ "response": "Could you retype your question? I couldn\u2019t make out what you meant.",
+ "usage": {
+  "input_tokens": 10076,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 142,
+  "reasoning_output_tokens": 120
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.0,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "moon-L08"
+}

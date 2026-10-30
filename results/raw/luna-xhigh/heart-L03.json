@@ -1,0 +1,17 @@
+{
+ "response": "The heart pumps blood through the body. Arteries carry blood away from it, and veins carry blood back.",
+ "usage": {
+  "input_tokens": 9392,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 146,
+  "reasoning_output_tokens": 118
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.5,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "heart-L03"
+}

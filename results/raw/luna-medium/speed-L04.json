@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean. Could you rephrase or add a little context?",
+ "usage": {
+  "input_tokens": 9388,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 22,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.6,
+ "config": "luna-medium",
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "item": "speed-L04"
+}

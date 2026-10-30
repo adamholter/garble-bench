@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make sense of \u201cwho wor64ehbovlprdi2 ajm dprey7dlve.\u201d Could you rephrase it?",
+ "usage": {
+  "input_tokens": 9382,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 379,
+  "reasoning_output_tokens": 341
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.5,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "austen-L07"
+}

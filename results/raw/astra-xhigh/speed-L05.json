@@ -1,0 +1,17 @@
+{
+ "response": "Light travels in a vacuum at **299,792.458 kilometers per second**\u2014roughly **300,000 km/s**.",
+ "usage": {
+  "input_tokens": 10017,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 144,
+  "reasoning_output_tokens": 111
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 50.9,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "speed-L05"
+}

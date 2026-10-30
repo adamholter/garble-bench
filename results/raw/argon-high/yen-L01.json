@@ -1,0 +1,15 @@
+{
+ "response": "The currency used in Japan is the **Japanese yen** (symbol: **\u00a5**, ISO code: **JPY**).\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 236,
+  "reasoning_output_tokens": 104
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.0,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "yen-L01"
+}

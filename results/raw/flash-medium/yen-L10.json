@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be scrambled or encoded (`3ahy7zje\\noad /or f5h3r uucr\\rfcp ysud1i5Ypaqj`). \n\nCould you please clarify or rephrase what you'd like assistance with?\n",
+ "usage": {
+  "input_tokens": 6989,
+  "output_tokens": 297,
+  "reasoning_output_tokens": 119
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.2,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "yen-L10"
+}

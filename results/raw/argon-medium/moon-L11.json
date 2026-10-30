@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed with a different keyboard layout (such as Dvorak on a QWERTY keyboard, or vice versa) or was sent accidentally. \n\nCould you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2144,
+  "output_tokens": 53,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.9,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "moon-L11"
+}

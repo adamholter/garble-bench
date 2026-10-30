@@ -1,0 +1,15 @@
+{
+ "response": "Translating your message:\n\n> *\"If I have ten apples, [get] five more, and then eat two, how many apples do I have left?\"*\n\nYou would have **13** apples left.\n\n**Step-by-step:**\n1. Start with **10** apples\n2. Add **5** more: $10 + 5 = 15$\n3. Eat **2**: $15 - 2 = 13$\n",
+ "usage": {
+  "input_tokens": 7000,
+  "output_tokens": 3457,
+  "reasoning_output_tokens": 1678
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.5,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "apples-L07"
+}

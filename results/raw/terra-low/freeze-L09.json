@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t determine what you\u2019d like me to do from that message. Could you clarify or resend it?",
+ "usage": {
+  "input_tokens": 10016,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 26,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.5,
+ "config": "terra-low",
+ "model": "gpt-6.1-terra",
+ "effort": "low",
+ "item": "freeze-L09"
+}

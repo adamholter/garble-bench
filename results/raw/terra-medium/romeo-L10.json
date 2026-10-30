@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what \u201cEllbyr1rhp4e Gpnmwj~ulc7eg\u201d refers to. What would you like me to do with it?",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 56,
+  "reasoning_output_tokens": 13
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.6,
+ "config": "terra-medium",
+ "model": "gpt-6.1-terra",
+ "effort": "medium",
+ "item": "romeo-L10"
+}

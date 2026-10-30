@@ -1,0 +1,17 @@
+{
+ "response": "Do you mean, \u201cWho painted the Mona Lisa?\u201d It was painted by Leonardo da Vinci.",
+ "usage": {
+  "input_tokens": 9374,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 23,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.9,
+ "config": "luna-medium",
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "item": "mona-L02"
+}

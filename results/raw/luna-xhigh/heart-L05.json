@@ -1,0 +1,17 @@
+{
+ "response": "The heart pumps blood through the arteries and veins.",
+ "usage": {
+  "input_tokens": 9401,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 510,
+  "reasoning_output_tokens": 494
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.9,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "heart-L05"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled, mistyped, or sent by accident:\n\n> `3hy7zjenad o fthr uc6r\\recp ysued1i5Yapaj`\n\nCould you please clarify or restate what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6980,
+  "output_tokens": 1179,
+  "reasoning_output_tokens": 560
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.7,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "yen-L07"
+}

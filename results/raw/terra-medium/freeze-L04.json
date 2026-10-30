@@ -1,0 +1,17 @@
+{
+ "response": "The freezing point of water is **32\u00b0F** at standard atmospheric pressure.",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 44,
+  "reasoning_output_tokens": 23
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.8,
+ "config": "terra-medium",
+ "model": "gpt-6.1-terra",
+ "effort": "medium",
+ "item": "freeze-L04"
+}

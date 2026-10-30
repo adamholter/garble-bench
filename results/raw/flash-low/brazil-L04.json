@@ -1,0 +1,15 @@
+{
+ "response": "It looks like you're asking: **\"What is the main language spoken in Brazil?\"**\n\nThe official and predominant language spoken in Brazil is **Portuguese**. Brazil is the only Portuguese-speaking nation in the Americas, and it is spoken by virtually the entire population.\n",
+ "usage": {
+  "input_tokens": 6981,
+  "output_tokens": 55,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 4.7,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "brazil-L04"
+}

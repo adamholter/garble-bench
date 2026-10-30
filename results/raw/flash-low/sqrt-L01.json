@@ -1,0 +1,15 @@
+{
+ "response": "The square root of 144 is **12** (since $12 \\times 12 = 144$), or **-12** if considering negative roots. In most contexts, the principal square root is meant, which is **12**.\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 57,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.5,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "sqrt-L01"
+}

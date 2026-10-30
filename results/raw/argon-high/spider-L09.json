@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been mistyped (`wnnalehg6 sdo3qa xpd,e5hz2`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6984,
+  "output_tokens": 1274,
+  "reasoning_output_tokens": 616
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.5,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "spider-L09"
+}

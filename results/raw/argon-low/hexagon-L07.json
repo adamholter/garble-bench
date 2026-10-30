@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed by mistake or with a different keyboard layout (`h`;a jy 5sli2ed ofs y3x7ga; nz`). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 2155,
+  "output_tokens": 48,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.0,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "hexagon-L07"
+}

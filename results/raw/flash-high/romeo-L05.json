@@ -1,0 +1,15 @@
+{
+ "response": "It looks like you meant to ask: **\"Which playwright wrote Romeo and Juliet?\"**\n\nThe answer is **William Shakespeare**.\n",
+ "usage": {
+  "input_tokens": 6985,
+  "output_tokens": 3978,
+  "reasoning_output_tokens": 1976
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "romeo-L05"
+}

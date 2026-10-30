@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain a typo or accidental keystrokes. \n\nCould you please clarify what you would like assistance with or re-enter the command/question?\n",
+ "usage": {
+  "input_tokens": 6992,
+  "output_tokens": 854,
+  "reasoning_output_tokens": 409
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.1,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "everest-L11"
+}

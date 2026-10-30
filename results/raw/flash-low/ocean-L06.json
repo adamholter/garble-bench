@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your question translates to: **\"What is the warmest ocean on Earth?\"**\n\nThe warmest ocean on Earth is the **Indian Ocean**, with surface water temperatures frequently reaching between 28\u00b0C and 30\u00b0C (82\u00b0F\u201386\u00b0F) in its tropical zones, particularly near the equator and the Persian Gulf / Red Sea regions.\n",
+ "usage": {
+  "input_tokens": 6968,
+  "output_tokens": 78,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.3,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "ocean-L06"
+}

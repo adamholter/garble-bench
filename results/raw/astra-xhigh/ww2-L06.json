@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean. Could you rephrase that?",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 98,
+  "reasoning_output_tokens": 78
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.0,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "ww2-L06"
+}

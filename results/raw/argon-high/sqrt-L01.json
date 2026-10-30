@@ -1,0 +1,15 @@
+{
+ "response": "The square root of 144 is **12** (since $12 \\times 12 = 144$). \n\n*(If considering both positive and negative roots, $x^2 = 144$ has solutions **12** and **-12**.)*\n",
+ "usage": {
+  "input_tokens": 6977,
+  "output_tokens": 280,
+  "reasoning_output_tokens": 106
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.5,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "sqrt-L01"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you meant you started with **three apples**, you\u2019d have **6 apples left**: 3 + 5 \u2212 2 = 6.",
+ "usage": {
+  "input_tokens": 10024,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1020,
+  "reasoning_output_tokens": 983
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 60.2,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "apples-L04"
+}

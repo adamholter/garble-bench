@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat is the longest river in America?\u201d:\n\n- **North America:** the **Missouri River**, about 2,341 miles (3,767 km).\n- **South America:** the **Amazon River**, about 4,000 miles (6,400 km).",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1405,
+  "reasoning_output_tokens": 1341
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 70.7,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "amazon-L06"
+}

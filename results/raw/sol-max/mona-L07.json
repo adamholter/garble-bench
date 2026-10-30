@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase your message? I\u2019m not sure what you\u2019d like help with.",
+ "usage": {
+  "input_tokens": 10067,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 165,
+  "reasoning_output_tokens": 141
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 46.7,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "mona-L07"
+}

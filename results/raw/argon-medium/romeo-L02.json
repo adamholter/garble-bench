@@ -1,0 +1,15 @@
+{
+ "response": "*Romeo and Juliet* was written by **William Shakespeare**.\n",
+ "usage": {
+  "input_tokens": 2049,
+  "output_tokens": 16,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.4,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "romeo-L02"
+}

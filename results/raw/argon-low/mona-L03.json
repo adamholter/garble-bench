@@ -1,0 +1,15 @@
+{
+ "response": "**Leonardo da Vinci** painted the *Mona Lisa* (typically dated between 1503 and 1506, though he may have continued working on it until around 1517).\n",
+ "usage": {
+  "input_tokens": 7006,
+  "output_tokens": 48,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.7,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mona-L03"
+}

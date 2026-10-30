@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make out that message. Could you resend it?",
+ "usage": {
+  "input_tokens": 10074,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 123,
+  "reasoning_output_tokens": 104
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.0,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "hexagon-L09"
+}

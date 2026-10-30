@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through garbled (`h1i7c'tp4l,wenij \\ohd as'onapd wue,nis2 kndowbac teh E pienr`). \n\nCould you please re-send or clarify what you would like help with?\n",
+ "usage": {
+  "input_tokens": 6996,
+  "output_tokens": 30305,
+  "reasoning_output_tokens": 15119
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 178.8,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "mars-L08"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "Assuming your message is a typo for **\"Who was the first person to walk on the moon?\"**:\n\nThe first person to walk on the Moon was **Neil Armstrong** on **July 20, 1969** (July 21 UTC), during NASA's **Apollo 11** mission. He was followed closely by Buzz Aldrin.\n\n*(If you meant something else, please let me know!)*\n",
+ "usage": {
+  "input_tokens": 6988,
+  "output_tokens": 93,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.2,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "moon-L08"
+}

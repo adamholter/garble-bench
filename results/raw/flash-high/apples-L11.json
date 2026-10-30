@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been typed accidentally, shifted on the keyboard, or corrupted. \n\nCould you please clarify or retype what you would like assistance with?\n",
+ "usage": {
+  "input_tokens": 7004,
+  "output_tokens": 2425,
+  "reasoning_output_tokens": 1195
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 14.6,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "apples-L11"
+}

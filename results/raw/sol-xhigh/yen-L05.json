@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend or rephrase your request? The message appears garbled.",
+ "usage": {
+  "input_tokens": 10077,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 152,
+  "reasoning_output_tokens": 131
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.9,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "yen-L05"
+}

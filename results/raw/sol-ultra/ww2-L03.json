@@ -1,0 +1,17 @@
+{
+ "response": "If you mean World War II, it ended in **1945**.",
+ "usage": {
+  "input_tokens": 10114,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 302,
+  "reasoning_output_tokens": 281
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.8,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "ww2-L03"
+}

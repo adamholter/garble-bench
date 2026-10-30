@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been mistyped or scrambled (`2q5gfatll2a tm9n=i5gon\\txe[ pwtif dv0b eexs ~/2ceml```). \n\nCould you please clarify what you would like to do or retype your request?\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 4968,
+  "reasoning_output_tokens": 2451
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 23.8,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "everest-L11"
+}

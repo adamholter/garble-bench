@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean\u2014could you rephrase your question?",
+ "usage": {
+  "input_tokens": 9380,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 228,
+  "reasoning_output_tokens": 207
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.9,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "piano-L08"
+}

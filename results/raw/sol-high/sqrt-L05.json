@@ -1,0 +1,17 @@
+{
+ "response": "Did you mean \u201cWhat is the square root of 1?\u201d If so, the answer is **1**.",
+ "usage": {
+  "input_tokens": 10066,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 279,
+  "reasoning_output_tokens": 250
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 31.3,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "sqrt-L05"
+}

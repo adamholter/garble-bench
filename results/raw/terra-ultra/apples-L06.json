@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m having trouble reading your message. Could you please retype it?",
+ "usage": {
+  "input_tokens": 10076,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 112,
+  "reasoning_output_tokens": 91
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 26.8,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "apples-L06"
+}

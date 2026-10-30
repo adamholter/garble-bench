@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed by mistake. How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 785,
+  "reasoning_output_tokens": 381
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.4,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "spider-L11"
+}

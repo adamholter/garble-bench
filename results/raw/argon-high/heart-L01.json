@@ -1,0 +1,15 @@
+{
+ "response": "The **heart** is the organ that pumps blood through the arteries and veins of the human body.\n",
+ "usage": {
+  "input_tokens": 2064,
+  "output_tokens": 172,
+  "reasoning_output_tokens": 74
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.9,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "heart-L01"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The **Mona Lisa** was painted by the Italian Renaissance polymath **Leonardo da Vinci**. He is believed to have begun painting it in the early 16th century (around 1503).\n",
+ "usage": {
+  "input_tokens": 6965,
+  "output_tokens": 325,
+  "reasoning_output_tokens": 141
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.7,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "mona-L00"
+}

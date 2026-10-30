@@ -1,0 +1,17 @@
+{
+ "response": "The chemical symbol for gold on the periodic table is **Au**.",
+ "usage": {
+  "input_tokens": 10011,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 18,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "gold-L04"
+}

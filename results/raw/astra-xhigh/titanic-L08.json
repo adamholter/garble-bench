@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase that? I\u2019m not sure what you\u2019d like me to do.",
+ "usage": {
+  "input_tokens": 10010,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 110,
+  "reasoning_output_tokens": 86
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.6,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "titanic-L08"
+}

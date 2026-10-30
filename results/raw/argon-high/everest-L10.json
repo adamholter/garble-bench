@@ -1,0 +1,15 @@
+{
+ "response": "Your message (`2q 5gf atll2a tm9ni5gon txe[ wif dav0v eexs ~level\\``) appears to be garbled or contain keyboard typos, aside from `` `level` `` at the end. \n\nCould you please clarify or re-send your request so I know how to help?\n",
+ "usage": {
+  "input_tokens": 6996,
+  "output_tokens": 35557,
+  "reasoning_output_tokens": 17741
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 206.7,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "everest-L10"
+}

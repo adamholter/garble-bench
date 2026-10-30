@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain a typo or scrambled text (`A o0a[n~rekdf5hy em.q Oxz`). \n\nCould you please clarify or rephrase what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2035,
+  "output_tokens": 47,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 4.9,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "mona-L10"
+}

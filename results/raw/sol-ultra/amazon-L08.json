@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend your request? The text appears garbled.",
+ "usage": {
+  "input_tokens": 20801,
+  "cached_input_tokens": 18560,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 294,
+  "reasoning_output_tokens": 191
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.6,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "amazon-L08"
+}

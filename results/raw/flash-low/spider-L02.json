@@ -1,0 +1,15 @@
+{
+ "response": "A spider typically has **8 legs** (arranged in 4 pairs).\n",
+ "usage": {
+  "input_tokens": 6965,
+  "output_tokens": 15,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 4.9,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "spider-L02"
+}

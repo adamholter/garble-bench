@@ -1,0 +1,15 @@
+{
+ "response": "Depending on whether you meant **South America** or **North America**:\n\n* **South America:** The **Amazon River** is the longest river, stretching approximately **6,400 km (4,000 miles)**.\n* **North America:** The **Missouri River** is the longest individual river at about **3,767 km (2,341 miles)**, slightly longer than the **Mississippi River** (~3,730 km / 2,320 miles). Together, the **Mississippi\u2013Missouri river system** forms the longest river system on the continent at roughly **6,275 km (3,902 miles)**.\n",
+ "usage": {
+  "input_tokens": 6981,
+  "output_tokens": 1488,
+  "reasoning_output_tokens": 672
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.3,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "amazon-L05"
+}

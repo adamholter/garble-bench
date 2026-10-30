@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be scrambled, encrypted, or corrupted text:\n\n```text\n3h]abttiw 06h4c[hmeihdla 2siy,lodrog/ol,d=bhte4roiid mab1if\n```\n\nCould you please clarify what you need or provide the intended message so I can assist you?\n",
+ "usage": {
+  "input_tokens": 6993,
+  "output_tokens": 29385,
+  "reasoning_output_tokens": 14654
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 124.6,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "gold-L10"
+}

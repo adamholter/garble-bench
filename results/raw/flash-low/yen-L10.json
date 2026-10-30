@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled or contained unintended characters:\n\n> `3ahy7zje\\noad /or f5h3r uucr\\rfcp ysud1i5Ypaqj`\n\nCould you please clarify or rephrase what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6992,
+  "output_tokens": 250,
+  "reasoning_output_tokens": 94
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.9,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "yen-L10"
+}

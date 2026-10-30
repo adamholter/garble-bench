@@ -1,0 +1,17 @@
+{
+ "response": "A standard piano has **88 keys**: 52 white keys and 36 black keys.",
+ "usage": {
+  "input_tokens": 9382,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 249,
+  "reasoning_output_tokens": 224
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.2,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "piano-L06"
+}

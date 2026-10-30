@@ -1,0 +1,17 @@
+{
+ "response": "Water freezes at **32\u00b0F (0\u00b0C)** at standard atmospheric pressure.",
+ "usage": {
+  "input_tokens": 10019,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 189,
+  "reasoning_output_tokens": 168
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.7,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "freeze-L05"
+}

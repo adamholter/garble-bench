@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you\u2019d like me to do? Your message appears garbled.",
+ "usage": {
+  "input_tokens": 10062,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 68,
+  "reasoning_output_tokens": 45
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.8,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "yen-L09"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you mean **\"In what year did the Titanic sail?\"** (or **\"sink?\"**):\n\nThe RMS *Titanic* both sailed on its maiden voyage and sank in **1912**. \n\n- **Departed Southampton:** April 10, 1912  \n- **Struck an iceberg and sank:** April 14\u201315, 1912\n",
+ "usage": {
+  "input_tokens": 2030,
+  "output_tokens": 885,
+  "reasoning_output_tokens": 400
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.4,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "titanic-L05"
+}

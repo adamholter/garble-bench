@@ -1,0 +1,15 @@
+{
+ "response": "The first person to walk on the Moon was **Neil Armstrong** on **July 20, 1969**, during NASA's Apollo 11 mission. He was followed shortly after by Buzz Aldrin, while Michael Collins orbited above in the command module.\n",
+ "usage": {
+  "input_tokens": 2129,
+  "output_tokens": 61,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.3,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "moon-L05"
+}

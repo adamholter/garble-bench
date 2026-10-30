@@ -1,0 +1,17 @@
+{
+ "response": "Light travels through a vacuum at exactly **299,792.458 kilometers per second**\u2014roughly **300,000 km/s**.",
+ "usage": {
+  "input_tokens": 10017,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 99,
+  "reasoning_output_tokens": 65
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 41.3,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "speed-L05"
+}

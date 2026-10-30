@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or mistyped (`Aah l s5h ecaxlizat/ c9ry=0ausv65.is`). Could you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 53,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.5,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "capital-L10"
+}

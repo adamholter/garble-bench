@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t tell what you\u2019re asking from that message. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 9393,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 240,
+  "reasoning_output_tokens": 216
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.1,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "freeze-L11"
+}

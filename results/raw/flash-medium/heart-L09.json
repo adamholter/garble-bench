@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain scrambled text or accidental keystrokes. \n\nCould you please clarify or restate what you need help with?\n",
+ "usage": {
+  "input_tokens": 6996,
+  "output_tokens": 408,
+  "reasoning_output_tokens": 189
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.1,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "heart-L09"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Did you mean, \u201cIn what year did the Titanic sink?\u201d It sank in **1912**, on April 15.",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 29,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.3,
+ "config": "terra-low",
+ "model": "gpt-6.1-terra",
+ "effort": "low",
+ "item": "titanic-L04"
+}

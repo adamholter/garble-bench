@@ -1,0 +1,17 @@
+{
+ "response": "There are **1,440 minutes** in one full day.",
+ "usage": {
+  "input_tokens": 10047,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 40,
+  "reasoning_output_tokens": 21
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.1,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "minutes-L00"
+}

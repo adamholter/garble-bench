@@ -1,0 +1,15 @@
+{
+ "response": "**Jane Austen** wrote *Pride and Prejudice*!\n\n*(Your message looks like a typo or garbled version of **\"who wrote pride and prejudice\"**\u2014with \"wor64eh\" = \"wrote\", \"bovlprdi2\" = \"pride\", \"ajm\" = \"and\", and \"dprey7dlve\" = \"prejudice\".)*\n\nIf you meant something else, let me know how I can help!\n",
+ "usage": {
+  "input_tokens": 2163,
+  "output_tokens": 96,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.0,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "austen-L07"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Japan\u2019s currency is the Japanese yen (\u00a5, JPY).",
+ "usage": {
+  "input_tokens": 9386,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 619,
+  "reasoning_output_tokens": 600
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 58.4,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "yen-L04"
+}

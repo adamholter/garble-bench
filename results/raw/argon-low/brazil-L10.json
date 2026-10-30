@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or typed using a different keyboard layout (for example, Dvorak vs. QWERTY). Could you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6994,
+  "output_tokens": 45,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.7,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "brazil-L10"
+}

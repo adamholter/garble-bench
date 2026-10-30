@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be garbled, encrypted, or accidentally pasted (`Ellbyr1rhp4e Gpnmwj~ulc7eg`). \n\nCould you please clarify what you mean or let me know what you would like assistance with?\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 5053,
+  "reasoning_output_tokens": 2500
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.4,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "romeo-L10"
+}

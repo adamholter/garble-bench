@@ -1,0 +1,17 @@
+{
+ "response": "The capital city of Australia is Canberra.",
+ "usage": {
+  "input_tokens": 9997,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 12,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 26.3,
+ "config": "astra-high",
+ "model": "gpt-6-astra",
+ "effort": "high",
+ "item": "capital-L02"
+}

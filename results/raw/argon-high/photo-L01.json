@@ -1,0 +1,15 @@
+{
+ "response": "Plants absorb **carbon dioxide ($\\text{CO}_2$)** from the air to carry out photosynthesis.\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 211,
+  "reasoning_output_tokens": 93
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.8,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "photo-L01"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been mistyped or scrambled:\n\n> *\"Mow1 m`nyjb8teasgeht4fe9n` ognw eufl/ eay\"*\n\nIf you were asking a question (such as something related to bytes or file sizes), could you please clarify or rephrase what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6980,
+  "output_tokens": 948,
+  "reasoning_output_tokens": 437
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.1,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "minutes-L08"
+}

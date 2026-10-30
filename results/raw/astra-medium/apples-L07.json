@@ -1,0 +1,17 @@
+{
+ "response": "Could you retype your apple question? How many apples do you start with, and how many do you add or eat?",
+ "usage": {
+  "input_tokens": 10032,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 138,
+  "reasoning_output_tokens": 107
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.5,
+ "config": "astra-medium",
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "item": "apples-L07"
+}

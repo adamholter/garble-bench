@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been scrambled, mistyped, or corrupted. \n\nA few fragments look like they might be near-anagrams or typos for:\n* **`teh E pienr`** &rarr; *\"the Empire\"*\n* **`kndowbac`** &rarr; *\"backdown\"* or *\"knock back\"*\n* **`wue,nis2`** &rarr; *\"queens\"* or *\"when is\"*\n* **`\\ohd as'onapd`** &rarr; *\"who has spanned\"* / *\"who opened\"* / *\"has owned\"*\n\nCould you please clarify or retype your question?\n",
+ "usage": {
+  "input_tokens": 6980,
+  "output_tokens": 42479,
+  "reasoning_output_tokens": 21170
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 176.8,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "mars-L08"
+}

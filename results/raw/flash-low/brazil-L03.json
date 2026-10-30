@@ -1,0 +1,15 @@
+{
+ "response": "The main language spoken in Brazil is **Portuguese**. \n\nIn fact, Portuguese is the official language and is spoken by virtually the entire population (around 98\u201399%). Brazil is the only Portuguese-speaking country in the Americas. \n\nOther languages spoken by smaller communities include:\n- **Indigenous languages:** Such as Guaran\u00ed, Tikuna, and Yanomami (more than 150 indigenous languages survive across the country).\n- **Immigrant minority languages:** Notably German (especially the Riograndenser Hunsr\u00fcckisch dialect) and Italian (Talian) spoken in southern regions, as well as Japanese.\n",
+ "usage": {
+  "input_tokens": 6985,
+  "output_tokens": 132,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.1,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "brazil-L03"
+}

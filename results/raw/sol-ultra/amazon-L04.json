@@ -1,0 +1,17 @@
+{
+ "response": "If you mean **North America**, the longest river is the **Missouri River**, about **2,341 miles (3,767 km)** long.",
+ "usage": {
+  "input_tokens": 10122,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 563,
+  "reasoning_output_tokens": 506
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.1,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "amazon-L04"
+}

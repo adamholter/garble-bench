@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled text (`w=ntal sgme/ amiwj elqgnufegoowk-bniexi'l]`), possibly due to a keyboard layout issue or a typo. \n\nCould you please clarify or re-send your request? I'd be happy to help once I know what you're looking for!\n",
+ "usage": {
+  "input_tokens": 2063,
+  "output_tokens": 45049,
+  "reasoning_output_tokens": 22483
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 269.5,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "brazil-L10"
+}

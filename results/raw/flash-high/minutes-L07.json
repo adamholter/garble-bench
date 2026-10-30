@@ -1,0 +1,15 @@
+{
+ "response": "Your message appears to be heavily garbled or mistyped (possibly due to slipped finger placement on the keyboard). \n\nIt looks like you might be asking something along the lines of:\n> *\"How many bytes [...] each day?\"*\n\nCould you please clarify or retype your question?\n",
+ "usage": {
+  "input_tokens": 6975,
+  "output_tokens": 25090,
+  "reasoning_output_tokens": 12515
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 110.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "minutes-L07"
+}

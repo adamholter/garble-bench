@@ -1,0 +1,15 @@
+{
+ "response": "Based on your query (interpreting: *capital / exact location for country = Australia*):\n\n* **Country:** Australia\n* **Capital City:** Canberra\n* **Location / Geography:** Oceania, Southern Hemisphere (between the Indian Ocean and the South Pacific Ocean; approximately 25\u00b027\u2032 S, 133\u00b046\u2032 E)\n",
+ "usage": {
+  "input_tokens": 6978,
+  "output_tokens": 5092,
+  "reasoning_output_tokens": 2509
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 31.1,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "capital-L09"
+}

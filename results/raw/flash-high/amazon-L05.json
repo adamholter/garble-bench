@@ -1,0 +1,15 @@
+{
+ "response": "The longest river in North America is the **Missouri River**.\n\n* **Missouri River:** ~2,341 miles (3,767 km) long, flowing from western Montana into the Mississippi River north of St. Louis, Missouri.\n* **Mississippi\u2013Missouri River System:** Taken together as a single continuous river system, the combined Mississippi\u2013Missouri system is the longest river system in North America (and fourth-longest in the world), measuring about 3,902 miles (6,275 km).\n",
+ "usage": {
+  "input_tokens": 6980,
+  "output_tokens": 935,
+  "reasoning_output_tokens": 413
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "amazon-L05"
+}

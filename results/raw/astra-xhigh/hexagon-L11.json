@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend your request? I couldn\u2019t make out what you\u2019d like help with.",
+ "usage": {
+  "input_tokens": 10010,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 93,
+  "reasoning_output_tokens": 69
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.4,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "hexagon-L11"
+}

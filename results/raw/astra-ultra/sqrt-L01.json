@@ -1,0 +1,17 @@
+{
+ "response": "The square root of 144 is **12**.",
+ "usage": {
+  "input_tokens": 10047,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 62,
+  "reasoning_output_tokens": 45
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.9,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "sqrt-L01"
+}

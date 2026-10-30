@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your text may have been shifted or mistyped on the keyboard:\n\n> `\"Dhr4 agq iod;al4cxbos4 bc3obnnwa99r;otraeh votut4ysbehis\"`\n\nCould you please retype or clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2041,
+  "output_tokens": 67,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.5,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "photo-L10"
+}

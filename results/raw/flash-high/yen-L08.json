@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be scrambled or contains typos:\n\n> `3ahy7zjenoad o fth3r uc6r\\recp ysud1i5Ypaaj`\n\nCould you please clarify or rephrase what you need help with?\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 1171,
+  "reasoning_output_tokens": 558
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "yen-L08"
+}

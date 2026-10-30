@@ -1,0 +1,15 @@
+{
+ "response": "Deciphering your prompt: *\"What are some major languages spoken in Brazil?\"*\n\nHere is an overview of the languages spoken in Brazil:\n\n---\n\n### 1. **Portuguese** (Official & Predominant)\n* **Status:** The sole official language and by far the primary language used in government, media, education, and daily life.\n* **Speakers:** Spoken by roughly **99%** of the population (~215+ million people).\n* **Characteristics:** Brazilian Portuguese has distinct pronunciation, vocabulary, and syntax compared to European Portuguese.\n\n---\n\n### 2. **Indigenous Languages**\nBrazil is home to approximately **150 to 200 indigenous languages**, mostly concentrated in the Amazon basin and northern regions, belonging to diverse language families (primarily Macro-J\u00ea, Tupian, and Arawakan):\n* **Tikuna (Ticuna):** One of the most widely spoken indigenous languages in Brazil.\n* **Guarani:** Spoken across several southern and central-western states and neighboring countries.\n* **Yanomami:** Spoken by communities in the northern Amazon rainforest along the Venezuelan border.\n* **Nheengatu (L\u00edngua Geral Amaz\u00f4nica):** A Tupi-based trade language with historical significance; granted co-official status in municipalities such as S\u00e3o Gabriel da Cachoeira (Amazonas).\n\n---\n\n### 3. **Immigrant & Heritage Languages**\nWaves of immigration throughout the 19th and 20th centuries established strong regional communities, particularly in the South and Southeast:\n* **German & Dialects:** \n  * **Hunsrik (Riograndenser Hunsr\u00fcckisch)** and **Pomeranian** are widely spoken in rural communities across Rio Grande do Sul, Santa Catarina, and Esp\u00edrito Santo, often holding co-official status at the municipal level.\n* **Italian & Dialects:**\n  * **Talian** (a localized dialect derived from Venetian) is widely spoken in the Serra Ga\u00facha region of Rio Grande do Sul and recognized as part of Brazil's intangible cultural heritage.\n* **Japanese:** Brazil has the largest population of Japanese descent outside Japan; Japanese is still spoken within community enclaves in S\u00e3o Paulo and Paran\u00e1.\n* **Other Communities:** Significant communities speak **Levantine Arabic**, **Spanish**, **Korean**, and **Mandarin** in major metropolitan hubs like S\u00e3o Paulo and Rio de Janeiro.\n\n---\n\n### 4. **Brazilian Sign Language (Libras)**\n* Recognized by federal law in 2002 as an official legal means of communication and expression for the deaf community in Brazil.\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 1638,
+  "reasoning_output_tokens": 543
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 14.0,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "brazil-L05"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "A standard piano has **88 keys**: 52 white and 36 black.",
+ "usage": {
+  "input_tokens": 10050,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 52,
+  "reasoning_output_tokens": 29
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.2,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "piano-L02"
+}

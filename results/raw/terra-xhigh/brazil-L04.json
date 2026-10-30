@@ -1,0 +1,17 @@
+{
+ "response": "The main language spoken in Brazil is **Portuguese**, which is also the country\u2019s official language.\n\nBrazil is home to many Indigenous languages, including Tikuna, Guarani and Nheengatu. Some communities also speak languages brought by immigrants, such as German, Italian and Japanese. Brazilian Sign Language is known as Libras.",
+ "usage": {
+  "input_tokens": 10011,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 107,
+  "reasoning_output_tokens": 35
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.1,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "brazil-L04"
+}

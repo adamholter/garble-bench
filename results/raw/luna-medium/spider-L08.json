@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you\u2019d like me to do with \u201cownnaleg6 sdo3qa spde5hz2.\u201d Could you rephrase or add context?",
+ "usage": {
+  "input_tokens": 9375,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.9,
+ "config": "luna-medium",
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "item": "spider-L08"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The RMS Titanic both set sail on its maiden voyage and sank in **1912**:\n\n* **Set sail:** April 10, 1912 (from Southampton, England)\n* **Sank:** Early morning of April 15, 1912 (after striking an iceberg on the night of April 14)\n",
+ "usage": {
+  "input_tokens": 6974,
+  "output_tokens": 594,
+  "reasoning_output_tokens": 260
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.9,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "titanic-L05"
+}

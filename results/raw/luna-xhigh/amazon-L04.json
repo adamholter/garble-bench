@@ -1,0 +1,17 @@
+{
+ "response": "The Mississippi\u2013Missouri river system is generally considered the longest in North America, at about 3,710 miles (5,970 km).",
+ "usage": {
+  "input_tokens": 9383,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 479,
+  "reasoning_output_tokens": 444
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.3,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "amazon-L04"
+}

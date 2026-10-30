@@ -1,0 +1,15 @@
+{
+ "response": "Decoded from the noisy text, your message reads:\n\n> **\"If Kate has 8 apples and [gives / eats / loses] two, how many apples does she have left?\"**\n\n---\n\n### Breakdown:\n* **Initial apples:** $8$\n* **Apples removed / given away:** $2$\n* **Calculation:** $8 - 2 = 6$\n\n**Answer:** She has **6** apples left.\n",
+ "usage": {
+  "input_tokens": 7010,
+  "output_tokens": 66524,
+  "reasoning_output_tokens": 33215
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 241.3,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "apples-L09"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "You\u2019d have **6 apples** left: 3 + 5 \u2212 2 = 6.",
+ "usage": {
+  "input_tokens": 9387,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 113,
+  "reasoning_output_tokens": 86
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.0,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "apples-L02"
+}

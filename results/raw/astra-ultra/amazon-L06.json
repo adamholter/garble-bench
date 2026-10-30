@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat is the longest river in the Americas?\u201d it\u2019s the **Amazon River**, about **6,400 km (4,000 miles)** long.",
+ "usage": {
+  "input_tokens": 10058,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 454,
+  "reasoning_output_tokens": 414
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 39.5,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "amazon-L06"
+}

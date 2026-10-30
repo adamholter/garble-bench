@@ -1,0 +1,17 @@
+{
+ "response": "The currency used in Japan is the **Japanese yen (JPY)**, symbol **\u00a5**.",
+ "usage": {
+  "input_tokens": 10056,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 58,
+  "reasoning_output_tokens": 33
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.5,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "yen-L02"
+}

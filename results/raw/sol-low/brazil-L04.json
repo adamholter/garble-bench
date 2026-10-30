@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking what language is mainly spoken in Brazil, it\u2019s **Portuguese**.",
+ "usage": {
+  "input_tokens": 10073,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 37,
+  "reasoning_output_tokens": 12
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.2,
+ "config": "sol-low",
+ "model": "gpt-6.1-sol",
+ "effort": "low",
+ "item": "brazil-L04"
+}

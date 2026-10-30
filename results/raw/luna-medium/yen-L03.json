@@ -1,0 +1,17 @@
+{
+ "response": "The currency used in Japan is the Japanese yen (\u00a5).",
+ "usage": {
+  "input_tokens": 9382,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 16,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.6,
+ "config": "luna-medium",
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "item": "yen-L03"
+}

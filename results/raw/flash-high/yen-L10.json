@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be corrupted, encoded, or jumbled. Could you please clarify what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 2938,
+  "output_tokens": 837,
+  "reasoning_output_tokens": 406
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.7,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "yen-L10"
+}

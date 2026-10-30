@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase that? I couldn\u2019t tell what you\u2019d like help with.",
+ "usage": {
+  "input_tokens": 10071,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 62,
+  "reasoning_output_tokens": 39
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.3,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "moon-L10"
+}

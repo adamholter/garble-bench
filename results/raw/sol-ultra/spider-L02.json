@@ -1,0 +1,17 @@
+{
+ "response": "A spider has eight legs.",
+ "usage": {
+  "input_tokens": 10113,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 53,
+  "reasoning_output_tokens": 41
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.2,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "spider-L02"
+}

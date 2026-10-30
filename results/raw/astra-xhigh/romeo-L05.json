@@ -1,0 +1,17 @@
+{
+ "response": "William Shakespeare wrote *Romeo and Juliet*.",
+ "usage": {
+  "input_tokens": 10013,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 148,
+  "reasoning_output_tokens": 133
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.7,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "romeo-L05"
+}

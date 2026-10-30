@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase your request? I\u2019m not sure what you\u2019d like me to do.",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 198,
+  "reasoning_output_tokens": 173
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.7,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "spider-L09"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled or typed with accidental keystrokes:\n\n> `uob6h-ov2 eaid4d;epslugua;vlein s ddumu gkvol9em3s; jpo3resdons`\n\nCould you please clarify or retype what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6992,
+  "output_tokens": 70,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.2,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "speed-L09"
+}

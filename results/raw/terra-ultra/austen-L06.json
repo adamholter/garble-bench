@@ -1,0 +1,17 @@
+{
+ "response": "Jane Austen wrote *Pride and Prejudice*.",
+ "usage": {
+  "input_tokens": 10055,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 37,
+  "reasoning_output_tokens": 21
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.0,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "austen-L06"
+}

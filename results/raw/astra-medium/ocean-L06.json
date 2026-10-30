@@ -1,0 +1,17 @@
+{
+ "response": "Did you mean \u201cWhat is the largest ocean on Earth?\u201d If so, it\u2019s the **Pacific Ocean**.",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 82,
+  "reasoning_output_tokens": 53
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 11.2,
+ "config": "astra-medium",
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "item": "ocean-L06"
+}

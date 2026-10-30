@@ -1,0 +1,15 @@
+{
+ "response": "The warmest ocean on Earth is the **Indian Ocean**. \n\nIts surface water temperatures typically range between **22\u00b0C and 28\u00b0C (72\u00b0F to 82\u00b0F)** in the tropical regions, and because it is largely landlocked to the north by the Asian continent, it has limited circulation with colder polar waters, trapping heat in its basin.\n",
+ "usage": {
+  "input_tokens": 2878,
+  "output_tokens": 230,
+  "reasoning_output_tokens": 74
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "ocean-L04"
+}

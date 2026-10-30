@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase or resend your request? I couldn\u2019t make out what you meant.",
+ "usage": {
+  "input_tokens": 10070,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 129,
+  "reasoning_output_tokens": 105
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.3,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "titanic-L10"
+}

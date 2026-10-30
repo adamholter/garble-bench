@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you're asking **\"What is the [warmest / deepest / largest / smallest] ocean on Earth?\"**, here are the top ocean superlatives:\n\n- **Warmest Ocean:** The **Indian Ocean** is the warmest ocean in the world, with surface water temperatures regularly exceeding 28\u00b0C (82\u00b0F) near the equator.\n- **Largest & Deepest Ocean:** The **Pacific Ocean** is both the largest (covering more than 30% of Earth's surface) and the deepest (reaching about 10,935 meters / 35,876 feet in the Challenger Deep of the Mariana Trench).\n- **Smallest & Shallowest Ocean:** The **Arctic Ocean** is the smallest, shallowest, and coldest of the world's five major oceans.\n\n*(If you meant something else, let me know!)*\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 775,
+  "reasoning_output_tokens": 294
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.0,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "ocean-L06"
+}

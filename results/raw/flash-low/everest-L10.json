@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain typos, keyboard slips, or an encoded string (`2q 5gf atll2a tm9ni5gon txe[ wif dav0v eexs ~level\\``). \n\nCould you please clarify or restate what you need help with?\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 62,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.9,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "everest-L10"
+}

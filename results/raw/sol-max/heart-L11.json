@@ -1,0 +1,17 @@
+{
+ "response": "Your message looks garbled. Could you resend your request?",
+ "usage": {
+  "input_tokens": 31106,
+  "cached_input_tokens": 28544,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 276,
+  "reasoning_output_tokens": 162
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.1,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "heart-L11"
+}

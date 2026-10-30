@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make out that message. Could you resend it?",
+ "usage": {
+  "input_tokens": 10013,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 143,
+  "reasoning_output_tokens": 124
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 16.8,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "brazil-L09"
+}

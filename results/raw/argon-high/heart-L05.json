@@ -1,0 +1,15 @@
+{
+ "response": "The **heart** is the organ in the human body that pumps blood through the arteries and veins. \n\nIt acts as a muscular pump at the center of the circulatory system, pushing oxygen-rich blood out to the body through the **arteries** and receiving oxygen-depleted blood back through the **veins**.\n",
+ "usage": {
+  "input_tokens": 7011,
+  "output_tokens": 720,
+  "reasoning_output_tokens": 326
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.7,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "heart-L05"
+}

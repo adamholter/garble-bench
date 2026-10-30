@@ -1,0 +1,15 @@
+{
+ "response": "**The heart.**\n\n*(Decoded question: \"Which organ in the human body pumps blood through the veins and arteries?\")*\n\n### How It Works\n* **Arteries:** Carry oxygen-rich blood pumped **away** from the heart to the rest of the body (with the exception of the pulmonary arteries, which carry oxygen-poor blood to the lungs).\n* **Veins:** Return oxygen-poor blood **back** to the heart (with the exception of the pulmonary veins, which bring oxygenated blood from the lungs to the heart).\n",
+ "usage": {
+  "input_tokens": 2074,
+  "output_tokens": 8918,
+  "reasoning_output_tokens": 4402
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 61.5,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "heart-L07"
+}

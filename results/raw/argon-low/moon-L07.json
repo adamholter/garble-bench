@@ -1,0 +1,15 @@
+{
+ "response": "**Neil Armstrong** was the first person to walk on the Moon.\n\nHe stepped onto the lunar surface on **July 20, 1969** (UTC: July 21, 1969), as commander of the **Apollo 11** mission, followed shortly after by Lunar Module Pilot **Buzz Aldrin**. His famous words upon stepping onto the Moon were:\n\n> *\"That's one small step for [a] man, one giant leap for mankind.\"*\n",
+ "usage": {
+  "input_tokens": 6985,
+  "output_tokens": 107,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "moon-L07"
+}

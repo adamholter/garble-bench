@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase your message? I couldn\u2019t tell what you\u2019d like me to do.",
+ "usage": {
+  "input_tokens": 10060,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 136,
+  "reasoning_output_tokens": 111
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 41.8,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "yen-L06"
+}

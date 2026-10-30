@@ -1,0 +1,17 @@
+{
+ "response": "The square root of 144 is **12**, because 12 \u00d7 12 = 144.",
+ "usage": {
+  "input_tokens": 10065,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 124,
+  "reasoning_output_tokens": 98
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.3,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "sqrt-L03"
+}

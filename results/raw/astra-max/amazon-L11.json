@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand that message. Could you resend your request?",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 179,
+  "reasoning_output_tokens": 160
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 39.4,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "amazon-L11"
+}

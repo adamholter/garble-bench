@@ -1,0 +1,17 @@
+{
+ "response": "You have **6 apples** left: 3 + 5 \u2212 2 = 6.",
+ "usage": {
+  "input_tokens": 10080,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 49,
+  "reasoning_output_tokens": 23
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.4,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "apples-L01"
+}

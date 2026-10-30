@@ -1,0 +1,15 @@
+{
+ "response": "**Mars** is the planet in the solar system known as the \"Red Planet.\" Its reddish appearance is caused by iron oxide (rust) on its surface.\n",
+ "usage": {
+  "input_tokens": 6996,
+  "output_tokens": 36,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.5,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mars-L05"
+}

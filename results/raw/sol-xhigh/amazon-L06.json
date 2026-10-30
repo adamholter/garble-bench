@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat is the longest river in America?\u201d the **Amazon River** is the longest in the Americas. In the **United States**, it\u2019s the **Missouri River**.",
+ "usage": {
+  "input_tokens": 10075,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 561,
+  "reasoning_output_tokens": 516
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 36.7,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "amazon-L06"
+}

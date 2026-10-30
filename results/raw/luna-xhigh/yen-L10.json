@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out that message. Could you resend it or clarify what you\u2019d like me to do?",
+ "usage": {
+  "input_tokens": 9390,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 308,
+  "reasoning_output_tokens": 280
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.6,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "yen-L10"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Are you saying a spider bit your leg, or something else? Tell me what happened and how you feel.\n\nIf you\u2019re having trouble breathing, swelling in your mouth or throat, or feel faint, call emergency services now.",
+ "usage": {
+  "input_tokens": 10001,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 158,
+  "reasoning_output_tokens": 107
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.7,
+ "config": "astra-high",
+ "model": "gpt-6-astra",
+ "effort": "high",
+ "item": "spider-L05"
+}

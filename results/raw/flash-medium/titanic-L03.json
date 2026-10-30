@@ -1,0 +1,15 @@
+{
+ "response": "The **Titanic** sank in **1912** (specifically in the early morning hours of April 15, 1912).\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 267,
+  "reasoning_output_tokens": 118
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.7,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "titanic-L03"
+}

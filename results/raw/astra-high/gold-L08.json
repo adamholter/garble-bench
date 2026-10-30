@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand that message. Could you resend or rephrase your request?",
+ "usage": {
+  "input_tokens": 10017,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 66,
+  "reasoning_output_tokens": 44
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.1,
+ "config": "astra-high",
+ "model": "gpt-6-astra",
+ "effort": "high",
+ "item": "gold-L08"
+}

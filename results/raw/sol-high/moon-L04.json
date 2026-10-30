@@ -1,0 +1,17 @@
+{
+ "response": "Neil Armstrong was the first person to walk on the Moon, on July 20, 1969, during NASA\u2019s Apollo 11 mission.",
+ "usage": {
+  "input_tokens": 10067,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 67,
+  "reasoning_output_tokens": 32
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.4,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "moon-L04"
+}

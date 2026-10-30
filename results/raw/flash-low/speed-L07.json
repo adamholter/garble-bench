@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message was scrambled or mistyped:\n\n> *\"obl6 h-o2 eaid4d;epsluguavlein a dvumu gkvol9em3s poer esdons\"*\n\nCould you please clarify or rephrase what you would like help with? (It looks like it might refer to something like \"how to add / enable a plugin / volume / responses\".)\n",
+ "usage": {
+  "input_tokens": 6986,
+  "output_tokens": 84,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.8,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "speed-L07"
+}

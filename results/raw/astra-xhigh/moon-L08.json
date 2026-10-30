@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWho was the first person to walk on the Moon?\u201d\u2014it was **Neil Armstrong**, in **1969**. If you meant something else, please rephrase.",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 560,
+  "reasoning_output_tokens": 516
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 56.8,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "moon-L08"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The main and official language spoken in Brazil is **Portuguese**. Brazil is the only Portuguese-speaking country in the Americas.\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 24,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 4.9,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "brazil-L00"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Portuguese is the main and official language spoken in Brazil.",
+ "usage": {
+  "input_tokens": 10011,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 95,
+  "reasoning_output_tokens": 77
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.6,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "brazil-L04"
+}

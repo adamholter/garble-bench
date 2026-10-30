@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have gotten garbled or scrambled (`3ahy7zjenoad o fth3r uc6r\\recp ysud1i5Ypaaj`). \n\nCould you please retype or clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 56,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.1,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "yen-L08"
+}

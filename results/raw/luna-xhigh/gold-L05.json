@@ -1,0 +1,17 @@
+{
+ "response": "Gold\u2019s chemical symbol is **Au**. It comes from the Latin word *aurum*.",
+ "usage": {
+  "input_tokens": 9386,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 113,
+  "reasoning_output_tokens": 88
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.4,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "gold-L05"
+}

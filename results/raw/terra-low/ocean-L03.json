@@ -1,0 +1,17 @@
+{
+ "response": "The **Pacific Ocean** is the largest ocean on Earth. It covers about 165 million square kilometres (64 million square miles).",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 44,
+  "reasoning_output_tokens": 12
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.4,
+ "config": "terra-low",
+ "model": "gpt-6.1-terra",
+ "effort": "low",
+ "item": "ocean-L03"
+}

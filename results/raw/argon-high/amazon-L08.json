@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled text (`Shati] stzeh l`nog3e ~rizvf [injuo4gaem8w`). Could you please clarify or re-send what you would like help with?\n",
+ "usage": {
+  "input_tokens": 6993,
+  "output_tokens": 15420,
+  "reasoning_output_tokens": 7683
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 87.6,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "amazon-L08"
+}

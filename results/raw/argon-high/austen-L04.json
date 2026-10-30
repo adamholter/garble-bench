@@ -1,0 +1,15 @@
+{
+ "response": "**Jane Austen** wrote the novel *Pride and Prejudice* (published in 1813).\n",
+ "usage": {
+  "input_tokens": 2049,
+  "output_tokens": 235,
+  "reasoning_output_tokens": 105
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.4,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "austen-L04"
+}

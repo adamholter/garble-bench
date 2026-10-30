@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be scrambled, encoded, or sent by mistake. \n\nCould you please clarify what you need assistance with or provide more context?\n",
+ "usage": {
+  "input_tokens": 6986,
+  "output_tokens": 7570,
+  "reasoning_output_tokens": 3769
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.4,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "freeze-L11"
+}

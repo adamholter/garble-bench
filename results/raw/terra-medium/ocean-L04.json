@@ -1,0 +1,17 @@
+{
+ "response": "The **Indian Ocean** is generally the warmest ocean on Earth. Its tropical location and limited connection to cold Arctic waters help keep its surface waters warm.",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 54,
+  "reasoning_output_tokens": 17
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.1,
+ "config": "terra-medium",
+ "model": "gpt-6.1-terra",
+ "effort": "medium",
+ "item": "ocean-L04"
+}

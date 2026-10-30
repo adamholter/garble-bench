@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make out your message. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 20263,
+  "cached_input_tokens": 18176,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 174,
+  "reasoning_output_tokens": 103
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 11.8,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "ocean-L11"
+}

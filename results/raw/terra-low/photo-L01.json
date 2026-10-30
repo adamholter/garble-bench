@@ -1,0 +1,17 @@
+{
+ "response": "Plants absorb **carbon dioxide (CO\u2082)** from the air to carry out photosynthesis. They use it along with water and sunlight to make sugar, releasing oxygen as a byproduct.",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 41,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.8,
+ "config": "terra-low",
+ "model": "gpt-6.1-terra",
+ "effort": "low",
+ "item": "photo-L01"
+}

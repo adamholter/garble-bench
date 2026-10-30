@@ -1,0 +1,17 @@
+{
+ "response": "The **Indian Ocean** is generally the warmest ocean on Earth, with an average surface temperature of about **22\u00b0C (72\u00b0F)**. Much of it lies in the tropics, where it receives strong sunlight year-round.",
+ "usage": {
+  "input_tokens": 10006,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 93,
+  "reasoning_output_tokens": 41
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.4,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "ocean-L05"
+}

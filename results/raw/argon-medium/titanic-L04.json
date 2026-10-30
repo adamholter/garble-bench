@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you meant **\"In what year did the Titanic sink?\"** \u2014 the RMS *Titanic* sank in **1912** (in the early morning hours of April 15, after striking an iceberg on the night of April 14).\n",
+ "usage": {
+  "input_tokens": 6977,
+  "output_tokens": 516,
+  "reasoning_output_tokens": 230
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "titanic-L04"
+}

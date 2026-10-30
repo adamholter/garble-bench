@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure I understood. Did you mean \u201cWhat is the user role for \u2026?\u201d Could you rephrase?",
+ "usage": {
+  "input_tokens": 9377,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 546,
+  "reasoning_output_tokens": 516
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.8,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "sqrt-L06"
+}

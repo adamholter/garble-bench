@@ -1,0 +1,17 @@
+{
+ "response": "Water freezes at **32\u00b0F (0\u00b0C)**.",
+ "usage": {
+  "input_tokens": 10130,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 231,
+  "reasoning_output_tokens": 214
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.8,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "freeze-L05"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Portuguese is Brazil\u2019s official language and is spoken by the vast majority of people. Indigenous languages such as Tikuna, Guarani, and Nheengatu are also spoken, along with community languages such as German, Italian, and Japanese.",
+ "usage": {
+  "input_tokens": 9381,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 255,
+  "reasoning_output_tokens": 200
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.2,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "brazil-L03"
+}

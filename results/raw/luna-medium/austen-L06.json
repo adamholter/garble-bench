@@ -1,0 +1,17 @@
+{
+ "response": "Did you mean \u201cWho wrote *Pride and Prejudice*?\u201d It was written by Jane Austen.",
+ "usage": {
+  "input_tokens": 9378,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 25,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.9,
+ "config": "luna-medium",
+ "model": "gpt-6-luna",
+ "effort": "medium",
+ "item": "austen-L06"
+}

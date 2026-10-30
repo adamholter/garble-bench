@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message decoded from keyboard typos is:\n\n> **\"How many bytes are there in one Blu-ray?\"** *(from `Mow1 m`nyjb8tesageht4fe9n onw eflu/ eay`)*\n\nHere are the byte capacities for standard **Blu-ray** discs:\n\n---\n\n### **Blu-ray Disc Capacities**\n\n* **Single-Layer (BD-25)**\n  * **Nominal:** **25,000,000,000 bytes** (25 GB)\n  * **Exact formatted:** **25,025,314,816 bytes** (12,219,392 sectors \u00d7 2,048 bytes \u2248 23.31 GiB)\n\n* **Dual-Layer (BD-50)**\n  * **Nominal:** **50,000,000,000 bytes** (50 GB)\n  * **Exact formatted:** **50,050,631,680 bytes** (24,438,784 sectors \u00d7 2,048 bytes \u2248 46.61 GiB)\n\n* **BDXL Triple-Layer (BD-100)**\n  * **Nominal:** **100,000,000,000 bytes** (100 GB)\n  * **Exact formatted:** ~**100,103,356,416 bytes** (\u2248 93.23 GiB)\n\n* **BDXL Quad-Layer (BD-128)**\n  * **Nominal:** **128,000,000,000 bytes** (128 GB)\n  * **Exact formatted:** ~**128,001,769,472 bytes** (\u2248 119.21 GiB)\n\n---\n\n*(If you meant a different unit or type: a standard 32-bit **`float`** is **4 bytes**, 1 **Gigabyte (GB)** is **1,000,000,000 bytes** / 1 GiB = **1,073,741,824 bytes**, and 1 **Exabyte (EB)** is **10\u00b9\u2078 bytes**).*\n",
+ "usage": {
+  "input_tokens": 6972,
+  "output_tokens": 27001,
+  "reasoning_output_tokens": 13234
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 119.7,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "minutes-L06"
+}

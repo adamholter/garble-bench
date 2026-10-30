@@ -1,0 +1,17 @@
+{
+ "response": "The main language spoken in Brazil is **Portuguese**. It\u2019s the country\u2019s official language.",
+ "usage": {
+  "input_tokens": 10069,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 24,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.2,
+ "config": "sol-low",
+ "model": "gpt-6.1-sol",
+ "effort": "low",
+ "item": "brazil-L02"
+}

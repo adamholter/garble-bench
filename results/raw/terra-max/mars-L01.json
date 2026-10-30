@@ -1,0 +1,17 @@
+{
+ "response": "**Mars** is known as the Red Planet. Iron oxide, or rust, on its surface gives it a reddish color.",
+ "usage": {
+  "input_tokens": 10005,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 65,
+  "reasoning_output_tokens": 34
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.7,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "mars-L01"
+}

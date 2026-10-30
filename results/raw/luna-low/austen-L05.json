@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify the title? I can\u2019t identify \u201cbovlPrdie ajmdprej7dlve\u201d as written.",
+ "usage": {
+  "input_tokens": 9377,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 31,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.4,
+ "config": "luna-low",
+ "model": "gpt-6-luna",
+ "effort": "low",
+ "item": "austen-L05"
+}

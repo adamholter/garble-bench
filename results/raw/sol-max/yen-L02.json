@@ -1,0 +1,17 @@
+{
+ "response": "Japan uses the **Japanese yen (JPY)**, symbol **\u00a5**.",
+ "usage": {
+  "input_tokens": 10071,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 97,
+  "reasoning_output_tokens": 76
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 11.9,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "yen-L02"
+}

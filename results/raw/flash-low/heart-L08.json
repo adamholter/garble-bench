@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled or typed using an unintended keyboard layout. \n\nCould you please retype or clarify what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6997,
+  "output_tokens": 684,
+  "reasoning_output_tokens": 326
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.8,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "heart-L08"
+}

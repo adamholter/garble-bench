@@ -1,0 +1,17 @@
+{
+ "response": "The Pacific Ocean is the largest ocean on Earth.",
+ "usage": {
+  "input_tokens": 9374,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 23
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.0,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "ocean-L02"
+}

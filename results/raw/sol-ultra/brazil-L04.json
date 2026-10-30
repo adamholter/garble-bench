@@ -1,0 +1,17 @@
+{
+ "response": "Portuguese is the official and most widely spoken language in Brazil.",
+ "usage": {
+  "input_tokens": 10122,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 145,
+  "reasoning_output_tokens": 126
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.0,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "brazil-L04"
+}

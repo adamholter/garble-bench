@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been scrambled or typed accidentally (`2jq thera nidd.hhetG58s aishl`). \n\nCould you please clarify or rephrase what you'd like assistance with?\n",
+ "usage": {
+  "input_tokens": 6970,
+  "output_tokens": 830,
+  "reasoning_output_tokens": 392
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.8,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "titanic-L10"
+}

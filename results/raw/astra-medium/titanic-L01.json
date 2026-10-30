@@ -1,0 +1,17 @@
+{
+ "response": "The Titanic sank in **1912**, on April 15.",
+ "usage": {
+  "input_tokens": 10001,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 17,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 14.7,
+ "config": "astra-medium",
+ "model": "gpt-6-astra",
+ "effort": "medium",
+ "item": "titanic-L01"
+}

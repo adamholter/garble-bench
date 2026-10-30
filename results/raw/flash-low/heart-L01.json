@@ -1,0 +1,15 @@
+{
+ "response": "The **heart** pumps blood through the veins and arteries in the human body.\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 16,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.3,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "heart-L01"
+}

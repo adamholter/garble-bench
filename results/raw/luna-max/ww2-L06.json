@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean. Could you rephrase?",
+ "usage": {
+  "input_tokens": 9374,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 743,
+  "reasoning_output_tokens": 724
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.6,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "ww2-L06"
+}

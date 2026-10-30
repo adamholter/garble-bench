@@ -1,0 +1,17 @@
+{
+ "response": "The square root of 2 is approximately **1.41421356**.",
+ "usage": {
+  "input_tokens": 10052,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 77,
+  "reasoning_output_tokens": 55
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.5,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "sqrt-L06"
+}

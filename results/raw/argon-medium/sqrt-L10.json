@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been sent by mistake (`2haq6sifte[7qereozltkfo2r`). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 211,
+  "reasoning_output_tokens": 86
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.6,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "sqrt-L10"
+}

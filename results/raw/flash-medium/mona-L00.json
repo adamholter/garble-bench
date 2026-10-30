@@ -1,0 +1,15 @@
+{
+ "response": "The *Mona Lisa* was painted by the Italian Renaissance artist **Leonardo da Vinci**.\n",
+ "usage": {
+  "input_tokens": 6963,
+  "output_tokens": 164,
+  "reasoning_output_tokens": 73
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.1,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "mona-L00"
+}

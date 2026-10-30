@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been mistyped or encoded (`dnna;ehg6 sveoqsxd,rez2`). \n\nCould you please clarify what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6966,
+  "output_tokens": 3906,
+  "reasoning_output_tokens": 1933
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.7,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "spider-L11"
+}

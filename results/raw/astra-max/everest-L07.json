@@ -1,0 +1,17 @@
+{
+ "response": "If you mean the world\u2019s highest mountain above sea level, it\u2019s **Mount Everest**, at **8,848.86 meters (29,031.7 feet)**.",
+ "usage": {
+  "input_tokens": 10014,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 798,
+  "reasoning_output_tokens": 757
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.5,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "everest-L07"
+}

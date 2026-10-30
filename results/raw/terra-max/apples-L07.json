@@ -1,0 +1,17 @@
+{
+ "response": "If you start with 10 apples, get 5 more, and eat 2, you have **13 apples left**.\n\n10 + 5 \u2212 2 = 13.",
+ "usage": {
+  "input_tokens": 10032,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 852,
+  "reasoning_output_tokens": 809
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.8,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "apples-L07"
+}

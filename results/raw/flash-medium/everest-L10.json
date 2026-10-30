@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain some typos or scrambled text (\"2q 5gf atll2a tm9ni5gon txe[ wif dav0v eexs ~level`\"). \n\nCould you please clarify or restate what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6985,
+  "output_tokens": 437,
+  "reasoning_output_tokens": 190
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.8,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "everest-L10"
+}

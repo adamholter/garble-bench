@@ -1,0 +1,15 @@
+{
+ "response": "The main and official language spoken in Brazil is **Portuguese** (specifically Brazilian Portuguese).\n",
+ "usage": {
+  "input_tokens": 2867,
+  "output_tokens": 183,
+  "reasoning_output_tokens": 81
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.0,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "brazil-L00"
+}

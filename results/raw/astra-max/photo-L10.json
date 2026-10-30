@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand that message. Could you resend it or describe what you\u2019d like help with?",
+ "usage": {
+  "input_tokens": 10017,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 200,
+  "reasoning_output_tokens": 174
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.6,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "photo-L10"
+}

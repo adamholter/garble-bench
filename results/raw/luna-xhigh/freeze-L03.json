@@ -1,0 +1,17 @@
+{
+ "response": "Water freezes at **32\u00b0F** (at standard atmospheric pressure).",
+ "usage": {
+  "input_tokens": 9385,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 68,
+  "reasoning_output_tokens": 49
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.4,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "freeze-L03"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean. Could you rephrase your request?",
+ "usage": {
+  "input_tokens": 10018,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 272,
+  "reasoning_output_tokens": 251
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.7,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "freeze-L08"
+}

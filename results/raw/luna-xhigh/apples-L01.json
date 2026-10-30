@@ -1,0 +1,17 @@
+{
+ "response": "You have 6 apples left.",
+ "usage": {
+  "input_tokens": 9390,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 56,
+  "reasoning_output_tokens": 43
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.2,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "apples-L01"
+}

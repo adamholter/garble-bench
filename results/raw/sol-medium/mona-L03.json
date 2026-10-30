@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWho painted the Mona Lisa?\u201d\u2014Leonardo da Vinci.",
+ "usage": {
+  "input_tokens": 10067,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 56,
+  "reasoning_output_tokens": 34
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.5,
+ "config": "sol-medium",
+ "model": "gpt-6.1-sol",
+ "effort": "medium",
+ "item": "mona-L03"
+}

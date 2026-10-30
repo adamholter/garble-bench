@@ -1,0 +1,15 @@
+{
+ "response": "A standard piano has **88 keys** in total:\n\n* **52 white keys** (natural notes: A, B, C, D, E, F, G)\n* **36 black keys** (accidentals: sharps and flats)\n",
+ "usage": {
+  "input_tokens": 2918,
+  "output_tokens": 54,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.0,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "piano-L01"
+}

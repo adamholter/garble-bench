@@ -1,0 +1,17 @@
+{
+ "response": "The **Indian Ocean** is the warmest ocean on Earth.",
+ "usage": {
+  "input_tokens": 10068,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 73,
+  "reasoning_output_tokens": 54
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "sol-medium",
+ "model": "gpt-6.1-sol",
+ "effort": "medium",
+ "item": "ocean-L04"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat year did the Titanic sink?\u201d, it sank in **1912**.",
+ "usage": {
+  "input_tokens": 9381,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 666,
+  "reasoning_output_tokens": 641
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.7,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "titanic-L05"
+}

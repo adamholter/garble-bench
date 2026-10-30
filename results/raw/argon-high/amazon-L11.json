@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled text. Could you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6990,
+  "output_tokens": 686,
+  "reasoning_output_tokens": 329
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.6,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "amazon-L11"
+}

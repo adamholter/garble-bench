@@ -1,0 +1,17 @@
+{
+ "response": "The Titanic sank on **April 15, 1912**.",
+ "usage": {
+  "input_tokens": 10120,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 339,
+  "reasoning_output_tokens": 319
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.0,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "titanic-L04"
+}

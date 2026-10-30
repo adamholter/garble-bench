@@ -1,0 +1,17 @@
+{
+ "response": "A hexagon has 6 sides.",
+ "usage": {
+  "input_tokens": 9375,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 49,
+  "reasoning_output_tokens": 35
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.6,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "hexagon-L02"
+}

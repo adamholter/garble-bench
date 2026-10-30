@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message (`niba tyderxSlw;w4J8 ned`) may have been typed or pasted by mistake. \n\n> [!WARNING]\n> If `tyderxSlw;w4J8` is a password or credential that was accidentally pasted, consider rotating it just to be safe.\n\nCould you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 6056,
+  "reasoning_output_tokens": 2986
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 36.5,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "ww2-L08"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "A hexagon has **6** sides.\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 160,
+  "reasoning_output_tokens": 74
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.1,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "hexagon-L00"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you are asking **\"In what year did the Titanic sail?\"** (or sink):\n\n* **Sailed:** The RMS *Titanic* set sail on its maiden voyage on **April 10, 1912**, departing from Southampton, England.\n* **Sank:** It struck an iceberg on the night of April 14 and sank in the early morning hours of **April 15, 1912**.\n",
+ "usage": {
+  "input_tokens": 6970,
+  "output_tokens": 1647,
+  "reasoning_output_tokens": 777
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 11.8,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "titanic-L06"
+}

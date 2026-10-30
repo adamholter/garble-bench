@@ -1,0 +1,15 @@
+{
+ "response": "**William Shakespeare** wrote *Romeo and Juliet* (believed to have been written between 1591 and 1595).\n",
+ "usage": {
+  "input_tokens": 6993,
+  "output_tokens": 34,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.5,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "romeo-L03"
+}

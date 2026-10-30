@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message got heavily jumbled or mistyped, but it appears you are asking:\n\n> **\"What is the main / official language spoken in Brazil?\"** (or *\"What languages are spoken in Brazil?\"*)\n\nHere is the answer:\n\n---\n\n### Primary & Official Language\n* **Portuguese** (*Portugu\u00eas do Brasil*): The official and overwhelmingly predominant language of Brazil, spoken natively by about **98% to 99%** of the population. Brazil is the only Portuguese-speaking country in the Americas.\n\n---\n\n### Other Languages Spoken in Brazil\n\n1. **Indigenous Languages**:\n   * Brazil is home to around 150 to 200 living indigenous languages across various language families (such as Tupi-Guarani, Macro-J\u00ea, and Arawak).\n   * Prominent examples include **Tikuna**, **Guarani Kaiow\u00e1**, **Yanomami**, and **Nheengatu** (co-official in municipalities like S\u00e3o Gabriel da Cachoeira).\n\n2. **Immigrant & Regional Dialects**:\n   * **German dialects**: Notably **Riograndenser Hunsr\u00fcckisch** and **East Pomeranian** (*Pomerano*), co-official in several southern municipalities.\n   * **Italian dialects**: Notably **Talian** (Venetian dialect), spoken in parts of Rio Grande do Sul and Santa Catarina.\n   * **Japanese**, **Spanish**, and **Arabic** among immigrant communities in major metropolitan areas like S\u00e3o Paulo.\n\n3. **Sign Language**:\n   * **Libras** (*L\u00edngua Brasileira de Sinais*): Officially recognized by federal law as an official means of communication for Brazil's deaf communities.\n\n---\n\n*(If this wasn't what you were asking\u2014for instance, if you were asking about a video game such as Path of Exile or something else\u2014please feel free to clarify!)*\n",
+ "usage": {
+  "input_tokens": 6988,
+  "output_tokens": 8703,
+  "reasoning_output_tokens": 4148
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 44.3,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "brazil-L07"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message got scrambled or mistyped (e.g., `\"ddumu gkvoolem3s; jpo3 resdo~ns\"`). \n\nCould you please retype or clarify what you need help with?\n",
+ "usage": {
+  "input_tokens": 6989,
+  "output_tokens": 5547,
+  "reasoning_output_tokens": 2749
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.9,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "speed-L10"
+}

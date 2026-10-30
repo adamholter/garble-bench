@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been scrambled or typed accidentally (`Mw1 m`njb8teasght4fe9n` rognw eufl/ eea`). \n\nCould you please clarify or retype what you need help with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 4128,
+  "reasoning_output_tokens": 2038
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.5,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "minutes-L10"
+}

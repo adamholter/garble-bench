@@ -1,0 +1,15 @@
+{
+ "response": "You would have **6** apples left.\n\nHere is the breakdown of your question (*\"If I have three apples, buy five more, and then eat two, how many apples do I have left?\"*):\n\n1. **Start:** 3 apples\n2. **Buy 5 more:** $3 + 5 = 8$ apples\n3. **Eat 2:** $8 - 2 = 6$ apples\n",
+ "usage": {
+  "input_tokens": 6992,
+  "output_tokens": 4788,
+  "reasoning_output_tokens": 2349
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "apples-L04"
+}

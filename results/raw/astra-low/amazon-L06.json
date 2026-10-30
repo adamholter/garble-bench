@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat is the longest river in North America?\u201d it\u2019s the **Missouri River**, about **2,341 miles (3,767 km)** long.",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 94,
+  "reasoning_output_tokens": 53
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.2,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "amazon-L06"
+}

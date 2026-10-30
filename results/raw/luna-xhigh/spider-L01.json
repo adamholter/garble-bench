@@ -1,0 +1,17 @@
+{
+ "response": "A spider has 8 legs.",
+ "usage": {
+  "input_tokens": 9374,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 46,
+  "reasoning_output_tokens": 33
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.9,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "spider-L01"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean by \u201cowmna leg sdo3qa spiderhze.\u201d Could you rephrase what you\u2019d like me to do?",
+ "usage": {
+  "input_tokens": 42338,
+  "cached_input_tokens": 36608,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 239,
+  "reasoning_output_tokens": 73
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 44.4,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "spider-L06"
+}

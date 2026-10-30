@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed accidentally or became garbled (`Sh6i] stzeh l`not3e ~5izvf [injuo4gayem8w`). \n\nHow can I help you today?\n",
+ "usage": {
+  "input_tokens": 6994,
+  "output_tokens": 221,
+  "reasoning_output_tokens": 84
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.0,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "amazon-L10"
+}

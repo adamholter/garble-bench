@@ -1,0 +1,15 @@
+{
+ "response": "**Mars** is known as the Red Planet (due to the iron oxide, or rust, covering its surface).\n",
+ "usage": {
+  "input_tokens": 6996,
+  "output_tokens": 529,
+  "reasoning_output_tokens": 251
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.5,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "mars-L05"
+}

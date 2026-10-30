@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat is the capital city of Australia?\u201d, it\u2019s **Canberra**.",
+ "usage": {
+  "input_tokens": 9381,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 239,
+  "reasoning_output_tokens": 214
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 22.8,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "capital-L07"
+}

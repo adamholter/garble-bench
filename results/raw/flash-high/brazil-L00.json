@@ -1,0 +1,15 @@
+{
+ "response": "The main language spoken in Brazil is **Portuguese**. In fact, Brazil is the largest Portuguese-speaking country in the world and the only one in the Americas.\n",
+ "usage": {
+  "input_tokens": 6962,
+  "output_tokens": 240,
+  "reasoning_output_tokens": 104
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "brazil-L00"
+}

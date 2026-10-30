@@ -1,0 +1,15 @@
+{
+ "response": "The **RMS Titanic** both set sail on its maiden voyage and sank in **1912** (specifically setting sail on April 10, 1912, and sinking on the night of April 14\u201315, 1912).\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 1065,
+  "reasoning_output_tokens": 502
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.9,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "titanic-L06"
+}

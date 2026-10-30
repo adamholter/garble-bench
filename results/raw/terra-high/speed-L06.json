@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure I understood your question. Could you rephrase it? If you\u2019re asking about a speed, please include the value and units you want to convert.",
+ "usage": {
+  "input_tokens": 10018,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 79,
+  "reasoning_output_tokens": 39
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.4,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "speed-L06"
+}

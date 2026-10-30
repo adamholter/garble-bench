@@ -1,0 +1,15 @@
+{
+ "response": "The **Pacific Ocean** is the largest and deepest ocean on Earth. It covers an area of approximately 165.25 million square kilometers (63.8 million square miles), accounting for nearly a third of the Earth's total surface area and almost half of its water surface.\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 64,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.9,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "ocean-L01"
+}

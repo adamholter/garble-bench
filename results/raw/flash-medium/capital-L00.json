@@ -1,0 +1,15 @@
+{
+ "response": "The capital city of Australia is **Canberra**.\n",
+ "usage": {
+  "input_tokens": 6967,
+  "output_tokens": 120,
+  "reasoning_output_tokens": 55
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.3,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "capital-L00"
+}

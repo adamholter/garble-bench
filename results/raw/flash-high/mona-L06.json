@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been typed accidentally or got garbled (\"A o0antekdf 5hy em.q Oxz\"). \n\nCould you please clarify or rephrase what you'd like assistance with? I'm ready to help!\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 1250,
+  "reasoning_output_tokens": 598
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.5,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "mona-L06"
+}

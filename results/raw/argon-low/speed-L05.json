@@ -1,0 +1,15 @@
+{
+ "response": "Roughly how fast does light travel in a vacuum in kilometers per second?\n\nLight travels at approximately **300,000 kilometers per second** (more precisely, **299,792.458 km/s**) in a vacuum.\n",
+ "usage": {
+  "input_tokens": 2059,
+  "output_tokens": 60,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.8,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "speed-L05"
+}

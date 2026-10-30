@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been scrambled, mistyped, or written in a phonetic/dialectal form (resembling Scots phrases like *beastie*, *ken*, or *o' earth*). \n\nCould you please clarify or rephrase what you're looking for so I can help you?\n",
+ "usage": {
+  "input_tokens": 6970,
+  "output_tokens": 13347,
+  "reasoning_output_tokens": 6641
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 68.8,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "ocean-L07"
+}

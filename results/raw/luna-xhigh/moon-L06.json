@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWho was the first person to walk on the moon?\u201d\u2014it was Neil Armstrong, in 1969.",
+ "usage": {
+  "input_tokens": 9383,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 461,
+  "reasoning_output_tokens": 429
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 38.1,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "moon-L06"
+}

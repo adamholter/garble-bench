@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled, encrypted, or mistyped:\n\n> `\"1 /9 s64frekxkh gp9jtnp fdqren. 7e4berede Ra6mernj4ti\"`\n\nCould you please clarify or rephrase what you need help with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 65,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.6,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "freeze-L10"
+}

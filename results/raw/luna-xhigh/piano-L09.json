@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out the question. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 9380,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 904,
+  "reasoning_output_tokens": 884
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 40.5,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "piano-L09"
+}

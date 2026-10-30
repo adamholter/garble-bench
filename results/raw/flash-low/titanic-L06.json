@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have some typos (\"in what year did the Titanic sail?\"). \n\nIf you are asking about the **RMS Titanic**:\n* **Maiden voyage:** The Titanic departed on its maiden voyage on **April 10, 1912**.\n* **Sinking:** It struck an iceberg on the night of April 14 and sank in the early morning of **April 15, 1912**.\n\nIf you were asking about something else, please feel free to clarify!\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 110,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.7,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "titanic-L06"
+}

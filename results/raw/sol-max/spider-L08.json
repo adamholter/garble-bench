@@ -1,0 +1,17 @@
+{
+ "response": "What would you like me to do with `ownnaleg6 sdo3qa spde5hz2`?",
+ "usage": {
+  "input_tokens": 10067,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 322,
+  "reasoning_output_tokens": 292
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.9,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "spider-L08"
+}

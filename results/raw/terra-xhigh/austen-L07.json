@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you meant. Could you rephrase your question?",
+ "usage": {
+  "input_tokens": 10010,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 38,
+  "reasoning_output_tokens": 17
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.2,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "austen-L07"
+}

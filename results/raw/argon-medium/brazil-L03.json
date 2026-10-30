@@ -1,0 +1,15 @@
+{
+ "response": "The main and official language spoken in Brazil is **Portuguese** (specifically **Brazilian Portuguese**), which is spoken by almost the entire population (over 98%).\n\nIn addition to Portuguese:\n- **libras** (Brazilian Sign Language) is officially recognized as a legal means of communication and expression.\n- **Indigenous languages**: Over 200 indigenous languages (such as Nheengatu, Ticuna, and Guarani) are spoken across various regions, with some holding co-official status at the municipal level.\n- **Immigrant languages**: Languages such as Hunsrik (a German dialect), Pomeranian, Talian (a Venetian dialect), Japanese, and Spanish are spoken in certain communities, particularly in Southern and Southeastern Brazil.\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 299,
+  "reasoning_output_tokens": 71
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.7,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "brazil-L03"
+}

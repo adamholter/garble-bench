@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat\u2019s the main language spoken in Brazil?\u201d it\u2019s **Portuguese**, Brazil\u2019s official language.",
+ "usage": {
+  "input_tokens": 10062,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 202,
+  "reasoning_output_tokens": 172
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 14.8,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "brazil-L05"
+}

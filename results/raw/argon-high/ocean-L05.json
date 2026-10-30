@@ -1,0 +1,15 @@
+{
+ "response": "The **Indian Ocean** is the warmest ocean on Earth. \n\n* **Average surface temperature:** Roughly **22\u00b0C to 28\u00b0C (72\u00b0F to 82\u00b0F)**, with the warmest waters located near the equator and in marginal seas like the Red Sea and the Persian Gulf.\n* **Why it's the warmest:** Unlike the Atlantic and Pacific Oceans, the Indian Ocean is landlocked to the north by Asia. This blocks cold Arctic currents from flowing in and circulating cooler water through the basin, trapping tropical heat.\n\n*(In case the typo meant **largest** or **deepest** ocean: both titles belong to the **Pacific Ocean**.)*\n",
+ "usage": {
+  "input_tokens": 6984,
+  "output_tokens": 1761,
+  "reasoning_output_tokens": 807
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.2,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "ocean-L05"
+}

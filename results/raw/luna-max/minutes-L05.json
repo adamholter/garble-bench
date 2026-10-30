@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out the item or date in your message. What should I move, and to which date?",
+ "usage": {
+  "input_tokens": 30483,
+  "cached_input_tokens": 25600,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1251,
+  "reasoning_output_tokens": 1118
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 58.9,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "minutes-L05"
+}

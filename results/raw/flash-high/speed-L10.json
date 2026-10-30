@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through garbled or mistyped (possibly due to an accidental keyboard slip, layout issue, or pocket typing). \n\nIt appears you might have been trying to ask about **models / \"no response\"** (possibly referencing Google/Gemini models or a previous request not responding).\n\nCould you please clarify or retype your question? I'm ready to help!\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 17774,
+  "reasoning_output_tokens": 8846
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 85.6,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "speed-L10"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you meant \u201cWhat is the square root of 16?\u201d, the answer is **4**. Otherwise, please retype your question.",
+ "usage": {
+  "input_tokens": 10002,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 898,
+  "reasoning_output_tokens": 864
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 60.6,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "sqrt-L05"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have had some keyboard typos, but it appears you may be asking a question about a piano\u2014likely one of the following:\n\n---\n\n### 1. How many keys does a piano have?\n* **Standard piano:** **88 keys** (52 white keys for natural notes, 36 black keys for accidentals/sharps and flats).\n* **Other variations:** \n  * Digital keyboards often come in **61**, **73**, or **76** keys.\n  * Extended concert grands (such as the B\u00f6sendorfer Imperial 290) have **97 keys**.\n\n---\n\n### 2. How much does a piano weigh?\n* **Upright / Vertical Piano:** ~300 to 600 lbs (135\u2013270 kg).\n* **Baby Grand Piano:** ~500 to 600 lbs (225\u2013270 kg).\n* **Concert Grand Piano:** ~900 to 1,200+ lbs (400\u2013550+ kg).\n* **Digital Keyboard / Stage Piano:** ~20 to 50 lbs (9\u201323 kg).\n\n---\n\n### 3. How much does a piano cost?\n* **Digital Pianos / Keyboards:** $200 \u2013 $2,500+\n* **Acoustic Upright Pianos:** $3,000 \u2013 $15,000+ (entry to high-end new)\n* **Grand Pianos:** $8,000 \u2013 $150,000+ (baby grand to concert grand)\n\n---\n\nIf you were asking about something else (like tuning, learning to play, or software/MIDI), please feel free to clarify!\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 8923,
+  "reasoning_output_tokens": 4266
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 45.0,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "piano-L10"
+}

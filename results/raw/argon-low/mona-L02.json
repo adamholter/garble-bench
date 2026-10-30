@@ -1,0 +1,15 @@
+{
+ "response": "The *Mona Lisa* was painted by the Italian Renaissance artist **Leonardo da Vinci** in the early 16th century (around 1503\u20131506, with possible work continuing until about 1517). It is currently on display at the Louvre Museum in Paris.\n",
+ "usage": {
+  "input_tokens": 6974,
+  "output_tokens": 67,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.8,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mona-L02"
+}

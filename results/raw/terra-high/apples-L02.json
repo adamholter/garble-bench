@@ -1,0 +1,17 @@
+{
+ "response": "You have **6 apples** left: 3 + 5 \u2212 2 = 6.",
+ "usage": {
+  "input_tokens": 10015,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 24,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 26.0,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "apples-L02"
+}

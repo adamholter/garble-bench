@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain a typo or scrambled text (`wohq sht4irtsoosn9o3xl\\notwd 'mx0nf`). \n\nCould you please rephrase or clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6978,
+  "output_tokens": 50,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.8,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "moon-L10"
+}

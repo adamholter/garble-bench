@@ -1,0 +1,17 @@
+{
+ "response": "Portuguese is Brazil\u2019s official and most widely spoken language. Indigenous languages and immigrant community languages, such as German, Italian, and Japanese, are also spoken.",
+ "usage": {
+  "input_tokens": 9383,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 364,
+  "reasoning_output_tokens": 326
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 17.3,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "brazil-L04"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been mistyped or scrambled. \n\nCould you please clarify or restate what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 695,
+  "reasoning_output_tokens": 332
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "ww2-L10"
+}

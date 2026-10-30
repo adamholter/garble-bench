@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or sent by mistake (`w~3or64ehbvo l-tdi2ajm d[ery7flv3`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6996,
+  "output_tokens": 975,
+  "reasoning_output_tokens": 461
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.4,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "austen-L11"
+}

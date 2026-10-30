@@ -1,0 +1,17 @@
+{
+ "response": "A spider has eight legs.",
+ "usage": {
+  "input_tokens": 10049,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 10,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.9,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "spider-L01"
+}

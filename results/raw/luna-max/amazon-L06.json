@@ -1,0 +1,17 @@
+{
+ "response": "If you meant \u201cWhat is the longest river in North America?\u201d: the Missouri River is often listed as the longest individual river, at about 2,341 miles (3,767 km). Together with the Mississippi, it forms a much longer river system.",
+ "usage": {
+  "input_tokens": 9381,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1389,
+  "reasoning_output_tokens": 1331
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 51.2,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "amazon-L06"
+}

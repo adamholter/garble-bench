@@ -1,0 +1,15 @@
+{
+ "response": "The *Mona Lisa* was painted by **Leonardo da Vinci**.\n",
+ "usage": {
+  "input_tokens": 6968,
+  "output_tokens": 14,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.0,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "mona-L01"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or mistyped (`Shati] stzeh l`nogee ~rivf [inuo4gaem8a`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2133,
+  "output_tokens": 234,
+  "reasoning_output_tokens": 92
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.0,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "amazon-L07"
+}

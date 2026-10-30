@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been jumbled or mistyped. Could you please clarify or rephrase what you need help with?\n",
+ "usage": {
+  "input_tokens": 6977,
+  "output_tokens": 300,
+  "reasoning_output_tokens": 136
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.0,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "capital-L11"
+}

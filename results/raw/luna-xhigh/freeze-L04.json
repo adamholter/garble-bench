@@ -1,0 +1,17 @@
+{
+ "response": "Water freezes at 32\u00b0F (0\u00b0C).",
+ "usage": {
+  "input_tokens": 9386,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 121,
+  "reasoning_output_tokens": 105
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.9,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "freeze-L04"
+}

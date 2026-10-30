@@ -1,0 +1,17 @@
+{
+ "response": "A hexagon has **6 sides**.",
+ "usage": {
+  "input_tokens": 9999,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 24
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.6,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "hexagon-L00"
+}

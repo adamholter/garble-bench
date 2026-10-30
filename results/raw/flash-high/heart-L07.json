@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be scrambled, corrupted, or encrypted. \n\nIf this was accidental keyboard input or a copy-paste error, please re-enter your question or request. If this is a specific cipher or encoded puzzle, please let me know the context or decoding format and I would be happy to help decode it!\n",
+ "usage": {
+  "input_tokens": 7000,
+  "output_tokens": 8195,
+  "reasoning_output_tokens": 4064
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 38.0,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "heart-L07"
+}

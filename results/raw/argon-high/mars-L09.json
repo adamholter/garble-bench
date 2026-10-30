@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through garbled (though the end looks like it might be **\"...back the Empire\"** or **\"...the Empire\"** from `nkobac teh Epienr`). \n\nCould you please retype or clarify what you would like help with?\n",
+ "usage": {
+  "input_tokens": 6986,
+  "output_tokens": 23875,
+  "reasoning_output_tokens": 11908
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 144.4,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "mars-L09"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand that. Could you rephrase your request?",
+ "usage": {
+  "input_tokens": 10058,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 86,
+  "reasoning_output_tokens": 67
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.6,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "ocean-L10"
+}

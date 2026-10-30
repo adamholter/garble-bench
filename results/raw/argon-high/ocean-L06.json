@@ -1,0 +1,15 @@
+{
+ "response": "It looks like there were a few typos in your question (*\"What is the [...] ocean on Earth?\"*). Depending on which superlative you meant, here are the answers for Earth's oceans:\n\n* **Largest & Deepest:** **Pacific Ocean**\n  * Covers about **165.25 million km\u00b2** (63.8 million sq mi)\u2014more than 30% of Earth's surface.\n  * Reaches a maximum depth of about **10,935 meters** (35,876 feet) at the Challenger Deep in the Mariana Trench.\n* **Warmest:** **Indian Ocean**\n  * The warmest ocean overall, with surface water temperatures regularly exceeding **28\u00b0C (82\u00b0F)** near the equator.\n* **Smallest, Shallowest & Coldest:** **Arctic Ocean**\n  * Covers about **14.06 million km\u00b2** (5.4 million sq mi) with an average depth of roughly **1,038 meters** (3,406 feet).\n* **Saltiest (and 2nd Largest):** **Atlantic Ocean**\n  * Covers about **106.46 million km\u00b2** (41.1 million sq mi) and has the highest average salinity among the major oceans.\n* **Newest / Southernmost (4th Largest):** **Southern (Antarctic) Ocean**\n  * Encircles Antarctica and covers about **20.33 million km\u00b2** (7.85 million sq mi).\n",
+ "usage": {
+  "input_tokens": 6981,
+  "output_tokens": 3685,
+  "reasoning_output_tokens": 1678
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.8,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "ocean-L06"
+}

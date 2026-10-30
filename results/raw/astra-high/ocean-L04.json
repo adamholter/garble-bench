@@ -1,0 +1,17 @@
+{
+ "response": "The **Indian Ocean** is the warmest ocean on Earth.",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 97,
+  "reasoning_output_tokens": 78
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.2,
+ "config": "astra-high",
+ "model": "gpt-6-astra",
+ "effort": "high",
+ "item": "ocean-L04"
+}

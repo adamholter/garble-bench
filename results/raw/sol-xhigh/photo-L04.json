@@ -1,0 +1,17 @@
+{
+ "response": "Plants absorb **carbon dioxide (CO\u2082)** from the air to carry out photosynthesis.",
+ "usage": {
+  "input_tokens": 10084,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 141,
+  "reasoning_output_tokens": 117
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.1,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "photo-L04"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The planet in our solar system known as the \"Red Planet\" is **Mars**.\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 395,
+  "reasoning_output_tokens": 189
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.0,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "mars-L03"
+}

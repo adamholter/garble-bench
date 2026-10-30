@@ -1,0 +1,17 @@
+{
+ "response": "Mount Everest is the tallest mountain above sea level, at **8,848.86 meters (29,031.7 feet)**. It lies on the border between Nepal and Tibet, China.",
+ "usage": {
+  "input_tokens": 10008,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 88,
+  "reasoning_output_tokens": 43
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.8,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "everest-L02"
+}

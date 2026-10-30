@@ -1,0 +1,17 @@
+{
+ "response": "World War II ended in **1945**. It ended in Europe in May and in Japan in September.",
+ "usage": {
+  "input_tokens": 9372,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 26,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.8,
+ "config": "luna-low",
+ "model": "gpt-6-luna",
+ "effort": "low",
+ "item": "ww2-L01"
+}

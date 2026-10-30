@@ -1,0 +1,15 @@
+{
+ "response": "**Leonardo da Vinci** painted the *Mona Lisa* (beginning around 1503).\n",
+ "usage": {
+  "input_tokens": 2159,
+  "output_tokens": 25,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.3,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mona-L01"
+}

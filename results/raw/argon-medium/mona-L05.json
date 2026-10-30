@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been mistyped (`A o0antekdf 5h em.q Oisa`). Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2168,
+  "output_tokens": 211,
+  "reasoning_output_tokens": 85
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.4,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "mona-L05"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be scrambled or contains unrecognized text (`ownnaleg6 sdo3qa spde5hz2`). \n\nCould you please clarify what you would like assistance with?\n",
+ "usage": {
+  "input_tokens": 6968,
+  "output_tokens": 7920,
+  "reasoning_output_tokens": 3940
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 35.4,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "spider-L08"
+}

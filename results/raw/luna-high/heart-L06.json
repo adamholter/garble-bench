@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out your request. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 9400,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 106,
+  "reasoning_output_tokens": 86
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.1,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "heart-L06"
+}

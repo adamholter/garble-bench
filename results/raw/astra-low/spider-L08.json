@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you\u2019d like me to do? I couldn\u2019t interpret \u201cownnaleg6 sdo3qa spde5hz2.\u201d",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 34,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.0,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "spider-L08"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you start with 10 apples, get 5 more, and eat 2, you have **13 apples left**: 10 + 5 \u2212 2 = 13.",
+ "usage": {
+  "input_tokens": 10029,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 397,
+  "reasoning_output_tokens": 353
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.7,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "apples-L06"
+}

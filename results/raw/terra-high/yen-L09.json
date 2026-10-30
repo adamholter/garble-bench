@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make out your request. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 10013,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 34,
+  "reasoning_output_tokens": 14
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.5,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "yen-L09"
+}

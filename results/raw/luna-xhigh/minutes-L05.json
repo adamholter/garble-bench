@@ -1,0 +1,17 @@
+{
+ "response": "A full day has 24 hours, 1,440 minutes, or 86,400 seconds.",
+ "usage": {
+  "input_tokens": 9380,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1086,
+  "reasoning_output_tokens": 1059
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.0,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "minutes-L05"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been typed accidentally or got garbled. \n\nCould you please clarify or retype what you'd like assistance with?\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 1882,
+  "reasoning_output_tokens": 925
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.3,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "speed-L11"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or mistyped (`1t /is64 frekzih gp9itnp fdqre n 7de4berede fa6mrenj4ti`). Could you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2062,
+  "output_tokens": 61,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "freeze-L07"
+}

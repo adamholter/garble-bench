@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m having trouble reading that. Could you retype your request?",
+ "usage": {
+  "input_tokens": 9390,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 237,
+  "reasoning_output_tokens": 217
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.1,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "speed-L06"
+}

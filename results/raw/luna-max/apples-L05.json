@@ -1,0 +1,17 @@
+{
+ "response": "If you started with 3 apples, bought 5, then ate 2, you\u2019d have **6 apples left**.",
+ "usage": {
+  "input_tokens": 9398,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 899,
+  "reasoning_output_tokens": 867
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 26.6,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "apples-L05"
+}

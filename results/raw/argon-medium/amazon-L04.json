@@ -1,0 +1,15 @@
+{
+ "response": "Depending on whether you meant **South America** or **North America**:\n\n* **South America:** The **Amazon River** is the longest river, stretching approximately **6,400 km (4,000 miles)** (with some studies measuring it up to ~6,992 km / 4,345 miles). It is also the largest river in the world by discharge volume of water.\n* **North America:** The **Missouri River** is the longest river at approximately **3,767 km (2,341 miles)**, slightly longer than the **Mississippi River** (~3,730 km / 2,320 miles) into which it flows.\n",
+ "usage": {
+  "input_tokens": 6989,
+  "output_tokens": 696,
+  "reasoning_output_tokens": 272
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.1,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "amazon-L04"
+}

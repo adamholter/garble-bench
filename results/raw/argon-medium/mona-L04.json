@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you meant **\"Who painted the Mona Lisa?\"**\u2014it was painted by the Italian Renaissance artist **Leonardo da Vinci** (begun around 1503).\n",
+ "usage": {
+  "input_tokens": 2085,
+  "output_tokens": 167,
+  "reasoning_output_tokens": 64
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.2,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "mona-L04"
+}

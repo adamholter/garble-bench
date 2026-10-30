@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat\u2019s the main language spoken in Brazil?\u201d, it\u2019s Portuguese\u2014specifically, Brazilian Portuguese.",
+ "usage": {
+  "input_tokens": 9381,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 715,
+  "reasoning_output_tokens": 686
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.3,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "brazil-L04"
+}

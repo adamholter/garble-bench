@@ -1,0 +1,15 @@
+{
+ "response": "The tallest mountain in the world above sea level is **Mount Everest**. \n\nIts peak sits at an elevation of **8,848.86 meters (29,031.7 feet)** above sea level, located in the Himalayas on the border between Nepal and China (Tibet).\n",
+ "usage": {
+  "input_tokens": 2036,
+  "output_tokens": 63,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.9,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "everest-L01"
+}

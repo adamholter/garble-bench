@@ -1,0 +1,15 @@
+{
+ "response": "The **heart** is the organ that pumps blood through the arteries, capillaries, and veins of the circulatory system.\n",
+ "usage": {
+  "input_tokens": 2874,
+  "output_tokens": 27,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.7,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "heart-L00"
+}

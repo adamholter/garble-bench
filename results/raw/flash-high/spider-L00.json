@@ -1,0 +1,15 @@
+{
+ "response": "A spider has **8 legs** (arranged in 4 pairs). \n\n*(Note: They also have a pair of pedipalps near their mouthparts that can look like short legs or feelers, but anatomically these are appendages used for sensing, feeding, or mating rather than walking legs.)*\n",
+ "usage": {
+  "input_tokens": 6963,
+  "output_tokens": 342,
+  "reasoning_output_tokens": 140
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "spider-L00"
+}

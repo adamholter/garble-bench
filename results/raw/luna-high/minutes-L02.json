@@ -1,0 +1,17 @@
+{
+ "response": "There are 1,440 minutes in one full day.",
+ "usage": {
+  "input_tokens": 9373,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 49,
+  "reasoning_output_tokens": 31
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.9,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "minutes-L02"
+}

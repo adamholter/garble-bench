@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase that? I\u2019m not sure what you\u2019d like me to do.",
+ "usage": {
+  "input_tokens": 10113,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 335,
+  "reasoning_output_tokens": 311
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 40.6,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "spider-L07"
+}

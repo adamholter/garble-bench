@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed or sent by mistake (`Mw1m`ynjb8asght4fe69n` rognw euf,/ eeay`). \n\nHow can I help you today?\n",
+ "usage": {
+  "input_tokens": 6992,
+  "output_tokens": 2703,
+  "reasoning_output_tokens": 1326
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.1,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "minutes-L11"
+}

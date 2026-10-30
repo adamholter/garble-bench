@@ -1,0 +1,17 @@
+{
+ "response": "A hexagon has **6 sides**.",
+ "usage": {
+  "input_tokens": 10065,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 56,
+  "reasoning_output_tokens": 41
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 11.5,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "hexagon-L02"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you mean the tallest mountain in the world above sea level, it\u2019s **Mount Everest**, at **8,848.86 metres (29,032 feet)**.",
+ "usage": {
+  "input_tokens": 10078,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 219,
+  "reasoning_output_tokens": 179
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 40.6,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "everest-L07"
+}

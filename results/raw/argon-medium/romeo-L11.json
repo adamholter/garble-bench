@@ -1,0 +1,15 @@
+{
+ "response": "It looks like that message may have been sent by accident. How can I help you today?\n",
+ "usage": {
+  "input_tokens": 2058,
+  "output_tokens": 179,
+  "reasoning_output_tokens": 78
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.3,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "romeo-L11"
+}

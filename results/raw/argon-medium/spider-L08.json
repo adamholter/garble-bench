@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed by mistake (`ownnaleg6 sdo3qa spde5hz2`). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6980,
+  "output_tokens": 233,
+  "reasoning_output_tokens": 98
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.8,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "spider-L08"
+}

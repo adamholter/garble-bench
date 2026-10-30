@@ -1,0 +1,17 @@
+{
+ "response": "The square root of 1 is **1**. Both 1 and \u22121 satisfy \\(x^2 = 1\\).",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 93,
+  "reasoning_output_tokens": 60
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 27.9,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "sqrt-L05"
+}

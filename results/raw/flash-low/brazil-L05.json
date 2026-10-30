@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your question might have been typed quickly: **\"What are some major languages spoken in Brazil?\"**\n\nHere is a breakdown of languages spoken in Brazil:\n\n1. **Portuguese (Official & Predominant)**\n   - Portuguese is spoken by virtually the entire population (over 99%). Brazil is the only Portuguese-speaking nation in the Americas.\n   - Brazilian Portuguese has its own distinct accent, slang, phonetics, and grammatical nuances compared to European Portuguese.\n\n2. **Indigenous Languages**\n   - Brazil is home to around 150 to 270 living indigenous languages, predominantly belonging to the **Tupi-Guarani**, **Macro-J\u00ea**, and **Arawakan** families.\n   - Prominent indigenous languages include **Guarani** (and Nheengatu, also known as the Amazonian General Language), **Ticuna**, and **Yanomami**.\n   - Several municipalities in the Amazon region have co-officialized indigenous languages (e.g., S\u00e3o Gabriel da Cachoeira co-officialized Nheengatu, Tukano, and Baniwa).\n\n3. **Immigrant & Heritage Languages**\n   - **German dialects**: Especially **Riograndenser Hunsr\u00fcckisch** and **Pomeranian** (*Pomerano*), widely spoken in southern states such as Rio Grande do Sul, Santa Catarina, and Esp\u00edrito Santo. Several towns recognize them as co-official languages.\n   - **Italian dialects**: Especially **Talian** (Venetian dialect), spoken primarily in southern wine-growing regions.\n   - **Japanese**: Brazil hosts the largest Japanese diaspora outside Japan, with speakers concentrated in S\u00e3o Paulo and Paran\u00e1.\n   - **Spanish & English**: Commonly studied as second languages in schools and spoken in business or tourist hubs, as well as along border towns (*Portu\u00f1ol*).\n\n4. **Brazilian Sign Language (Libras)**\n   - **Libras** (*L\u00edngua Brasileira de Sinais*) is legally recognized as an official means of communication and expression throughout Brazil.\n",
+ "usage": {
+  "input_tokens": 2041,
+  "output_tokens": 434,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "brazil-L05"
+}

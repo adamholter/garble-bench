@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase your question? I couldn\u2019t understand \u201cjay 5sli2ed oes y3x7ga; nz.\u201d",
+ "usage": {
+  "input_tokens": 10006,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 48,
+  "reasoning_output_tokens": 14
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.7,
+ "config": "terra-medium",
+ "model": "gpt-6.1-terra",
+ "effort": "medium",
+ "item": "hexagon-L05"
+}

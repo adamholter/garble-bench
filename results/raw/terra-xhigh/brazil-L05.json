@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking about the main language spoken in Brazil, it\u2019s **Portuguese**.",
+ "usage": {
+  "input_tokens": 10015,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 177,
+  "reasoning_output_tokens": 152
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.1,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "brazil-L05"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like that message might have been sent by accident! Let me know what you'd like to work on or if I can help you with anything.\n",
+ "usage": {
+  "input_tokens": 2878,
+  "output_tokens": 36,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.8,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "spider-L11"
+}

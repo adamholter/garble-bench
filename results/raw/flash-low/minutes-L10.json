@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain a typo or corrupted text:\n\n> `Mw1 m`njb8teasght4fe9n` rognw eufl/ eea`\n\nCould you please retype or clarify what you need help with?\n",
+ "usage": {
+  "input_tokens": 6984,
+  "output_tokens": 54,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.0,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "minutes-L10"
+}

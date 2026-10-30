@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase your request? I couldn\u2019t reliably understand the text.",
+ "usage": {
+  "input_tokens": 10016,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 98,
+  "reasoning_output_tokens": 77
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.2,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "everest-L07"
+}

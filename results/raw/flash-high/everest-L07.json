@@ -1,0 +1,15 @@
+{
+ "response": "Deciphering your question as:\n> *\"What is the tallest mountain in the world above sea level?\"*\n\nThe answer is **Mount Everest** (known as *Sagarmatha* in Nepali and *Chomolungma* in Tibetan).\n\n* **Elevation:** 8,848.86 meters (29,031.7 feet) above sea level\n* **Location:** Himalayas, on the border between Nepal and China (Tibet)\n\n---\n\n*(Note: While Everest is the highest mountain **above sea level**, **Mauna Kea** in Hawaii is the tallest mountain base-to-peak at roughly 10,210 m / 33,500 ft, with most of it underwater, and Ecuador's **Mount Chimborazo** is the farthest point on Earth's surface from the Earth's center due to the equatorial bulge.)*\n",
+ "usage": {
+  "input_tokens": 6990,
+  "output_tokens": 7381,
+  "reasoning_output_tokens": 3595
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 36.7,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "everest-L07"
+}

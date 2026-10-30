@@ -1,0 +1,15 @@
+{
+ "response": "A spider has **8** legs (four pairs attached to its cephalothorax).\n",
+ "usage": {
+  "input_tokens": 2880,
+  "output_tokens": 174,
+  "reasoning_output_tokens": 77
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.3,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "spider-L04"
+}

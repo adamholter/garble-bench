@@ -1,0 +1,17 @@
+{
+ "response": "If you meant \u201cWhat is the longest river in North America?\u201d it\u2019s the **Missouri\u2013Mississippi river system**, at about 3,700 miles (6,000 km) long.",
+ "usage": {
+  "input_tokens": 10011,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 306,
+  "reasoning_output_tokens": 260
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.7,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "amazon-L06"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Japan uses the **Japanese yen (JPY)**, written with the symbol **\u00a5**.",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 62,
+  "reasoning_output_tokens": 38
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.2,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "yen-L03"
+}

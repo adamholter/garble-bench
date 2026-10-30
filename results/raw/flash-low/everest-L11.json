@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain a typo or corrupted text:\n\n```text\n2q5gfatll2a tm9n=i5gon\\txe[ pwtif dv0b eexs ~/2ceml`\n```\n\nCould you please clarify or retype what you would like assistance with?\n",
+ "usage": {
+  "input_tokens": 7000,
+  "output_tokens": 67,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.0,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "everest-L11"
+}

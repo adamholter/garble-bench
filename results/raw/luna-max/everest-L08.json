@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t make sense of that message. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 9389,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 516,
+  "reasoning_output_tokens": 495
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.3,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "everest-L08"
+}

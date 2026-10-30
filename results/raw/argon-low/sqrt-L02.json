@@ -1,0 +1,15 @@
+{
+ "response": "The square root of 144 is **12** (or **\u00b112**, since $(-12)^2 = 144$ as well).\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.3,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "sqrt-L02"
+}

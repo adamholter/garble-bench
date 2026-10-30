@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase your request? I couldn\u2019t understand the text.",
+ "usage": {
+  "input_tokens": 10012,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 234,
+  "reasoning_output_tokens": 214
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 39.2,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "minutes-L10"
+}

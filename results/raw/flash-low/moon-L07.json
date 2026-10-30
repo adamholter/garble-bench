@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have some typos or scrambled characters (\"wohqa stheeirst9 oosn9 o3xlkno twd mxo0n\"). \n\nCould you please clarify or rephrase what you are asking?\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 50,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.2,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "moon-L07"
+}

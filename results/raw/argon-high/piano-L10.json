@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled text (`ohw= mtnaueh r~wa6tsapdsadpiam0`). \n\nCould you please resend or clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6981,
+  "output_tokens": 12479,
+  "reasoning_output_tokens": 6214
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 76.7,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "piano-L10"
+}

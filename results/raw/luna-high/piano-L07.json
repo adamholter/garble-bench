@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m having trouble reading that. Could you rephrase your message?",
+ "usage": {
+  "input_tokens": 9379,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 240,
+  "reasoning_output_tokens": 220
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.9,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "piano-L07"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "World War II ended in **1945**.\n",
+ "usage": {
+  "input_tokens": 6966,
+  "output_tokens": 253,
+  "reasoning_output_tokens": 121
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "ww2-L00"
+}

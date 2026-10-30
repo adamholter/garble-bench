@@ -1,0 +1,15 @@
+{
+ "response": "Your message appears to be garbled, corrupted, or encrypted:\n\n```text\n3h]abttiw 06h4 chekihdla symlodrog/ol,d=bhte4roiidc abif\n```\n\nIf this was an accidental keystroke sequence, a cipher, or a corrupted paste of a command/file path, please clarify or resend what you are trying to do, and I will be happy to help.\n",
+ "usage": {
+  "input_tokens": 6987,
+  "output_tokens": 39451,
+  "reasoning_output_tokens": 19679
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 163.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "gold-L08"
+}

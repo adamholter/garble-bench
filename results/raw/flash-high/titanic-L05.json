@@ -1,0 +1,15 @@
+{
+ "response": "The RMS *Titanic* sailed (and sank) in **1912**. \n\n* **Departed (maiden voyage):** April 10, 1912\n* **Sank:** April 15, 1912\n",
+ "usage": {
+  "input_tokens": 6970,
+  "output_tokens": 1175,
+  "reasoning_output_tokens": 560
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.9,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "titanic-L05"
+}

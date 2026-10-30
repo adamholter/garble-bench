@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand that message. Could you rephrase what you\u2019d like help with?",
+ "usage": {
+  "input_tokens": 10010,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 15
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.2,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "hexagon-L11"
+}

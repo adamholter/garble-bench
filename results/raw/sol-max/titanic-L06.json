@@ -1,0 +1,17 @@
+{
+ "response": "If you mean the Titanic, it sank in the **North Atlantic Ocean** on **April 15, 1912**.",
+ "usage": {
+  "input_tokens": 10071,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 607,
+  "reasoning_output_tokens": 575
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.1,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "titanic-L06"
+}

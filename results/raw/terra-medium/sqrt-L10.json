@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you\u2019d like me to do with `2haq6sifte[7qereozltkfo2r`?",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 49,
+  "reasoning_output_tokens": 14
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 10.3,
+ "config": "terra-medium",
+ "model": "gpt-6.1-terra",
+ "effort": "medium",
+ "item": "sqrt-L10"
+}

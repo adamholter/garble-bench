@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend or rephrase your request? It looks like the message may have been garbled.",
+ "usage": {
+  "input_tokens": 10057,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 148,
+  "reasoning_output_tokens": 122
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.4,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "capital-L10"
+}

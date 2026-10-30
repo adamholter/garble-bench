@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you are asking: **\"Who was the first person to walk on the Moon?\"**\n\nThe first person to walk on the Moon was **Neil Armstrong** on **July 20, 1969**, during NASA's **Apollo 11** mission. \n\nHe was followed about 19 minutes later by Lunar Module Pilot **Buzz Aldrin**.\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 6278,
+  "reasoning_output_tokens": 3100
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.9,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "moon-L07"
+}

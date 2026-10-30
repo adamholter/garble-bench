@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been mistyped or encoded (e.g. keyboard slip or shifted keys). \n\nCould you please clarify or retype what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 4.8,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "amazon-L07"
+}

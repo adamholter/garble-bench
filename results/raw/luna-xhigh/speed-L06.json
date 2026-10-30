@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m having trouble understanding that. Could you rephrase or resend your request?",
+ "usage": {
+  "input_tokens": 9392,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 902,
+  "reasoning_output_tokens": 880
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 54.9,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "speed-L06"
+}

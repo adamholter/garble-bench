@@ -1,0 +1,15 @@
+{
+ "response": "The organ in the human body that pumps blood through the veins and arteries is the **heart**.\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 263,
+  "reasoning_output_tokens": 122
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.8,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "heart-L03"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed by mistake or got garbled (`2q5gfatll2a tm9n=i5gon\\txe[ pwtif dv0b eexs ~/2ceml\\``). Could you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2080,
+  "output_tokens": 66,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.8,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "everest-L11"
+}

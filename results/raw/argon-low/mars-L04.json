@@ -1,0 +1,15 @@
+{
+ "response": "**Mars** is known as the \"Red Planet\" in our solar system. It gets its reddish color from iron oxide (rust) on its surface.\n",
+ "usage": {
+  "input_tokens": 6996,
+  "output_tokens": 35,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mars-L04"
+}

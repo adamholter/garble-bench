@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed accidentally or got scrambled (`A o0a[n~rekdf5hy em.q Oxz`). How can I help you today?\n",
+ "usage": {
+  "input_tokens": 6985,
+  "output_tokens": 198,
+  "reasoning_output_tokens": 78
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.3,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "mona-L10"
+}

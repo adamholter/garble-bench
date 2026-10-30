@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been mistyped or scrambled. \n\nIf you were asking a question (for example, about an order, clothing sizes like 3XL, or a coding task), could you please clarify or restate what you need help with?\n",
+ "usage": {
+  "input_tokens": 6970,
+  "output_tokens": 2409,
+  "reasoning_output_tokens": 1177
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "moon-L10"
+}

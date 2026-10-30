@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message (`ownnaleg6 sdo3qa spde5hz2`) may have been sent by mistake or is missing context. Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 4272,
+  "reasoning_output_tokens": 2113
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 31.0,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "spider-L08"
+}

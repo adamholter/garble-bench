@@ -1,0 +1,15 @@
+{
+ "response": "**Decoded query:** \n> *\"Only how fast does light travel in a vacuum in kilometers per second?\"*\n\n---\n\n* **Exact:** **299,792.458 km/s** (299,792,458 m/s)\n* **Approximate:** **~300,000 km/s**\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 30828,
+  "reasoning_output_tokens": 15373
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 141.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "speed-L06"
+}

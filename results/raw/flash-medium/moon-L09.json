@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled, mistyped, or encoded (`wohq sht4irst9oosn9o3xl\\no twd mx0nf`). \n\nCould you please clarify or rephrase what you need help with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 696,
+  "reasoning_output_tokens": 322
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.6,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "moon-L09"
+}

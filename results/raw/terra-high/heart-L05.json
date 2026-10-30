@@ -1,0 +1,17 @@
+{
+ "response": "The **heart** pumps blood through the body\u2019s arteries and veins.",
+ "usage": {
+  "input_tokens": 10027,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 47,
+  "reasoning_output_tokens": 27
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.9,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "heart-L05"
+}

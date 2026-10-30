@@ -1,0 +1,17 @@
+{
+ "response": "If you mean **South America**, it\u2019s the **Amazon River**. If you mean **North America**, it\u2019s the **Missouri River**.",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 553,
+  "reasoning_output_tokens": 516
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 66.1,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "amazon-L04"
+}

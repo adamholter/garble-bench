@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat\u2019s the tallest mountain above sea level?\u201d it\u2019s Mount Everest, at 8,848.86 m (29,031.7 ft).",
+ "usage": {
+  "input_tokens": 9385,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 542,
+  "reasoning_output_tokens": 502
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.9,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "everest-L06"
+}

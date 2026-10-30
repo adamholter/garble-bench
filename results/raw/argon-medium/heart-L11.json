@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed accidentally. How can I help you today?\n",
+ "usage": {
+  "input_tokens": 7013,
+  "output_tokens": 260,
+  "reasoning_output_tokens": 119
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.5,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "heart-L11"
+}

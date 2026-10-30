@@ -1,0 +1,11 @@
+{
+ "response": "I couldn\u2019t make out your message. I\u2019ll check the workspace for context.\n",
+ "usage": {},
+ "error": "",
+ "tools": [],
+ "seconds": 12.6,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "speed-L07"
+}

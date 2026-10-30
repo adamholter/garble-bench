@@ -1,0 +1,15 @@
+{
+ "response": "Assuming you meant **\"What is the main language spoken in Brazil?\"**, the answer is **Portuguese** (specifically Brazilian Portuguese).\n\n* **Official & Primary Language:** Spoken by nearly 99% of the population, making Brazil the largest Portuguese-speaking country in the world and the only Portuguese-speaking nation in the Americas.\n* **Other Languages:**\n  * **Libras (Brazilian Sign Language):** Recognized as an official means of communication and expression for the deaf community.\n  * **Indigenous Languages:** Over 150 indigenous languages are spoken (such as Nheengatu, Guarani, and Tikuna), with some holding co-official status in specific municipalities.\n  * **Immigrant/Minority Languages:** Languages like Hunsrik and Pomeranian (German dialects), Talian (Venetian dialect), Japanese, and Spanish are also spoken in various communities.\n",
+ "usage": {
+  "input_tokens": 6985,
+  "output_tokens": 184,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.3,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "brazil-L04"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Leonardo da Vinci painted the *Mona Lisa*.",
+ "usage": {
+  "input_tokens": 10068,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 73,
+  "reasoning_output_tokens": 56
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.8,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "mona-L02"
+}

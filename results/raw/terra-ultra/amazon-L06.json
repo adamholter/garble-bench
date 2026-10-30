@@ -1,0 +1,17 @@
+{
+ "response": "The **Missouri River** is generally considered the longest individual river in North America, at about 2,300 miles (3,700 km). The combined Mississippi\u2013Missouri river system is longer.",
+ "usage": {
+  "input_tokens": 10058,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 256,
+  "reasoning_output_tokens": 209
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.1,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "amazon-L06"
+}

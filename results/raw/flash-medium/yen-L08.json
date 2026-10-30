@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled, encrypted, or typed by accident. \n\nCould you please clarify or rephrase what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 2050,
+  "output_tokens": 744,
+  "reasoning_output_tokens": 356
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.3,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "yen-L08"
+}

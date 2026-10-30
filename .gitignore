@@ -1,0 +1,14 @@
+.garble-work/
+__pycache__/
+*.pyc
+.DS_Store
+design/
+site-host/dist/
+site/data.json
+results/*.log
+results/RUN_DONE*
+results/raw/grok-*/
+launch/
+site-host/
+results/raw/*/*.err
+results/grades/grok-*

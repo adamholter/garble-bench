@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed accidentally or corrupted. \n\nCould you please clarify or restate what you need assistance with?\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 1790,
+  "reasoning_output_tokens": 881
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.2,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "mona-L07"
+}

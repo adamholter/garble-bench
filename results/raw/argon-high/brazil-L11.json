@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed accidentally or got garbled (`w=ntal sgme/amiwj elqgnufegoowk-bniexi'l]`). \n\nCould you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 7109,
+  "reasoning_output_tokens": 3526
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 48.4,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "brazil-L11"
+}

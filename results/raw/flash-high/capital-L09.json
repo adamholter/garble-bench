@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message was distorted by typos or keyboard noise. Deciphering the query as:\n\n> **\"List the capital / exact location / localization: country = Australia\"**  \n> *(or Austria)*\n\nHere are the answers based on the likely interpretations:\n\n### 1. Capital City\n* **Australia**: **Canberra**\n  * *Coordinates*: `35.2809\u00b0 S, 149.1300\u00b0 E`\n* *(If Austria)*: **Vienna**\n  * *Coordinates*: `48.2082\u00b0 N, 16.3738\u00b0 E`\n\n---\n\n### 2. Australian State & Territory Capitals\n| State / Territory | Capital |\n| :--- | :--- |\n| **Australian Capital Territory** | **Canberra** (National Capital) |\n| **New South Wales** | **Sydney** |\n| **Victoria** | **Melbourne** |\n| **Queensland** | **Brisbane** |\n| **Western Australia** | **Perth** |\n| **South Australia** | **Adelaide** |\n| **Tasmania** | **Hobart** |\n| **Northern Territory** | **Darwin** |\n\n---\n\n### 3. Localization Settings (`en_AU`)\n* **Locale identifier**: `en_AU` / `en-AU`\n* **Currency**: Australian Dollar (`AUD`, `$`)\n* **Date format**: `DD/MM/YYYY`\n\n---\n\n*If you intended to ask something else, please let me know!*\n",
+ "usage": {
+  "input_tokens": 6977,
+  "output_tokens": 32786,
+  "reasoning_output_tokens": 16224
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 148.0,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "capital-L09"
+}

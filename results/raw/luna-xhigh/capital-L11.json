@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m not sure what you mean by \u201cAahl s5ehxaxlizat/icry=0uasv65.s.\u201d Could you rephrase or resend it?",
+ "usage": {
+  "input_tokens": 9379,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 746,
+  "reasoning_output_tokens": 705
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.4,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "capital-L11"
+}

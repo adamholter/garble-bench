@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been mistyped or garbled. \n\nCould you please clarify what you would like help with?\n",
+ "usage": {
+  "input_tokens": 7004,
+  "output_tokens": 1934,
+  "reasoning_output_tokens": 953
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 14.6,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "apples-L08"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out that message. Could you resend it?",
+ "usage": {
+  "input_tokens": 9387,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1172,
+  "reasoning_output_tokens": 1153
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 38.5,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "brazil-L09"
+}

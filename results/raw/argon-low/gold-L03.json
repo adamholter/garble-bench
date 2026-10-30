@@ -1,0 +1,15 @@
+{
+ "response": "The chemical symbol for gold on the periodic table is **Au** (from the Latin word for gold, *aurum*). Its atomic number is 79.\n",
+ "usage": {
+  "input_tokens": 2054,
+  "output_tokens": 37,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.8,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "gold-L03"
+}

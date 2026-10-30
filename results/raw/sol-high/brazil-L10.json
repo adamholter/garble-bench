@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase that? I couldn\u2019t tell what you\u2019d like me to do.",
+ "usage": {
+  "input_tokens": 10076,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 81,
+  "reasoning_output_tokens": 57
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 23.8,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "brazil-L10"
+}

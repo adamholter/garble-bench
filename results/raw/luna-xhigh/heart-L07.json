@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t tell what you\u2019re asking from that text. Could you resend your request?",
+ "usage": {
+  "input_tokens": 9403,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 495,
+  "reasoning_output_tokens": 471
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.1,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "heart-L07"
+}

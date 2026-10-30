@@ -1,0 +1,15 @@
+{
+ "response": "The warmest ocean on Earth is the **Indian Ocean**. \n\nIts surface water temperatures, especially near the equator and in areas like the Persian Gulf and Red Sea, regularly reach 28\u00b0C to 30\u00b0C (82\u00b0F to 86\u00b0F) and can sometimes exceed 35\u00b0C (95\u00b0F) in enclosed shallow regions.\n",
+ "usage": {
+  "input_tokens": 6969,
+  "output_tokens": 78,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "ocean-L05"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "A spider has **8 legs**.\n",
+ "usage": {
+  "input_tokens": 2870,
+  "output_tokens": 129,
+  "reasoning_output_tokens": 59
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.4,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "spider-L00"
+}

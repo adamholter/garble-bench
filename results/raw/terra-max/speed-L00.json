@@ -1,0 +1,17 @@
+{
+ "response": "Light travels at roughly **300,000 kilometers per second** in a vacuum. Its exact speed is 299,792.458 km/s.",
+ "usage": {
+  "input_tokens": 10005,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 62,
+  "reasoning_output_tokens": 27
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.9,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "speed-L00"
+}

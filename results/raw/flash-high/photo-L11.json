@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been scrambled, mistyped, or sent accidentally:\n\n> `Dhr4agq iod;al4cxos4 bc3obnnwa99r;otraeh vot6t4ysbehis`\n\nIf you were trying to request an image, photo, or drawing (or something else entirely), could you please clarify or retype what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6986,
+  "output_tokens": 32859,
+  "reasoning_output_tokens": 16386
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 140.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "photo-L11"
+}

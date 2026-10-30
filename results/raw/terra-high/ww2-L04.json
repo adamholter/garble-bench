@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking when World War II ended, it ended in **1945**. If \u201cixSldWa4iI\u201d refers to something else, could you clarify what you mean?",
+ "usage": {
+  "input_tokens": 10002,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 134,
+  "reasoning_output_tokens": 88
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.9,
+ "config": "terra-high",
+ "model": "gpt-6.1-terra",
+ "effort": "high",
+ "item": "ww2-L04"
+}

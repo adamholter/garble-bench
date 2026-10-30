@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand your message\u2014it looks like some characters may have been mistyped. Could you please send it again?",
+ "usage": {
+  "input_tokens": 10089,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 71,
+  "reasoning_output_tokens": 41
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 26.0,
+ "config": "terra-ultra",
+ "model": "gpt-6.1-terra",
+ "effort": "ultra",
+ "item": "apples-L08"
+}

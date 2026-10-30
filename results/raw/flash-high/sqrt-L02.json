@@ -1,0 +1,15 @@
+{
+ "response": "The square root of 144 is **12** (or **\u00b112**, with 12 being the principal square root).\n",
+ "usage": {
+  "input_tokens": 6970,
+  "output_tokens": 292,
+  "reasoning_output_tokens": 131
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.6,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "sqrt-L02"
+}

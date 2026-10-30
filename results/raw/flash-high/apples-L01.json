@@ -1,0 +1,15 @@
+{
+ "response": "Assuming \"there\" is a typo for **three**:\n\n1. **Start:** 3 apples  \n2. **Buy 5 more:** 3 + 5 = 8 apples  \n3. **Eat 2:** 8 \u2212 2 = 6 apples  \n\nYou have **6** apples left.\n",
+ "usage": {
+  "input_tokens": 6985,
+  "output_tokens": 905,
+  "reasoning_output_tokens": 419
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.8,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "apples-L01"
+}

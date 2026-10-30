@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand your message. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 185,
+  "reasoning_output_tokens": 166
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 59.5,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "moon-L10"
+}

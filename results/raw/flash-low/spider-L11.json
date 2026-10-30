@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might be scrambled or typed with a keyboard offset. Could you please clarify or rephrase your request? I'm ready to help!\n",
+ "usage": {
+  "input_tokens": 6969,
+  "output_tokens": 32,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "spider-L11"
+}

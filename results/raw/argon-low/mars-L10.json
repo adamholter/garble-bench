@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be scrambled or encoded, or perhaps typed with a different keyboard layout (like Dvorak/Colemak) or as a cipher. \n\nCould you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 7001,
+  "output_tokens": 51,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.1,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mars-L10"
+}

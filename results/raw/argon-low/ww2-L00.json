@@ -1,0 +1,15 @@
+{
+ "response": "World War II ended in **1945** (with the formal surrender of Japan on September 2, 1945).\n",
+ "usage": {
+  "input_tokens": 2885,
+  "output_tokens": 33,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 8.4,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "ww2-L00"
+}

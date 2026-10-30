@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out the message. Could you retype it?",
+ "usage": {
+  "input_tokens": 9390,
+  "cached_input_tokens": 0,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 688,
+  "reasoning_output_tokens": 668
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 31.2,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "gold-L06"
+}

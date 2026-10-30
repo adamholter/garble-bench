@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be scrambled, corrupted, or encrypted. \n\nCould you please clarify what you need assistance with or resend your request in plain text?\n",
+ "usage": {
+  "input_tokens": 6994,
+  "output_tokens": 4344,
+  "reasoning_output_tokens": 2155
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.7,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "gold-L10"
+}

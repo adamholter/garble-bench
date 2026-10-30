@@ -1,0 +1,17 @@
+{
+ "response": "If you mean the speed of light in a vacuum, it\u2019s exactly **299,792.458 kilometres per second**.",
+ "usage": {
+  "input_tokens": 10084,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 814,
+  "reasoning_output_tokens": 783
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 62.3,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "speed-L06"
+}

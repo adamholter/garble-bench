@@ -1,0 +1,17 @@
+{
+ "response": "N\u00e3o consegui entender a mensagem. Pode escrev\u00ea-la novamente?",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 261,
+  "reasoning_output_tokens": 242
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.3,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "mona-L05"
+}

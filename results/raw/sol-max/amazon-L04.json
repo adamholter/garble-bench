@@ -1,0 +1,17 @@
+{
+ "response": "In **North America**, the longest river is the **Missouri River**. If you meant **South America**, it\u2019s the **Amazon River**.",
+ "usage": {
+  "input_tokens": 10073,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 1728,
+  "reasoning_output_tokens": 1691
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 82.1,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "amazon-L04"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "About **300,000 kilometers per second**.",
+ "usage": {
+  "input_tokens": 10005,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 59,
+  "reasoning_output_tokens": 43
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 14.9,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "speed-L00"
+}

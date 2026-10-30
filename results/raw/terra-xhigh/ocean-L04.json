@@ -1,0 +1,17 @@
+{
+ "response": "The **Indian Ocean** is the warmest ocean on Earth. Much of it lies in tropical regions, where the water receives strong sunlight year-round.",
+ "usage": {
+  "input_tokens": 10006,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 95,
+  "reasoning_output_tokens": 59
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 22.6,
+ "config": "terra-xhigh",
+ "model": "gpt-6.1-terra",
+ "effort": "xhigh",
+ "item": "ocean-L04"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The square root of 144 is **12** (since $12 \\times 12 = 144$).\n",
+ "usage": {
+  "input_tokens": 6973,
+  "output_tokens": 33,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.9,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "sqrt-L00"
+}

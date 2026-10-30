@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand your message. Could you resend it or clarify what you\u2019d like help with?",
+ "usage": {
+  "input_tokens": 10053,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 126,
+  "reasoning_output_tokens": 100
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.3,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "mona-L10"
+}

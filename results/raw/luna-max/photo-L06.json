@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t make out that message. Could you resend it in plain text, or tell me what cipher to use?",
+ "usage": {
+  "input_tokens": 31041,
+  "cached_input_tokens": 25216,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 2571,
+  "reasoning_output_tokens": 2353
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 68.2,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "photo-L06"
+}

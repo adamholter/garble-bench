@@ -1,0 +1,17 @@
+{
+ "response": "The **heart** pumps blood through the body. **Arteries** carry blood away from the heart, and **veins** carry it back.",
+ "usage": {
+  "input_tokens": 10077,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 552,
+  "reasoning_output_tokens": 516
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 38.4,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "heart-L06"
+}

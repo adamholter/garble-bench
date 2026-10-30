@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase or resend that? I couldn\u2019t tell what you\u2019d like me to do.",
+ "usage": {
+  "input_tokens": 10005,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 109,
+  "reasoning_output_tokens": 83
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.5,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "sqrt-L07"
+}

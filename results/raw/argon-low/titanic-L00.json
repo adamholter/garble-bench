@@ -1,0 +1,15 @@
+{
+ "response": "The Titanic sank in **1912** (specifically on the morning of April 15, 1912).\n",
+ "usage": {
+  "input_tokens": 6971,
+  "output_tokens": 31,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.5,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "titanic-L00"
+}

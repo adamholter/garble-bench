@@ -1,0 +1,15 @@
+{
+ "response": "The longest river in South America is the **Amazon River**, which stretches approximately 6,400 kilometers (4,000 miles) from the Andes Mountains in Peru to the Atlantic Ocean in Brazil. It is also the largest river in the world by water discharge volume.\n",
+ "usage": {
+  "input_tokens": 6976,
+  "output_tokens": 61,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.5,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "amazon-L00"
+}

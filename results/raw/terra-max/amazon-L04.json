@@ -1,0 +1,17 @@
+{
+ "response": "The **Missouri River** is the longest river in North America, at about **2,340 miles (3,770 km)** long. It joins the Mississippi River, forming North America\u2019s longest river system.",
+ "usage": {
+  "input_tokens": 10009,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 769,
+  "reasoning_output_tokens": 720
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 48.8,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "amazon-L04"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Water freezes at **32 degrees Fahrenheit (32\u00b0F)**.",
+ "usage": {
+  "input_tokens": 10004,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 107,
+  "reasoning_output_tokens": 89
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 41.2,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "freeze-L01"
+}

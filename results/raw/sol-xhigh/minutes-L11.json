@@ -1,0 +1,17 @@
+{
+ "response": "Could you resend or rephrase your message? I couldn\u2019t make out the request.",
+ "usage": {
+  "input_tokens": 10076,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 135,
+  "reasoning_output_tokens": 112
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 25.6,
+ "config": "sol-xhigh",
+ "model": "gpt-6.1-sol",
+ "effort": "xhigh",
+ "item": "minutes-L11"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Japan\u2019s currency is the **Japanese yen (JPY)**, represented by **\u00a5**.",
+ "usage": {
+  "input_tokens": 10006,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 66,
+  "reasoning_output_tokens": 42
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.2,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "yen-L01"
+}

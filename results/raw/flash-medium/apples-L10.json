@@ -1,0 +1,15 @@
+{
+ "response": "Decoded from the keyboard-noise corrupted text:\n\n> **\"If I have 5 apples and eat 2, how many apples do I have left?\"**\n\n---\n\n### **Answer:**\n\n$$5 - 2 = 3$$\n\nYou have **3 apples** left.\n\n*(If the problem intended eating 3 apples, you would have **2 apples** left).*\n",
+ "usage": {
+  "input_tokens": 2075,
+  "output_tokens": 77282,
+  "reasoning_output_tokens": 38601
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 309.0,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "apples-L10"
+}

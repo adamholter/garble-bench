@@ -1,0 +1,15 @@
+{
+ "response": "It looks like you're asking: **\"What is the longest river in South America?\"** (or North America).\n\nHere are the answers for both:\n\n* **South America:** The **Amazon River** is the longest river in South America (and the largest river in the world by water volume), flowing approximately **6,400 km (3,977 miles)**\u2014with some measurements citing up to 6,992 km (4,345 miles).\n* **North America:** The **Missouri River** is the longest individual river at approximately **3,767 km (2,341 miles)**, while the combined **Mississippi\u2013Missouri river system** totals about **6,275 km (3,902 miles)**.\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 6616,
+  "reasoning_output_tokens": 3226
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 32.7,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "amazon-L06"
+}

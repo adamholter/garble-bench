@@ -1,0 +1,17 @@
+{
+ "response": "Canberra.",
+ "usage": {
+  "input_tokens": 9996,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 7,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.8,
+ "config": "terra-low",
+ "model": "gpt-6.1-terra",
+ "effort": "low",
+ "item": "capital-L00"
+}

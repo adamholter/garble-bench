@@ -1,0 +1,15 @@
+{
+ "response": "The tallest mountain in the world **above sea level** is **Mount Everest**.\n\n* **Elevation:** **8,848.86 meters (29,031.7 feet)** above sea level (officially updated in 2020 by a joint survey between Nepal and China).\n* **Location:** The Mahalangur Himal sub-range of the Himalayas, on the border between Nepal and the Tibet Autonomous Region of China.\n\n*(Note: While **Mauna Kea** in Hawaii is taller when measured from its underwater base on the ocean floor to its peak at ~10,210 meters / 33,500 feet, only 4,207 meters / 13,803 feet of it sits above sea level\u2014making Mount Everest the highest above sea level.)*\n",
+ "usage": {
+  "input_tokens": 6999,
+  "output_tokens": 2415,
+  "reasoning_output_tokens": 1118
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.3,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "everest-L07"
+}

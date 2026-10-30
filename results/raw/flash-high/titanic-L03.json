@@ -1,0 +1,15 @@
+{
+ "response": "The RMS *Titanic* sank in **1912** (in the early morning hours of April 15, after striking an iceberg on the night of April 14).\n",
+ "usage": {
+  "input_tokens": 6962,
+  "output_tokens": 442,
+  "reasoning_output_tokens": 202
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.4,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "titanic-L03"
+}

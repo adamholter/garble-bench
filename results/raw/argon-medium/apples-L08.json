@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been typed with a different keyboard layout or got scrambled! Could you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 7020,
+  "output_tokens": 34,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.5,
+ "config": "argon-medium",
+ "model": "gemini-4-argon",
+ "effort": "medium",
+ "item": "apples-L08"
+}

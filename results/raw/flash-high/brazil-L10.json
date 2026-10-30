@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been scrambled or typed by mistake:\n\n> `w=ntal sgme/ amiwj elqgnufegoowk-bniexi'l]`\n\nCould you please clarify or retype what you would like help with?\n",
+ "usage": {
+  "input_tokens": 6982,
+  "output_tokens": 3218,
+  "reasoning_output_tokens": 1581
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.1,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "brazil-L10"
+}

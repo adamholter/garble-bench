@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat\u2019s the warmest ocean on Earth?\u201d it\u2019s the **Indian Ocean**, which has the highest average surface temperature.",
+ "usage": {
+  "input_tokens": 10052,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 550,
+  "reasoning_output_tokens": 516
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.0,
+ "config": "astra-ultra",
+ "model": "gpt-6-astra",
+ "effort": "ultra",
+ "item": "ocean-L06"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "If you mean the **warmest ocean**, it\u2019s the **Indian Ocean**.",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 857,
+  "reasoning_output_tokens": 834
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 19.3,
+ "config": "terra-max",
+ "model": "gpt-6.1-terra",
+ "effort": "max",
+ "item": "ocean-L06"
+}

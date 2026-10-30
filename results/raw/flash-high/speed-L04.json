@@ -1,0 +1,15 @@
+{
+ "response": "In a vacuum, light travels at approximately **300,000 kilometers per second** (exact value: **299,792 km/s** or 299,792,458 m/s).\n",
+ "usage": {
+  "input_tokens": 2046,
+  "output_tokens": 2101,
+  "reasoning_output_tokens": 1024
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 15.9,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "speed-L04"
+}

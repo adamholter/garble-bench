@@ -1,0 +1,17 @@
+{
+ "response": "If you\u2019re asking which organ pumps blood through the human body, it\u2019s the **heart**. Arteries carry blood away from the heart, and veins carry it back.",
+ "usage": {
+  "input_tokens": 10141,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 861,
+  "reasoning_output_tokens": 820
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 37.7,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "heart-L06"
+}

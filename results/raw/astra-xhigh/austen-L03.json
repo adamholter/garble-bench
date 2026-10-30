@@ -1,0 +1,17 @@
+{
+ "response": "Jane Austen wrote *Pride and Prejudice*, published in 1813.",
+ "usage": {
+  "input_tokens": 10006,
+  "cached_input_tokens": 4224,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 80,
+  "reasoning_output_tokens": 58
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 21.5,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "austen-L03"
+}

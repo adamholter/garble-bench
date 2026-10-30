@@ -1,0 +1,17 @@
+{
+ "response": "I can\u2019t quite parse that. Did you mean, \u201cWhat\u2019s the name of the user in Japanese?\u201d If so, which user?",
+ "usage": {
+  "input_tokens": 9386,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 390,
+  "reasoning_output_tokens": 356
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 26.1,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "yen-L04"
+}

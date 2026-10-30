@@ -1,0 +1,15 @@
+{
+ "response": "There are **1,440 minutes** in one full day (24 hours \u00d7 60 minutes).\n",
+ "usage": {
+  "input_tokens": 2042,
+  "output_tokens": 200,
+  "reasoning_output_tokens": 88
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 5.2,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "minutes-L01"
+}

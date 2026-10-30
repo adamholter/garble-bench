@@ -1,0 +1,17 @@
+{
+ "response": "The **heart** pumps blood through the arteries and veins in the human body.",
+ "usage": {
+  "input_tokens": 10027,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 39,
+  "reasoning_output_tokens": 17
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 9.3,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "heart-L05"
+}

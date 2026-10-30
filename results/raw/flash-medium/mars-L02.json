@@ -1,0 +1,15 @@
+{
+ "response": "**Mars** is known as the \"Red Planet.\"\n",
+ "usage": {
+  "input_tokens": 6975,
+  "output_tokens": 261,
+  "reasoning_output_tokens": 125
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.4,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "mars-L02"
+}

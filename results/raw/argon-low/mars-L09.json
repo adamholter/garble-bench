@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may have been garbled or typed with a different keyboard layout (the end resembles \"back the Empire\", or perhaps *Star Wars: The Empire Strikes Back*). \n\nCould you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6992,
+  "output_tokens": 54,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.2,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mars-L09"
+}

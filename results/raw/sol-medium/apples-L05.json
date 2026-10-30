@@ -1,0 +1,17 @@
+{
+ "response": "If you start with 3 apples, buy 5 more, and eat 2, you have **6 apples left**: 3 + 5 \u2212 2 = 6.",
+ "usage": {
+  "input_tokens": 10090,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 198,
+  "reasoning_output_tokens": 154
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 26.0,
+ "config": "sol-medium",
+ "model": "gpt-6.1-sol",
+ "effort": "medium",
+ "item": "apples-L05"
+}

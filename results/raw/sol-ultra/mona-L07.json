@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase or resend your message? I couldn\u2019t understand it.",
+ "usage": {
+  "input_tokens": 10116,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 118,
+  "reasoning_output_tokens": 97
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 12.2,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "mona-L07"
+}

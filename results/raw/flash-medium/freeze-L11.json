@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be scrambled or corrupted (`1 /9 s64fqr4ekxkh gopjtnp fdqren. 7e4berede tRa6merhj4ti`). \n\nCould you please clarify or rephrase what you would like help with?\n",
+ "usage": {
+  "input_tokens": 2046,
+  "output_tokens": 3966,
+  "reasoning_output_tokens": 1952
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 22.6,
+ "config": "flash-medium",
+ "model": "gemini-3.8-flash",
+ "effort": "medium",
+ "item": "freeze-L11"
+}

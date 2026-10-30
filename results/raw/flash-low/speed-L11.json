@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might have been typed with mismatched keyboard mapping or unintentional keystrokes. \n\nCould you please clarify or retype what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 36,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.0,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "speed-L11"
+}

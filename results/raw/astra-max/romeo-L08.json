@@ -1,0 +1,17 @@
+{
+ "response": "Could you rephrase that? I\u2019m not sure what you\u2019d like me to do.",
+ "usage": {
+  "input_tokens": 10007,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 167,
+  "reasoning_output_tokens": 143
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 18.0,
+ "config": "astra-max",
+ "model": "gpt-6-astra",
+ "effort": "max",
+ "item": "romeo-L08"
+}

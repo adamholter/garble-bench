@@ -1,0 +1,17 @@
+{
+ "response": "A full day has **86,400 seconds**. Bytes depend on the data rate: at **1 byte per second**, that\u2019s **86,400 bytes**.",
+ "usage": {
+  "input_tokens": 9373,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 357,
+  "reasoning_output_tokens": 317
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.0,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "minutes-L04"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "Could you clarify what you\u2019d like me to do with \u201cownnaleg6 sdo3qa spde5hz2\u201d?",
+ "usage": {
+  "input_tokens": 10003,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 44,
+  "reasoning_output_tokens": 12
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 28.3,
+ "config": "astra-high",
+ "model": "gpt-6-astra",
+ "effort": "high",
+ "item": "spider-L08"
+}

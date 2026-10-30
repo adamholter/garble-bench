@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message was:\n\n> **\"What is the freezing point of water in degrees Fahrenheit?\"**\n\nThe freezing point of water is **32\u00b0F** (0\u00b0C).\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 15549,
+  "reasoning_output_tokens": 7754
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 69.6,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "freeze-L07"
+}

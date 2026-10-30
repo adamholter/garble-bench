@@ -1,0 +1,17 @@
+{
+ "response": "Could you retype or rephrase that? I couldn\u2019t make out the request.",
+ "usage": {
+  "input_tokens": 10016,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 218,
+  "reasoning_output_tokens": 195
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 42.8,
+ "config": "astra-xhigh",
+ "model": "gpt-6-astra",
+ "effort": "xhigh",
+ "item": "everest-L07"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The largest ocean on Earth is the **Pacific Ocean**. \n\nIt covers more than 60 million square miles (over 155 million square kilometers)\u2014accounting for more than 30% of the Earth's surface and exceeding the total land area of all continents combined.\n",
+ "usage": {
+  "input_tokens": 6972,
+  "output_tokens": 560,
+  "reasoning_output_tokens": 251
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.0,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "ocean-L02"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The square root of 144 is **12**.\n",
+ "usage": {
+  "input_tokens": 6970,
+  "output_tokens": 175,
+  "reasoning_output_tokens": 81
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.4,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "sqrt-L04"
+}

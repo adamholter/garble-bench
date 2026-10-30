@@ -1,0 +1,17 @@
+{
+ "response": "I\u2019m having trouble understanding that message. Could you rephrase it?",
+ "usage": {
+  "input_tokens": 9386,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 486,
+  "reasoning_output_tokens": 466
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.7,
+ "config": "luna-high",
+ "model": "gpt-6-luna",
+ "effort": "high",
+ "item": "photo-L06"
+}

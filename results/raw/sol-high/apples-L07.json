@@ -1,0 +1,17 @@
+{
+ "response": "If you mean you have **10 apples**, get **5 more**, then eat **2**, you have **13 apples left**.\n\n10 + 5 \u2212 2 = 13.",
+ "usage": {
+  "input_tokens": 10096,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 409,
+  "reasoning_output_tokens": 365
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 34.4,
+ "config": "sol-high",
+ "model": "gpt-6.1-sol",
+ "effort": "high",
+ "item": "apples-L07"
+}

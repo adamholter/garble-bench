@@ -1,0 +1,17 @@
+{
+ "response": "World War II ended in **1945**. Germany surrendered in May, and Japan formally surrendered on September 2.",
+ "usage": {
+  "input_tokens": 9374,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 72,
+  "reasoning_output_tokens": 42
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 24.6,
+ "config": "luna-xhigh",
+ "model": "gpt-6-luna",
+ "effort": "xhigh",
+ "item": "ww2-L01"
+}

@@ -1,0 +1,15 @@
+{
+ "response": "The chemical symbol for gold on the periodic table is **Au** (derived from the Latin word *aurum*).\n",
+ "usage": {
+  "input_tokens": 6983,
+  "output_tokens": 187,
+  "reasoning_output_tokens": 80
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.2,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "gold-L00"
+}

@@ -1,0 +1,17 @@
+{
+ "response": "I couldn\u2019t understand your message. Could you retype your request?",
+ "usage": {
+  "input_tokens": 20701,
+  "cached_input_tokens": 18432,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 314,
+  "reasoning_output_tokens": 212
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.5,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "speed-L06"
+}

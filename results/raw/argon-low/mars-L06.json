@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message is garbled or encoded (possibly a cipher, anagram, or keyboard layout mismatch). \n\nCould you please clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 40,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.2,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "mars-L06"
+}

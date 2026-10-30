@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message might contain random characters or an unintentional typo (`w-ohq sht4jsrt9oosn983xl\\notwd 'mx0nf`). \n\nCould you please clarify what you'd like help with or rephrase your request?\n",
+ "usage": {
+  "input_tokens": 6979,
+  "output_tokens": 56,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.2,
+ "config": "flash-low",
+ "model": "gemini-3.8-flash",
+ "effort": "low",
+ "item": "moon-L11"
+}

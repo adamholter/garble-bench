@@ -1,0 +1,17 @@
+{
+ "response": "Gold\u2019s chemical symbol is **Au**.",
+ "usage": {
+  "input_tokens": 9372,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 35,
+  "reasoning_output_tokens": 20
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 29.1,
+ "config": "luna-max",
+ "model": "gpt-6-luna",
+ "effort": "max",
+ "item": "gold-L00"
+}

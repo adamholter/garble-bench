@@ -1,0 +1,17 @@
+{
+ "response": "The four oceans on Earth are the Pacific, Atlantic, Indian, and Arctic. Many people also count the Southern Ocean as a fifth.",
+ "usage": {
+  "input_tokens": 9376,
+  "cached_input_tokens": 7680,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 31,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 6.7,
+ "config": "luna-low",
+ "model": "gpt-6-luna",
+ "effort": "low",
+ "item": "ocean-L04"
+}

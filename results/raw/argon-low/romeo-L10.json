@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message (`Ellbyr1rhp4e Gpnmwj~ulc7eg`) might be encoded, a typo, or a test string. Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 6991,
+  "output_tokens": 51,
+  "reasoning_output_tokens": 0
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 7.3,
+ "config": "argon-low",
+ "model": "gemini-4-argon",
+ "effort": "low",
+ "item": "romeo-L10"
+}

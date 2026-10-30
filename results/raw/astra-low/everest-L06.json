@@ -1,0 +1,17 @@
+{
+ "response": "If you mean \u201cWhat is the tallest mountain in the world above sea level?\u201d\u2014it\u2019s **Mount Everest**, at **8,848.86 metres (29,031.7 feet)** above sea level.",
+ "usage": {
+  "input_tokens": 10013,
+  "cached_input_tokens": 8320,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 102,
+  "reasoning_output_tokens": 53
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 20.9,
+ "config": "astra-low",
+ "model": "gpt-6-astra",
+ "effort": "low",
+ "item": "everest-L06"
+}

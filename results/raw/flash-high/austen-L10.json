@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message may be jumbled, encrypted, or entered by mistake (`w~h3or64ehbvo l-tdi2ajm dpery7flv3`). \n\nCould you please clarify what you need assistance with or provide more context?\n",
+ "usage": {
+  "input_tokens": 2044,
+  "output_tokens": 2584,
+  "reasoning_output_tokens": 1263
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 13.9,
+ "config": "flash-high",
+ "model": "gemini-3.8-flash",
+ "effort": "high",
+ "item": "austen-L10"
+}

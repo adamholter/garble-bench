@@ -1,0 +1,17 @@
+{
+ "response": "If you started with **3 apples**, you\u2019d have **6 apples left**: 3 + 5 \u2212 2 = 6.",
+ "usage": {
+  "input_tokens": 10090,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 988,
+  "reasoning_output_tokens": 953
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 40.2,
+ "config": "sol-max",
+ "model": "gpt-6.1-sol",
+ "effort": "max",
+ "item": "apples-L05"
+}

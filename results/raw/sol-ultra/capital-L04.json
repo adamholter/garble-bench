@@ -1,0 +1,17 @@
+{
+ "response": "The capital of Australia is **Canberra**.",
+ "usage": {
+  "input_tokens": 10114,
+  "cached_input_tokens": 8448,
+  "cache_write_input_tokens": 0,
+  "output_tokens": 55,
+  "reasoning_output_tokens": 39
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 33.0,
+ "config": "sol-ultra",
+ "model": "gpt-6.1-sol",
+ "effort": "ultra",
+ "item": "capital-L04"
+}

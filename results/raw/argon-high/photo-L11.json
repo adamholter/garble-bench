@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled text or accidental keystrokes. Could you clarify what you'd like help with?\n",
+ "usage": {
+  "input_tokens": 2069,
+  "output_tokens": 3805,
+  "reasoning_output_tokens": 1887
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 30.9,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "photo-L11"
+}

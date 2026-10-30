@@ -1,0 +1,15 @@
+{
+ "response": "It looks like your message came through as garbled or random characters (`3h]abttw 064c[meihdla 2simylodrog/l,d=bhte]4ir8id matb1if`). \n\nCould you please clarify what you'd like help with, or let me know if this is an encoded string you'd like me to analyze with specific rules?\n",
+ "usage": {
+  "input_tokens": 7000,
+  "output_tokens": 32435,
+  "reasoning_output_tokens": 16172
+ },
+ "error": "",
+ "tools": [],
+ "seconds": 181.6,
+ "config": "argon-high",
+ "model": "gemini-4-argon",
+ "effort": "high",
+ "item": "gold-L11"
+}
